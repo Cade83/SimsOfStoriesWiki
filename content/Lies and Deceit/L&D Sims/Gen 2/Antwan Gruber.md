@@ -1,0 +1,41 @@
+> [!infobox]+ Collapsible Infobox
+> # Antwan Gruber
+> ![[Antwan Gen 2.png]] 
+> ###### Names 
+> | Type | Stat | 
+> | ---- | ---- | 
+> | Full Name | Antwan Gruber | 
+>
+> ##### Biographical Information
+> | Type | Stat | 
+> | ---- | ---- | 
+> | Gender | Male | 
+> | Life State | Human |
+> | Generation | [[Second Generation]] |
+> | Relatives | [[Judith-Noelle Gruber]] (Mother)<br>[[Tom Gruber]] (Father)<br>[[Daniel Gruber]] (Older Brother)<br>[[Priscilla Gruber]] (Older Sister)<br>[[Spenser Gruber]] (Older Brother)
+> 
+> ##### Personal Information
+> | Type | Stat | 
+> | ---- | ---- | 
+> | Birthplace |[[Britechester]]| 
+> | Lived In |[[Magnolia Promenade]]| 
+> | Home |[[Gruber Apartment]]| 
+> 
+> ##### Story Info
+> | Type | Stat | 
+> | ---- | ---- | 
+> | Primary Story | [[Lies and Deceit]] | 
+> | Appearance Count | 3 | 
+> | First Appearance | Lies and Deceit *1.1 - Life Goes On*
+
+**Antwan Gruber** is one of the protagonists of the first chapter of [[Lies and Deceit]]. He's the son of [[Judith-Noelle Gruber|Judith-Noelle]] and [[Tom Gruber|Tom]].
+
+## Profile
+
+## Personality
+As the youngest of the four Gruber siblings, Antwan is always babied by his siblings and parents. It's something that bothers Antwan, but this treatment lets him get through to all of his family. He's a voice of reason, an excellent listener, and someone the whole family knows is truthful. He cares deeply for his family in turn, and will always be the first to try to help out where he can.
+
+## Appearances
+
+#### Categories
+#Lies_and_Deceit_Characters #Gruber_Family #Main_Characters #Generation_2_Characters
