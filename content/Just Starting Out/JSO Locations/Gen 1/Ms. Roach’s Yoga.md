@@ -2,12 +2,12 @@
 > # Ms. Roach’s Yoga and Spiritual Guidance
 > ![[G.1.3.6.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Newcrest]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Generation | [[First Generation]]|

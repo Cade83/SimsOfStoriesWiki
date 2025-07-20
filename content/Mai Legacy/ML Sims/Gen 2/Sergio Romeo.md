@@ -2,12 +2,12 @@
 > # Sergio Romeo
 > ![[Romeo Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Sergio Romeo| 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,13 +15,13 @@
 > | Relatives |Paul Romeo (Father)<br>Katherine West (Mother)<br>[[Joaquin Le Chien]] (Ex-Husband)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Windenburg]]| 
 > | Home |[[Romeo House]]<br>[[Le Chien House]]| 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 1 | 

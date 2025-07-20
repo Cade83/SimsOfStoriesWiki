@@ -2,12 +2,12 @@
 > # Bella Goth
 > ![[Bella Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Bella Goth | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Vampire |
@@ -15,14 +15,14 @@
 > | Relatives | [[Mortimer Goth]] (Husband)<br>[[Cassandra Goth]] (Daughter)<br>[[Alexander Goth]] (Brother)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > | Home |[[Goth Mansion]]| 
 > | Career | [[Blue Jays]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Other Appearances | [[Dreams of Fame]] | 
