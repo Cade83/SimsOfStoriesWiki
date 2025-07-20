@@ -2,13 +2,13 @@
 > # Zoe Presley
 > ![[Zoe Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Zoe Presley | 
 > | Alias | Zoe P | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -16,14 +16,14 @@
 > | Relatives | [[Ibrahaim Presley]] (Father)<br>[[Giovanna Cardwell]] (Adoptive Mother)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > | Home | [[Presley House]]| 
 > | Career | Author of the *A Day in the Life of Granny* series | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Other Appearances | [[Courage & Resolve]] | 

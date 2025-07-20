@@ -1,17 +1,13 @@
----
-dg-publish: true
-dg-home: true
----
 > [!infobox]+ Collapsible Infobox
 > # Amelia Brown
 > ![[Amelia Gen 1 V3.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |   |   | 
 > | ---- | ---- | 
 > | Full Name | Amelia Brown | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |   |   | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -19,7 +15,7 @@ dg-home: true
 > | Relatives | [[Samson Brown]] (Husband)<br>[[Jamira Brown]] (Daughter)<br>[[Cory Brown]] (Son)|
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |   |   | 
 > | ---- | ---- | 
 > | Birthplace | [[Brindleton Bay]] | 
 > | Lived In | [[Willow Creek]] | 
@@ -27,7 +23,7 @@ dg-home: true
 > | Career | [[Beauchamp Law]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |   |   | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Other Appearances | [[Dreams of Fame]] | 

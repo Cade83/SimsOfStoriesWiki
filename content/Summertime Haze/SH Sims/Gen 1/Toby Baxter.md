@@ -2,12 +2,12 @@
 > # Toby Baxter
 > ![[Toby Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Toby Baxter | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,7 +15,7 @@
 > | Relatives | [[Hayley Baxter]] (Wife)<br>[[Jennifer Baxter]] (Daughter)<br>[[Nathan Baxter]] (Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Oasis Springs]]| 
 > | Lived In |[[Willow Creek]]| 
@@ -23,10 +23,10 @@
 > | Career | Personal Trainer | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Summertime Haze]] | 
-> | Appearance Count | 14 | 
+> | Appearance Count | 15 | 
 > | First Appearance | Summertime Haze *1.6 - The Counselor's Plan*
 
 **Toby Baxter** is one of the protagonists of the first chapter of [[Summertime Haze]]. He's the husband of [[Hayley Baxter]].
@@ -56,6 +56,6 @@ After high school, Toby went to trade school to be the primary breadwinner while
 | <center><font size=2>The Counselor's Plan<br><font size=3>**Appears**  | <center><font size=2>A Roach<br><font size=3>***Mentioned*** | <center><font size=2>A Budding Friendship<br><font size=3>**Appears** | <center><font size=2>The Baxter Family<br><font size=3>**Appears** | <center><font size=2>People Against Ellen<br><font size=3>**Appears** |
 | <center><font size=2>Hayley<br><font size=3>**Appears**  | <center><font size=2>The Squad<br><font size=3>**Appears** | <center><font size=2>Forbidden Kiss<br><font size=3>**Appears** | <center><font size=2>A Sign From Above<br><font size=3>**Appears** | <center><font size=2>A Change for the Worst<br><font size=3>**Appears** |
 | <center><font size=2>The Bump in the Night<br><font size=3>***Mentioned***   | <center><font size=2>What Would SHE Want?<br><font size=3>**Appears** | <center><font size=2>The Nurse<br><font size=3>**Appears** | <center><font size=2>A Time for Mourning<br><font size=3>**Appears** | <center><font size=2>About Time<br><font size=3>**Appears** |
-| <center><font size=2>The Witch of the Willow<br><font size=3>**Appears**  |
+| <center><font size=2>The Witch of the Willow<br><font size=3>**Appears**  | <center><font size=2>Reflecting<br><font size=3>**Appears**           |
 #### Categories
 #Summertime_Haze_Characters #Baxter_Family #Main_Characters #Generation_1_Characters

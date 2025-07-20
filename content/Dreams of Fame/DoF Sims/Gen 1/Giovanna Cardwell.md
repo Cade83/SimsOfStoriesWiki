@@ -2,13 +2,13 @@
 > # Giovanna Cardwell
 > ![[Giovanna Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Giovanna Cardwell | 
 > | Nicknames | Granny | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human (Generation 1)<br>Ghost (Generation 2+) |
@@ -16,14 +16,14 @@
 > | Relatives | [[Granny's Husband]] (Husband)<br>[[Zoe Presley]] (Adoptive Daughter)<br>[[Travis Scott]] (Adoptive Son)<br>[[Summer Holiday]] (Adoptive Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > | Home | [[Magnolia Blossom]]<br>[[Presley House]]| 
 > | Career | Illustrator and Painter | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Other Appearances | [[Courage & Resolve]] | 
