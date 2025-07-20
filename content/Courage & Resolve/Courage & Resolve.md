@@ -3,21 +3,21 @@ Courage & Resolve is the third occurring Sims Story, featuring the [[Amelia Brow
 ### Chapter 1: Strength of Character
 >*A single mother in a new neighborhood, Amelia works hard to provide for her two children. At work, she's challenged by male coworkers for her drive and later has to try her best to keep everything together when an unsavory character from her past resurfaces and tries to get involved in her life once again.*
 
-[Part 1.1 - Amelia Brown](https://thesimsofstories.weebly.com/11---amelia-brown.html)  
-[Part 1.2 - First Day of a New Life](https://thesimsofstories.weebly.com/12---first-day-of-a-new-life.html)  
-[​Part 1.3 - Charmed by the Willow](https://thesimsofstories.weebly.com/13---charmed-by-the-willow.html)
-[Part 1.4 - A Rival in the Workplace](https://thesimsofstories.weebly.com/14---a-rival-in-the-workplace.html)  
-[​Part 1.5 - Getting Clever](https://thesimsofstories.weebly.com/15---getting-clever.html)  
-[​Part 1.6 - The Beauchamp's Apology](https://thesimsofstories.weebly.com/16---the-beauchamps-apology.html)  
-[​Part 1.7 - Samson](https://thesimsofstories.weebly.com/17---samson.html)  
-[​Part 1.8 - A Man Scorned](https://thesimsofstories.weebly.com/18---a-man-scorned.html)  
-[​Part 1.9 - Strength of Character](https://thesimsofstories.weebly.com/19---strength-of-character.html)
- [Part 1.10 - A Long Owed Explanation](https://thesimsofstories.weebly.com/110---a-long-owed-explanation.html)  
-[Part 1.11 - The Bitterness Within](https://thesimsofstories.weebly.com/111---the-bitterness-within.html)  
-[Part 1.12 - News in the Dead of Night](https://thesimsofstories.weebly.com/112---news-in-the-dead-of-night.html)  
-[Part 1.13 - The Presley Family](https://thesimsofstories.weebly.com/113---the-presley-family.html)   
-[Part 1.14 - Tarnished Memories​](https://thesimsofstories.weebly.com/114---tarnished-memories.html)   
-[Part 1.15 - Headlights in the Night](https://thesimsofstories.weebly.com/115---headlights-in-the-night.html)
+* [Part 1.1 - Amelia Brown](https://thesimsofstories.weebly.com/11---amelia-brown.html)
+* [Part 1.2 - First Day of a New Life](https://thesimsofstories.weebly.com/12---first-day-of-a-new-life.html)  
+* [​Part 1.3 - Charmed by the Willow](https://thesimsofstories.weebly.com/13---charmed-by-the-willow.html)
+* [Part 1.4 - A Rival in the Workplace](https://thesimsofstories.weebly.com/14---a-rival-in-the-workplace.html)  
+* [​Part 1.5 - Getting Clever](https://thesimsofstories.weebly.com/15---getting-clever.html)  
+* [​Part 1.6 - The Beauchamp's Apology](https://thesimsofstories.weebly.com/16---the-beauchamps-apology.html)  
+* [​Part 1.7 - Samson](https://thesimsofstories.weebly.com/17---samson.html)  
+* [​Part 1.8 - A Man Scorned](https://thesimsofstories.weebly.com/18---a-man-scorned.html)
+* [​Part 1.9 - Strength of Character](https://thesimsofstories.weebly.com/19---strength-of-character.html)
+ * [Part 1.10 - A Long Owed Explanation](https://thesimsofstories.weebly.com/110---a-long-owed-explanation.html)  
+* [Part 1.11 - The Bitterness Within](https://thesimsofstories.weebly.com/111---the-bitterness-within.html)  
+* [Part 1.12 - News in the Dead of Night](https://thesimsofstories.weebly.com/112---news-in-the-dead-of-night.html)  
+* [Part 1.13 - The Presley Family](https://thesimsofstories.weebly.com/113---the-presley-family.html)   
+* [Part 1.14 - Tarnished Memories​](https://thesimsofstories.weebly.com/114---tarnished-memories.html)   
+* [Part 1.15 - Headlights in the Night](https://thesimsofstories.weebly.com/115---headlights-in-the-night.html)
 
 ##### Characters
 | | | | | 
@@ -33,7 +33,7 @@ Courage & Resolve is the third occurring Sims Story, featuring the [[Amelia Brow
 ### Chapter 2: Strength of Will
 >*After Samson's sudden end, Amelia struggles to deal with the strange feeling of loss she now feels, constantly remembering back to her past with him.  She also attempts to remain on friendly terms with Carter, her brand her neighbor who has a dark past of his own, despite his role in Samson's death and unusual line of work. Cory and Jamira slowly begin to navigate the maze that is young adult life, even if it sometimes puts them at odds with Amelia or each other.*
 
-[Part 2.1 - A Grave Conversation](https://thesimsofstories.weebly.com/21---a-grave-conversation.html)
+* [Part 2.1 - A Grave Conversation](https://thesimsofstories.weebly.com/21---a-grave-conversation.html)
 
 ##### Characters
 | | | | | 
