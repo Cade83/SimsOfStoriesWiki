@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "The Sims of Stories Wiki",
+    pageTitle: "Sims of Stories Wiki",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
