@@ -2,12 +2,12 @@
 > # The Dancing Crab
 > ![[B.1.8.1.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Brindleton Bay]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Generation | [[First Generation]]|

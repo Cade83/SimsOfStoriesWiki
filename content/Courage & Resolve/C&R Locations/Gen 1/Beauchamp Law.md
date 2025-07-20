@@ -2,12 +2,12 @@
 > # Beauchamp Law
 > ![[B.1.14.11.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Willow Creek]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Generation | [[First Generation]]|

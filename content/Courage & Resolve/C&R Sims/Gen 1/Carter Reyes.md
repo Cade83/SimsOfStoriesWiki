@@ -2,12 +2,12 @@
 > # Carter Reyes
 > ![[Carter Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Carter Reyes | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,7 +15,7 @@
 > | Relatives | 
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace | [[Oasis Springs]] | 
 > | Lived In | [[Willow Creek]] | 
@@ -23,7 +23,7 @@
 > | Career | Sugar Baby | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Appearance Count | 2 | 

@@ -2,12 +2,12 @@
 > # Antwan Gruber
 > ![[Antwan Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Antwan Gruber | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Judith-Noelle Gruber]] (Mother)<br>[[Tom Gruber]] (Father)<br>[[Daniel Gruber]] (Older Brother)<br>[[Priscilla Gruber]] (Older Sister)<br>[[Spenser Gruber]] (Older Brother)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Britechester]]| 
 > | Lived In |[[Magnolia Promenade]]| 
 > | Home |[[Gruber Apartment]]| 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Lies and Deceit]] | 
 > | Appearance Count | 3 | 

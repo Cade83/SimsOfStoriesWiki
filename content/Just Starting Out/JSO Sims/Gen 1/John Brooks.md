@@ -2,12 +2,12 @@
 > # John Brooks
 > ![[John Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | John Brooks | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,7 +15,7 @@
 > | Relatives | [[Adrienne Brooks]] (Mother)<br>[[Jameson Brooks]] (Father)<br>[[Kayla Brooks]] (Younger Sister)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Willow Creek]]| 
 > | Lived In |[[Newcrest]]| 
@@ -23,7 +23,7 @@
 > | Career | Programmer at Landgraab Industries | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Appearance Count | 24 | 
