@@ -2,12 +2,12 @@
 > # Sara Dishman
 > ![[Sara Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Sara Dishman | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Rene Dishman]] (Husband)<br>[[Jocelyn Dishman]] (Daughter)<br>[[Ivan Dishman]] (Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Britechester]]| 
 > | Home |[[Dishman House]]| 
 > | Career | Founder of Wellness Brand | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Other Appearances | [[Lies and Deceit]] | 

@@ -2,26 +2,26 @@
 > # Ivalio Rodrigues
 > ![[Ivailo Gen 3 V2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Ivalio Rodrigues | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
 > | Generation | [[Third Generation]] |
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Windenburg]]
 > | Home |[[Sanchez Mansion]]| 
 > | Career | Servant | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
 > | Appearance Count | 5 | 

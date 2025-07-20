@@ -3,20 +3,20 @@
 > ![[Husband Gen 1.png]] 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Generation | [[First Generation]] |
 > | Relatives | [[Giovanna Cardwell]] (Wife)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In | [[Willow Creek]] | 
 > | Home | [[Magnolia Blossom]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Appearance Count | 1 | 

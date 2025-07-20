@@ -2,12 +2,12 @@
 > # Willow Creek Courthouse
 > ![[S.1.19.19.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Willow Creek]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Generation | [[First Generation]]|

@@ -2,12 +2,12 @@
 > # Samson Brown
 > ![[Samson Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Samson Brown | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,7 +15,7 @@
 > | Relatives | [[Amelia Brown]] (Wife)<br>[[Jamira Brown]] (Daughter)<br>[[Cory Brown]] (Son)|
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace | [[Magnolia Promenade]] | 
 > | Lived In | [[Brindleton Bay]] <br>[[Willow Creek]]| 
@@ -23,7 +23,7 @@
 > | Career | Musician | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Appearance Count | 8 | 

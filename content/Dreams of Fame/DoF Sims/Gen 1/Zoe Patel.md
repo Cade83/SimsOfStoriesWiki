@@ -2,13 +2,13 @@
 > # Zoe Patel
 > ![[Patel Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Zoe Patel | 
 > | Nickname | Patel | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -16,14 +16,14 @@
 > | Relatives | [[Ariel Patel]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Oasis Springs]]| 
 > | Lived In |[[Willow Creek]]| 
 > | Career | Secretary at the [[President’s Mansion]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Appearance Count | 9 | 

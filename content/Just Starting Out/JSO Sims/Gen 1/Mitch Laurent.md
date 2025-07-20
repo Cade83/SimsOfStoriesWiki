@@ -2,19 +2,19 @@
 > # Mitch Laurent
 > ![[Mitch Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Mitch Laurent | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
 > | Generation | [[First Generation]] |
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace | [[Windenburg]] | 
 > | Lived In | [[Willow Creek]] | 
@@ -22,7 +22,7 @@
 > | Career | [[President]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Other Appearances | [[Courage & Resolve]]<br>[[Dreams of Fame]] | 

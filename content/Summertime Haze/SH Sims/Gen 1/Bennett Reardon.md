@@ -2,12 +2,12 @@
 > # Bennett Reardon
 > ![[Bennett Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Bennett Reardon | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,17 +15,17 @@
 > | Relatives | [[Layne Reardon]] (Father)<br>[[Alina Reardon]] (Mother)<br>[[Regan Reardon]] (Sister)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Willow Creek]]| 
 > | Home |[[Reardon House]]<br>[[Crespo House]]| 
 > | Career | Painter | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Summertime Haze]] | 
-> | Appearance Count | 14 | 
+> | Appearance Count | 15 | 
 > | First Appearance | Summertime Haze *1.2 - The Man Next-Door*
 
 > [!quote|author] Bennett expressing concern to his friends.
@@ -77,12 +77,12 @@ Bennett also sticks up for his friends, having stepped in as [[Henry Doyle|Henry
 ##### [[Summertime Haze]]
 ###### Chapter 1: An Illusion of Safety
 
-|                                                                       |     |     |     |     |
-| --------------------------------------------------------------------- | --- | --- | --- | --- |
-| <center><font size=2>Escaping the Past<br><font size=3>*Absent*  | <center><font size=2>The Man Next-Door<br><font size=3>**Appears** | <center><font size=2>The Counselor<br><font size=3>*Absent* | <center><font size=2>Reardon<br><font size=3>**Appears** | <center><font size=2>Summertime Hangout<br><font size=3>**Appears** |
-| <center><font size=2>The Counselor's Plan<br><font size=3>*Absent*  | <center><font size=2>A Roach<br><font size=3>*Absent* | <center><font size=2>A Budding Friendship<br><font size=3>*Absent* | <center><font size=2>The Baxter Family<br><font size=3>*Absent* | <center><font size=2>People Against Ellen<br><font size=3>**Appears** |
-| <center><font size=2>Hayley<br><font size=3>**Appears**  | <center><font size=2>The Squad<br><font size=3>**Appears** | <center><font size=2>Forbidden Kiss<br><font size=3>**Appears** | <center><font size=2>A Sign From Above<br><font size=3>**Appears** | <center><font size=2>A Change for the Worst<br><font size=3>**Appears** |
-| <center><font size=2>The Bump in the Night<br><font size=3>**Appears**   | <center><font size=2>What Would SHE Want?<br><font size=3>**Appears** | <center><font size=2>The Nurse<br><font size=3>*Absent* | <center><font size=2>A Time for Mourning<br><font size=3>**Appears** | <center><font size=2>About Time<br><font size=3>**Appears** |
-| <center><font size=2>The Witch of the Willow<br><font size=3>**Appears**  |
+|                                                                           |                                                                       |                                                                           |                                                                        |                                                                         |
+| ------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| <center><font size=2>Escaping the Past<br><font size=3>*Absent*           | <center><font size=2>The Man Next-Door<br><font size=3>**Appears**    | <center><font size=2>The Counselor<br><font size=3>***Mentioned***        | <center><font size=2>Reardon<br><font size=3>**Appears**               | <center><font size=2>Summertime Hangout<br><font size=3>**Appears**     |
+| <center><font size=2>The Counselor's Plan<br><font size=3>***Mentioned*** | <center><font size=2>A Roach<br><font size=3>***Mentioned***          | <center><font size=2>A Budding Friendship<br><font size=3>***Mentioned*** | <center><font size=2>The Baxter Family<br><font size=3>***Mentioned*** | <center><font size=2>People Against Ellen<br><font size=3>**Appears**   |
+| <center><font size=2>Hayley<br><font size=3>**Appears**                   | <center><font size=2>The Squad<br><font size=3>**Appears**            | <center><font size=2>Forbidden Kiss<br><font size=3>**Appears**           | <center><font size=2>A Sign From Above<br><font size=3>**Appears**     | <center><font size=2>A Change for the Worst<br><font size=3>**Appears** |
+| <center><font size=2>The Bump in the Night<br><font size=3>**Appears**    | <center><font size=2>What Would SHE Want?<br><font size=3>**Appears** | <center><font size=2>The Nurse<br><font size=3>***Mentioned***            | <center><font size=2>A Time for Mourning<br><font size=3>**Appears**   | <center><font size=2>About Time<br><font size=3>**Appears**             |
+| <center><font size=2>The Witch of the Willow<br><font size=3>**Appears**  | <center><font size=2>Reflecting<br><font size=3>**Appears**           |                                                                           |                                                                        |                                                                         |
 #### Categories
 #Summertime_Haze_Characters #Reardon_Family #Crespo_Family #Main_Characters #Generation_1_Characters

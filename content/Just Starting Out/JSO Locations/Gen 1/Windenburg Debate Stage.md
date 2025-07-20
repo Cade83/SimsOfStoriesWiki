@@ -2,12 +2,12 @@
 > # Windenburg Debate Stage
 > ![[B.1.15.11.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Windenburg]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Other Appearances | [[Courage & Resolve]]

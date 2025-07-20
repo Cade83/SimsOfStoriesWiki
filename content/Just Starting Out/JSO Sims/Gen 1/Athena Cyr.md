@@ -2,25 +2,25 @@
 > # Athena Cyr
 > ![[Athena Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Athena Cyr | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
 > | Generation | [[First Generation]] |
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Newcrest]]| 
 > | Career | Governor of [[Newcrest]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Appearance Count | 1 | 
