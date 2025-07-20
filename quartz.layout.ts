@@ -43,13 +43,7 @@ export const defaultContentPageLayout: PageLayout = {
     })
   ],
   right: [
-    Component.Graph({
-      localGraph: {
-      },
-      globalGraph: {
-          showTags: false, // whether to show tags in the graph
-      },
-    })
+    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
