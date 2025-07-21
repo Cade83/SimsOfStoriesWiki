@@ -2,13 +2,13 @@
 > # James Mai
 > ![[James Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | James Mai | 
 > | Nicknames | Karaoke Boy (By Susan and Akira) | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -16,7 +16,7 @@
 > | Relatives | [[Daniela Mai]] (Mother)<br>[[Ed Mai]] (Father)<br>[[Jamie Mai]] (Sister)<br>[[Susan Harper]] (Wife)<br>[[Seth Mai]] (Son)<br>[[Leah Mai]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Oasis Springs]]| 
 > | Lived In |[[Windenburg]]| 
@@ -24,7 +24,7 @@
 > | Career | Painter | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 29 | 

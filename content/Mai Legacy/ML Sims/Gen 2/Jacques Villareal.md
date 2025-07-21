@@ -2,12 +2,12 @@
 > # Jacques Villareal
 > ![[Jacques Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Jacques Villareal | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives |[[Danna Villareal]] (Wife)<br>[[Hugo Villareal]] (Oldest Son)<br>[[Luna Villareal]] (Daughter)<br>[[Max Villareal]] (Youngest Son)<br>[[Akira Kibo]] (Husband)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Windenburg]]| 
 > | Home |[[Villareal Estate]]| 
 > | Career | Head of the Villareal Family | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Other Appearances | [[Reborn from the Ash]] | 

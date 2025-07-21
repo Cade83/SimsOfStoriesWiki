@@ -2,12 +2,12 @@
 > # Geoffrey Landgraab
 > ![[Geoffrey Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Geoffrey Landgraab | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human (Generation 1) |
@@ -15,14 +15,14 @@
 > | Relatives | [[Nancy Landgraab]] (Wife)<br>[[Johnny Zest]] (Oldest Son)<br>[[Malcolm Landgraab]] (Youngest Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Oasis Springs]]| 
 > | Home |[[Landgraab Mansion]]| 
 > | Career | Policeman | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Other Appearances | [[Dreams of Fame]] | 

@@ -2,12 +2,12 @@
 > # Alexander Goth
 > ![[Alexander Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Alexander Goth | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Mortimer Goth]] (Father)<br>[[Bella Goth]] (Mother)<br>[[Cassandra Goth]] (Sister)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]<br>[[Newcrest]]| 
 > | Home |[[Goth Mansion]]<br>[[Brooks House]]| 
 > | Career | Unemployed | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Appearance Count | 8 | 

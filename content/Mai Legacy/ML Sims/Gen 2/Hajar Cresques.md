@@ -2,12 +2,12 @@
 > # Hajar Cresques
 > ![[Hajar Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Hajar Cresques | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Witch |
@@ -15,14 +15,14 @@
 > | Relatives | [[Joaquin Le Chien]] (Husband)<br>[[Julianne Le Chien]] (Daughter)<br>[[Pace Le Chien]] (Oldest Son)<br>[[Korbin Le Chien]] (Youngest Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Windenburg]]| 
 > | Home |[[Le Chien House]]| 
 > | Career | Chemist | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 9 | 
