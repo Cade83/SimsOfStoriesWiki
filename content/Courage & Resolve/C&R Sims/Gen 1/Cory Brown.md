@@ -2,12 +2,12 @@
 > # Cory Brown
 > ![[Cory Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Cory Brown | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,7 +15,7 @@
 > | Relatives | [[Amelia Brown]] (Mother)<br>[[Samson Brown]] (Father)<br>[[Jamira Brown]] (Older Sister)|
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace | [[Brindleton Bay]] | 
 > | Lived In | [[Willow Creek]] | 
@@ -23,7 +23,7 @@
 > | Career | Basketball Player | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Other Appearances | [[Dreams of Fame]] | 

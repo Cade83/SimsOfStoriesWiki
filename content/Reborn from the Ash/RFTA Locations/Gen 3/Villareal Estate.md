@@ -2,12 +2,12 @@
 > # Villareal Estate
 > ![[K.1.3.31.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Windenburg]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
 > | Other Appearances |[[Mai Legacy]] | 

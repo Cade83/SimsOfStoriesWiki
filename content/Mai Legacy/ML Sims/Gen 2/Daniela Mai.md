@@ -2,12 +2,12 @@
 > # Daniela Mai
 > ![[Daniela Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Daniela Mai | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,19 +15,19 @@
 > | Relatives | [[Ed Mai]] (Husband)<br>[[James Mai]] (Son)<br>[[Jamie Mai]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Oasis Springs]]| 
 > | Home |[[Daniela and Ed's]]<br>[[Cleary Ranch]]| 
 > | Career | Owner of the Mai Resort and Spa | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Other Appearances | [[Just Starting Out]] | 
 > | Appearance Count | 3 | 
-> | First Appearance | Mai Legacy *1.1 - A New Beginning*
+> | First Appearance | Just Starting Out *1.12 - Lips Sealed Shut*
 > | Final Appearance | Just Starting Out *1.17 - Run Away*
 
 > [!quote|author] Daniela to James.
