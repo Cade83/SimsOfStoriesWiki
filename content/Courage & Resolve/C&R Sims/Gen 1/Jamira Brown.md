@@ -2,12 +2,12 @@
 > # Jamira Brown
 > ![[Jamira Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Jamira Brown | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,7 +15,7 @@
 > | Relatives | [[Amelia Brown]] (Mother)<br>[[Samson Brown]] (Father)<br>[[Cory Brown]] (Younger Brother)|
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace | [[Brindleton Bay]] | 
 > | Lived In | [[Willow Creek]] | 
@@ -23,7 +23,7 @@
 > | Career | Inventor | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Other Appearances | [[Dreams of Fame]] | 

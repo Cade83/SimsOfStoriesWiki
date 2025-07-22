@@ -2,12 +2,12 @@
 > # Felix Beauchamp
 > ![[Felix Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Felix Beauchamp | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Genevieve Beauchamp]] (Wife)<br>[[Connor Beauchamp]] (Son)<br>[[Elise Beauchamp]] (Daughter)|
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In | [[Willow Creek]]| 
 > | Career | CEO of [[Beauchamp Law]]  | 
 > | Home | [[Beacuchamp House]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Appearance Count | 7 | 

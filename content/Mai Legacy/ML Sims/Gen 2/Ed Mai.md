@@ -2,12 +2,12 @@
 > # Ed Mai
 > ![[Ed Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Ed Mai | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,19 +15,19 @@
 > | Relatives | [[Daniela Mai]] (Wife)<br>[[James Mai]] (Son)<br>[[Jamie Mai]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Oasis Springs]]| 
 > | Home |[[Daniela and Ed's]]<br>[[Cleary Ranch]]| 
 > | Career | Painter | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Other Appearances | [[Just Starting Out]] | 
 > | Appearance Count | 3 | 
-> | First Appearance | Mai Legacy *1.1 - A New Beginning*
+> | First Appearance |Just Starting Out *1.12 - Lips Sealed Shut*
 > | Final Appearance | Just Starting Out *1.17 - Run Away*
 
 > [!quote|author] Ed talking up the Mai Resort and Spa to Nancy.
