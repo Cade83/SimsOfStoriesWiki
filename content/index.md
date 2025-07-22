@@ -1,7 +1,7 @@
 ---
 title: Welcome to the Sims of Stories Wiki!
 ---
-![[simsheadernew-01_orig.png]] 
+![[content/Images/Misc/simsheadernew-01_orig.png]] 
 
 Welcome to the wiki for [The Sims of Stories](https://thesimsofstories.weebly.com)!
 
