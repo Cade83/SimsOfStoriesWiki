@@ -2,12 +2,12 @@
 > # Daniel Gruber
 > ![[Daniel Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Daniel Gruber | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,17 +15,17 @@
 > | Relatives | [[Judith-Noelle Gruber]] (Mother)<br>[[Tom Gruber]] (Father)<br>[[Priscilla Gruber]] (Twin Sister)<br>[[Spenser Gruber]] (Younger Brother)<br>[[Antwan Gruber]] (Younger Brother)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Britechester]]| 
 > | Lived In |[[Magnolia Promenade]]| 
 > | Home |[[Gruber Apartment]]| 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Lies and Deceit]] | 
-> | Appearance Count | 2 | 
+> | Appearance Count | 3 | 
 > | First Appearance | Lies and Deceit *1.2 - Drunken Murmurs*
 
 **Daniel Gruber** is one of the protagonists of the first chapter of [[Lies and Deceit]]. He's the twin brother of [[Priscilla Gruber|Priscilla]].

@@ -2,12 +2,12 @@
 > # Genevieve Beauchamp
 > ![[Genevieve Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Genevieve Beauchamp | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Felix Beauchamp]] (Husband)<br>[[Connor Beauchamp]] (Son)<br>[[Elise Beauchamp]] (Daughter)|
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In | [[Willow Creek]]| 
 > | Career | Publicist at [[Beauchamp Law]] | 
 > | Home | [[Beacuchamp House]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Other Appearances | [[Lies and Deceit]] | 

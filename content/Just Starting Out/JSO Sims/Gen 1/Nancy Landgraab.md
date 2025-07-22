@@ -2,12 +2,12 @@
 > # Nancy Landgraab
 > ![[Nancy Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Nancy Landgraab | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human (Generation 1)<br>Vampire (Generation 2+) |
@@ -15,14 +15,14 @@
 > | Relatives | [[Geoffrey Landgraab]] (Husband)<br>[[Johnny Zest]] (Oldest Son)<br>[[Malcolm Landgraab]] (Youngest Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Oasis Springs]]| 
 > | Home |[[Landgraab Mansion]]| 
 > | Career | Landgraab Industries CEO | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Appearance Count | 8 | 

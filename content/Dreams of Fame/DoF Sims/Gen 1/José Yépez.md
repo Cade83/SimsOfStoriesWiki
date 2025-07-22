@@ -2,12 +2,12 @@
 > # José Yépez
 > ![[José Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | José Yépez | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,18 +15,18 @@
 > | Relatives | [[Jadyn Yépez]] (Younger Sister)<br>[[Summer Holiday]] (Wife)<br>[[Nash Holiday]] (Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > | Home |[[José's House]]<br>[[Presley House]]| 
 > | Career | Guitarist| 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Other Appearances | [[Courage & Resolve]] | 
-> | Appearance Count | 15 | 
+> | Appearance Count | 17 | 
 > | First Appearance | Dreams of Fame *1.14 - Making It Big*
 
 > [!quote|author] José reminiscing with Summer.
@@ -105,6 +105,8 @@ José cares deeply for others, and that care isn't reserved for just his loved o
 #### Cameo Appearances
 ###### [[Courage & Resolve]] Chapter 1: Strength of Character
 - 1.13 - The Presley Family
+###### [[Summertime Haze]] Chapter 1: An Illusion of Safety
+- 1.18 - The Nurse
 ###### [[Courage & Resolve]] Chapter 2: Strength of Will
 - 2.1 - A Grave Conversation
 

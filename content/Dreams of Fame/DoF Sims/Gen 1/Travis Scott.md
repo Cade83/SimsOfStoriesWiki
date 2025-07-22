@@ -2,12 +2,12 @@
 > # Travis Scott
 > ![[Travis Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Travis Scott | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,18 +15,18 @@
 > | Relatives | [[Charlie Scott]] (Biological Mother)<br>[[Catherine Scott]] (Stepmother)<br>[[Giovanna Cardwell]] (Adoptive Mother)<br>[[Liberty Lee]] (Wife)<br>[[Jacob Scott]] (Son)<br>[[Clara Scott]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > | Home |[[BFFs House]]<br>[[Presley House]]| 
 > | Career | Programmer at Laurent Programmers United | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Other Appearances | [[Courage & Resolve]] | 
-> | Appearance Count | 28 | 
+> | Appearance Count | 30 | 
 > | First Appearance | Dreams of Fame *1.4 - Welcome to the Neighborhood!*
 
 > [!quote|author] Travis to José.
@@ -117,6 +117,9 @@ He also has a great love for his family. Travis started dyeing his hair for [[Ca
 #### Cameo Appearances
 ###### [[Courage & Resolve]] Chapter 1: Strength of Character
 - 1.13 - The Presley Family
+###### [[Summertime Haze]] Chapter 1: An Illusion of Safety
+- 1.18 - The Nurse
+- 1.22 - Reflecting
 ###### [[Courage & Resolve]] Chapter 2: Strength of Will
 - 2.1 - A Grave Conversation
 

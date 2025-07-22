@@ -2,12 +2,12 @@
 > # Willow Creek Courthouse
 > ![[S.1.19.19.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Willow Creek]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Generation | [[First Generation]]|
@@ -28,7 +28,7 @@ The Willow Creek Courthouse played host to Case: Zoe vs. Zoe, the battle of righ
 <br style="clear:both; margin: 0; padding: 0" />
 
 ## Trivia
-- The was not built by me personally, and was instead created by @niceboulder on the Sims 4 Gallery.
+- The was created by @niceboulder on the Sims 4 Gallery.
 
 ## Appearances
 #### [[Dreams of Fame]]

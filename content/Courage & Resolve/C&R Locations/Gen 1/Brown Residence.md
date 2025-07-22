@@ -2,12 +2,12 @@
 > # Brown Residence
 > ![[B.1.1.1.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Willow Creek]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Generation | [[First Generation]]<br>[[Second Generation]] |
