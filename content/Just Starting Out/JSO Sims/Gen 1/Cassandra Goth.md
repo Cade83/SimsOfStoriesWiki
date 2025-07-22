@@ -2,12 +2,12 @@
 > # Cassandra Goth
 > ![[Cassandra Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Cassandra Goth | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Mortimer Goth]] (Father)<br>[[Bella Goth]] (Mother)<br>[[Alexander Goth]] (Brother)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]<br>[[Newcrest]]| 
 > | Home |[[Goth Mansion]]<br>[[Brooks House]]| 
 > | Career | Presidential Secretary | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Other Appearances | [[Dreams of Fame]]<br>[[Courage & Resolve]]<br>[[Lies and Deceit]]| 

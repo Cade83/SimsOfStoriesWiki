@@ -2,12 +2,12 @@
 > # Amelia and Samson's
 > ![[B.1.10.10.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Brindleton Bay]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Generation | [[First Generation]]|
