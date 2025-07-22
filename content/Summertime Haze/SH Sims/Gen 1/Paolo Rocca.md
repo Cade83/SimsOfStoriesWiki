@@ -2,26 +2,26 @@
 > # Paolo Rocca
 > ![[Paolo Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Paolo Rocca | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
 > | Generation | [[First Generation]] |
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Windenburg]]| 
 > | Lived In |[[Oasis Springs]]<br>[[Willow Creek]]| 
 > | Career | Personal Trainer | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Summertime Haze]] | 
 > | Appearance Count |  | 

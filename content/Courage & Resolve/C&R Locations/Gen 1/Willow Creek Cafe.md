@@ -2,12 +2,12 @@
 > # Willow Creek Cafe
 > ![[S.1.6.5.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Willow Creek]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Other Appearances | [[Dreams of Fame]]<br>[[Summertime Haze]]

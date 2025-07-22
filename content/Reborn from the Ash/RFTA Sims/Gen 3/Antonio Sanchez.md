@@ -2,12 +2,12 @@
 > # Antonio Sanchez
 > ![[Antonio Gen 3 V2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Antonio Sanchez | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,7 +15,7 @@
 > | Relatives | [[Jacqueline Sanchez]] (Wife)<br>[[Kiara Sanchez]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Selvadorada]]| 
 > | Lived In |[[Windenburg]]| 
@@ -23,7 +23,7 @@
 > | Career | Head of the Sanchez Family | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
 > | Appearance Count | 8 | 

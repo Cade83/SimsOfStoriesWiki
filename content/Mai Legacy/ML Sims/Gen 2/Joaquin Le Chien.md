@@ -2,12 +2,12 @@
 > # Joaquin Le Chien
 > ![[Joaquin Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Joaquin Le Chien | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Rosaline Le Chien]] (Mother)<br>[[Bronson Le Chien]] (Father)<br>[[Hajar Cresques]] (Wife)<br>[[Sergio Romeo]] (Ex-Husband)<br>[[Julianne Le Chien]] (Daughter)<br>[[Pace Le Chien]] (Oldest Son)<br>[[Korbin Le Chien]] (Youngest Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Windenburg]]| 
 > | Home |[[Le Chien House]]| 
 > | Career | Legacy Heir | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 10 | 

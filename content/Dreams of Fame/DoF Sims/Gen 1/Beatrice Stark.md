@@ -2,13 +2,13 @@
 > # Beatrice Stark
 > ![[Beatrice Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Xayri
 > | Disguised Name | Beatrice Stark | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Alien |
@@ -16,14 +16,14 @@
 > | Relatives | [[Mitch Laurent]] (True Love)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Sixam]]<br>[[Willow Creek]]| 
 > | Home |[[Beatrice's Condo]]| 
 > | Career |Royal Judge<br>Ambassador| 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Appearance Count | 12 | 
