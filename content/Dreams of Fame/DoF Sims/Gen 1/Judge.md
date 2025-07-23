@@ -3,20 +3,20 @@
 > ![[S.1.18.5.png]] 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
 > | Generation | [[First Generation]] |
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In | [[Willow Creek]] | 
 > | Career | Judge | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Appearance Count | 4 | 

@@ -2,12 +2,12 @@
 > # Gruber Apartment
 > ![[F.1.2.1 edited.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Britechester]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Lies and Deceit]] | 
 > | Generation | [[Second Generation]]|

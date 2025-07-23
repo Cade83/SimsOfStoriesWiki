@@ -2,12 +2,12 @@
 > # Presley House
 > ![[S.1.27.2.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Willow Creek]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Other Appearances |[[Courage & Resolve]] | 
@@ -63,8 +63,6 @@ While other household members were less than fond of Zoe's taste in decor, she r
 > ![[S.1.32.12.png]] 
 > The basement dining room.
 
-<br style="clear:both; margin: 0; padding: 0" />
-
 > [!caption|left]
 > ![[S.1.15.4.png]] 
 > Zoe's room.
@@ -73,8 +71,6 @@ While other household members were less than fond of Zoe's taste in decor, she r
 > ![[S.2.1.3.png]] 
 > Giovanna's room.
 
-<br style="clear:both; margin: 0; padding: 0" />
-
 > [!caption|left]
 > ![[S.1.31.2.png]] 
 > The play room.
@@ -82,8 +78,6 @@ While other household members were less than fond of Zoe's taste in decor, she r
 > [!caption|left]
 > ![[S.1.31.1.png]] 
 > Jacob and Clara's childhood room.
-
-<br style="clear:both; margin: 0; padding: 0" />
 
 > [!caption|left]
 > ![[S.1.30.6.png]] 

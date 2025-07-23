@@ -3,14 +3,14 @@ Reborn from the Ash is the fifth occurring Sims Story, featuring the [[Kiara San
 ## Chapter 1: Ties Stronger than Blood
 >*Kiara Sanchez lives the perfect life- she lives in the mansion of her incredibly wealthy parents, Antonio and Jacqueline, is waited on hand and foot by a multitude of servants, and anything she desires is given to her. But she isn't happy. Her parents have impossible expectations for her, and she feels completely disconnected from society and everyone who doesn't share the same last name as her. However, leaving that life behind isn't as easy as Kiara thinks it will be- Antonio and Jacqueline need a heir, and losing control of their only child is not an option.*
 
-[Part 1.1 - The Sanchez Family](https://thesimsofstories.weebly.com/11---the-sanchez-family.html)
-[Part 1.2 - An Heiress' Duty](https://thesimsofstories.weebly.com/12---an-heiress-duty.html)
-[​Part 1.3 - The Villareals](https://thesimsofstories.weebly.com/13---the-villareals.html)
-[Part 1.4 - Choosing a Different Path](https://thesimsofstories.weebly.com/14---choosing-a-different-path.html)
-[Part 1.5 - Ordinary World, Ordinary People](https://thesimsofstories.weebly.com/15---ordinary-world-ordinary-people.html)
-[Part 1.6 - Jacqueline's Visit](https://thesimsofstories.weebly.com/16---jacquelines-visit.html)
-[Part 1.7 - The Renegades](https://thesimsofstories.weebly.com/17---the-renegades.html)
-[Part 1.8 - Akira](https://thesimsofstories.weebly.com/18---akira.html)
+* [Part 1.1 - The Sanchez Family](https://thesimsofstories.weebly.com/11---the-sanchez-family.html)
+* [Part 1.2 - An Heiress' Duty](https://thesimsofstories.weebly.com/12---an-heiress-duty.html)
+* [​Part 1.3 - The Villareals](https://thesimsofstories.weebly.com/13---the-villareals.html)
+* [Part 1.4 - Choosing a Different Path](https://thesimsofstories.weebly.com/14---choosing-a-different-path.html)
+* [Part 1.5 - Ordinary World, Ordinary People](https://thesimsofstories.weebly.com/15---ordinary-world-ordinary-people.html)
+* [Part 1.6 - Jacqueline's Visit](https://thesimsofstories.weebly.com/16---jacquelines-visit.html)
+* [Part 1.7 - The Renegades](https://thesimsofstories.weebly.com/17---the-renegades.html)
+* [Part 1.8 - Akira](https://thesimsofstories.weebly.com/18---akira.html)
 
 ##### Characters
 | | | | | 

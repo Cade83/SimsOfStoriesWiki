@@ -2,12 +2,12 @@
 > # Hajar Cresques
 > ![[Hajar Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Hajar Cresques | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Witch |
@@ -15,14 +15,14 @@
 > | Relatives | [[Joaquin Le Chien]] (Husband)<br>[[Julianne Le Chien]] (Daughter)<br>[[Pace Le Chien]] (Oldest Son)<br>[[Korbin Le Chien]] (Youngest Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Windenburg]]| 
 > | Home |[[Le Chien House]]| 
 > | Career | Chemist | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 9 | 
@@ -89,6 +89,13 @@ In response, the Mai family sued the Le Chiens, and once again, the four of them
 An incredibly self-motivated woman, Hajar will do anything to ensure the betterment of her quality of life. Both her pursuit of [[Joaquin Le Chien|Joaquin]] and magic were done in her own self-interest. Others, such as [[Rosaline Le Chien|Rosaline]] and [[Bronson Le Chien|Bronson]], noticed this fact about her, but Hajar was never one to let the opinions of others affect her.
 
 Hajar is also defined by her dedication. Once she settles on something, she will do anything to ensure she reaches her goal, even if getting there involves seriously injuring or killing people in the process. Her words are similarly barbed, as she'll boldly speak her mind without fear of retribution.
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Joaquin Portrait Gen 2.png]]](<Joaquin Le Chien>)<br>[[Joaquin Le Chien]]| <center>[![[Rosaline Portrait Gen 2.png]]](<Rosaline Le Chien>)<br>[[Rosaline Le Chien]]| <center>[![[Bronson Portrait Gen 2.png]]](<Bronson Le Chien>)<br>[[Bronson Le Chien]]|<center>[![[Fatima Portrait Gen 3.png]]](<Fatima Mansouri>)<br>[[Fatima Mansouri]]
+|<center>[![[Elaine Portrait Gen 4.png]]](<Elaine Oldham>)<br>[[Elaine Oldham]]| <center>[![[Romeo Portrait Gen 2.png]]](<Sergio Romeo>)<br>[[Sergio Romeo]]|<center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]|<center>[![[Susan Portrait Gen 2.png]]](<Susan Harper>)<br>[[Susan Harper]]|
+| <center>[![[Julianne Portrait Gen 3.png]]](<Julianne Le Chien>)<br>[[Julianne Le Chien]]| <center>[![[Pace Portrait Gen 3.png]]](<Pace Le Chien>)<br>[[Pace Le Chien]]| <center>[![[Korbin Portrait Gen 3.png]]](<Korbin Le Chien>)<br>[[Korbin Le Chien]]| <center>[![[Aarohi Portrait Gen 2.png]]](<Aarohi Barclay>)<br>[[Aarohi Barclay]]|
 
 ## Appearances
 ##### [[Mai Legacy]]

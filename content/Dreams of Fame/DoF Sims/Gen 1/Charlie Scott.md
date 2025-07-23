@@ -2,12 +2,12 @@
 > # Charlie Scott
 > ![[Charlie Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Charlie Scott | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,13 +15,13 @@
 > | Relatives |[[Catherine Scott]] (Wife)<br>[[Travis Scott]] (Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > | Career | Salesperson | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Appearance Count | 5 | 
@@ -58,6 +58,11 @@ Charlie and Catherine were thrilled when they received the invitations for Travi
 An incredibly lighthearted individual, Charlie can always be heard cracking jokes and making light of her unfortunate marriage to [[Travis Scott|Travis]]'s father. She's good at keeping things fun for everyone, and her friendly way of speaking makes her incredibly approachable.
 
 Charlie cares deeply for her small family. She and [[Catherine Scott|Catherine]] are nearly joined at the hip, as Charlie refuses to be parted from her. Continuing to pay for Travis's living expenses even after he moved out was a way for Charlie to feel attached to him, so [[Giovanna Cardwell|Giovanna]] legally adopting her wounded her deeply. By Travis's wedding, however, Charlie recognized just how much Travis cared for her and vice-versa, and she began to feel like family too, in her own unique way.
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|[![[Catherine Portrait Gen 1.png]]](<Catherine Scott>)<br>[[Catherine Scott]]|<center>[![[Travis Portrait Gen 1.png]]](<Travis Scott>)<br>[[Travis Scott]]|<center>[![[Liberty Portrait Gen 1.png]]](<Liberty Lee>)<br>[[Liberty Lee]]|<center>[![[Giovanna Portrait Gen 2.png]]](<Giovanna Cardwell>)<br>[[Giovanna Cardwell]]|
 
 ## Appearances
 #### [[Dreams of Fame]]

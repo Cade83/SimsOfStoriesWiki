@@ -2,13 +2,13 @@
 > # Zoe Presley
 > ![[Zoe Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Zoe Presley | 
 > | Alias | Zoe P | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -16,14 +16,14 @@
 > | Relatives | [[Ibrahaim Presley]] (Father)<br>[[Giovanna Cardwell]] (Adoptive Mother)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > | Home | [[Presley House]]| 
 > | Career | Author of the *A Day in the Life of Granny* series | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Other Appearances | [[Courage & Resolve]] | 
@@ -100,6 +100,12 @@ The original Zoe was domineering and entirely self-interested. Nothing was too f
 Post hypnotherapy Zoe was somewhat ditzy, and was generally simply happy about life. She actually enjoyed spending an excessive amount of time with Giovanna, and the two would chat for hours. The energy that had driven her before seemed almost missing, and Zoe became largely passive.
 
 Zoe's final personality emerged as she struggled to rid herself of the fog that brought about her hypnotherapy personality. She missed her original self, and how she got things done, but she began to recognize how she'd wronged people. She also noticed that no one respected her hypnotherapy personality. To remedy both of these issues, Zoe dedicated herself to giving back and helping out the people in her life to the best she could, ultimately resulting in her giving her life for [[Summer Holiday|Summer]].
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Giovanna Portrait Gen 1.png]]](<Giovanna Cardwell>)<br>[[Giovanna Cardwell]]|<center>[![[Liberty Portrait Gen 1.png]]](<Liberty Lee>)<br>[[Liberty Lee]]|<center>[![[Travis Portrait Gen 1.png]]](<Travis Scott>)<br>[[Travis Scott]]|<center>[![[Summer Portrait Gen 1.png]]](<Summer Holiday>)<br>[[Summer Holiday]]|
+|<center>[![[José Portrait Gen 1.png]]](<José Yépez>)<br>[[José Yépez]]|<center>[![[Patel Portrait Gen 1.png]]](<Zoe Patel>)<br>[[Zoe Patel]]|<center>[![[Jo Portrait Gen 1 DoF.png]]](<Jo Kauffman>)<br>[[Jo Kauffman]]|<center>[![[Beatrice Portrait Gen 1.png]]](<Beatrice Stark>)<br>[[Beatrice Stark]]|
 
 ## Trivia
 - The [[Sylvan Glade]] Zoe trading her life for [[Summer Holiday|Summer]]'s actually occurred in gameplay. Summer accidentally blew out some birthday candles early and became an elder, and that wasn't acceptable so we aged her back. Zoe, on the other hand, had been with us forever, so we cheated her into an elder, unaware that it kept the age progression bar filled from the previous life state, and she immediately died.
