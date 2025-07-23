@@ -2,12 +2,12 @@
 > # Priscilla Gruber
 > ![[Priscilla Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Priscilla Gruber | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,17 +15,17 @@
 > | Relatives | [[Judith-Noelle Gruber]] (Mother)<br>[[Tom Gruber]] (Father)<br>[[Daniel Gruber]] (Twin Brother)<br>[[Spenser Gruber]] (Younger Brother)<br>[[Antwan Gruber]] (Younger Brother)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Britechester]]| 
 > | Lived In |[[Magnolia Promenade]]| 
 > | Home |[[Gruber Apartment]]| 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Lies and Deceit]] | 
-> | Appearance Count | 2 | 
+> | Appearance Count | 3 | 
 > | First Appearance | Lies and Deceit *1.2 - Drunken Murmurs*
 
 **Priscilla Gruber** is one of the protagonists of the first chapter of [[Lies and Deceit]]. She's the twin sister of [[Daniel Gruber|Daniel]].

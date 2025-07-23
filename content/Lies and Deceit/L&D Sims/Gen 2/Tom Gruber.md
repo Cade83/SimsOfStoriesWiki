@@ -2,12 +2,12 @@
 > # Tom Gruber
 > ![[Tom Gen 2 V2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Tom Gruber | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,7 +15,7 @@
 > | Relatives | [[Judith-Noelle Gruber]] (Wife)<br>[[Daniel Gruber]] (Oldest Son)<br>[[Priscilla Gruber]] (Daughter)<br>[[Spenser Gruber]] (Middle Son)<br>[[Antwan Gruber]] (Youngest Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[San Myshuno]]| 
 > | Lived In |[[Britechester]]<br>[[Magnolia Promenade]]| 
@@ -23,10 +23,10 @@
 > | Career | Gambler | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Lies and Deceit]] | 
-> | Appearance Count | 3 | 
+> | Appearance Count | 4 | 
 > | First Appearance | Lies and Deceit *1.1 - Life Goes On*
 
 **Tom Gruber** is one of the protagonists of the first chapter of [[Lies and Deceit]]. He's married to [[Judith-Noelle Gruber]].

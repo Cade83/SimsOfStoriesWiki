@@ -2,13 +2,13 @@
 > # Judith-Noelle Gruber
 > ![[Judith-Noelle Gen 2 V2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Judith-Noelle Gruber | 
 > | Nicknames | J (By Tom)<br>Jude (In College) | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -16,7 +16,7 @@
 > | Relatives | [[Tom Gruber]] (Husband)<br>[[Daniel Gruber]] (Oldest Son)<br>[[Priscilla Gruber]] (Daughter)<br>[[Spenser Gruber]] (Middle Son)<br>[[Antwan Gruber]] (Youngest Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[San Myshuno]]| 
 > | Lived In |[[Britechester]]<br>[[Magnolia Promenade]]| 
@@ -24,10 +24,10 @@
 > | Career | Bartender<br>Political Scientist<br>[[Beauchamp Law]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Lies and Deceit]] | 
-> | Appearance Count | 4 | 
+> | Appearance Count | 5 | 
 > | First Appearance | Lies and Deceit *1.1 - Life Goes On*
 
 **Judith-Noelle Gruber** is one of the protagonists of the first chapter of [[Lies and Deceit]]. She's married to [[Tom Gruber]].

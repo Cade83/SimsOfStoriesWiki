@@ -2,12 +2,12 @@
 > # Spenser Gruber
 > ![[Spenser Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Spenser Gruber | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,17 +15,17 @@
 > | Relatives | [[Judith-Noelle Gruber]] (Mother)<br>[[Tom Gruber]] (Father)<br>[[Daniel Gruber]] (Older Brother)<br>[[Priscilla Gruber]] (Older Sister)<br>[[Antwan Gruber]] (Younger Brother)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Britechester]]| 
 > | Lived In |[[Magnolia Promenade]]| 
 > | Home |[[Gruber Apartment]]| 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Lies and Deceit]] | 
-> | Appearance Count | 3 | 
+> | Appearance Count | 4 | 
 > | First Appearance | Lies and Deceit *1.1 - Life Goes On*
 
 **Spenser Gruber** is one of the protagonists of the first chapter of [[Lies and Deceit]]. He's the son of [[Judith-Noelle Gruber|Judith-Noelle]] and [[Tom Gruber|Tom]].
