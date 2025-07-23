@@ -2,30 +2,33 @@
 > # Melody Roach
 > ![[Melody Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Melody Roach | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
 > | Generation | [[First Generation]] |
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Newcrest]]<br>[[Willow Creek]]| 
 > | Career | Yoga Instructor<br>Hypnotherapist | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Other Appearances | [[Dreams of Fame]]<br>[[Summertime Haze]] | 
 > | Appearance Count | 11 | 
 > | First Appearance | Just Starting Out *1.3 - Time Capsule*
+
+> [!quote|author] Melody to Henry
+> “Like I’ve said, there is no judgement here. My aim here is to speak to you with logic, and see how you respond to that logic.”
 
 **Melody Roach** is a character introduced in the first chapter of [[Just Starting Out]]. Initially a [[Ms. Roach’s Yoga|yoga instructor]], she later opens her own [[Melody's Therapy|therapy practice]].
 
@@ -52,12 +55,17 @@ Melody took Kayla's advice, and bid her friends in [[Newcrest]] goodbye, and mov
 > ![[C.1.7.7.png]] 
 > Melody meets with Henry.
 
-Her work wasn't completely masterful, however, and Zoe would regularly revert back to her old self, which was something Summer hounded Melody about. Melody was secretly glad, as she'd come to regret what she did to Zoe, and was glad to know that her original personality still remained. This regret later saved [[Henry Doyle]], as she refused to perform the same procedure on him for [[Ellen Bowers]]. She instead chose to warn him. While it took a while for her to remove hypnotherapy as a speciality from her website and pamphlets, Melody dedicated the rest of her life to being a good therapist, instead of one focused on profit and income. 
+Her work wasn't completely masterful, however, and Zoe would regularly revert back to her old self, which was something Summer hounded Melody about. Melody was secretly glad, as she'd come to regret what she did to Zoe, and was glad to know that her original personality still remained. This regret later saved [[Henry Doyle]], as she refused to perform the same procedure on him for [[Ellen Bowers]]. She instead chose to warn him. Melody later refused to help [[Toby Baxter]] despite his insistence that hynotherapy could save his family. While it took a while for her to remove hypnotherapy as a speciality from her website and pamphlets, Melody dedicated the rest of her life to being a good therapist, instead of one focused on profit and income. 
 
 ## Personality
 A very serious woman dedicated to living her life with the utmost peace and tranquility, Melody has a levelheaded view of the world. She's all too happy to share that peace of mind with others, which she does through yoga, therapy, and speaking plainly to others. She has no fear of being very direct in her words to others, and will gladly tell others off for swearing needlessly or making bad decisions.
 
 Melody has one fatal flaw, however. Her love of money. As someone who never had enough of it in the past, and was therefore unable to achieve her dreams, she came to enjoy the new sense of security that having money gave her. Melody can compromise her own morals for a large enough sum of money, yet, after the [[Zoe Presley|Zoe]] situation, she was self-aware enough to realize that this was wrong, and redevoted herself to helping others.
+
+##### Characters
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Kayla Portrait Gen 1.png]]](<Kayla Brooks>)<br>[[Kayla Brooks]]|<center>[![[Zoe Portrait Gen 1.png]]](<Zoe Presley>)<br>[[Zoe Presley]]|<center>[![[Henry Portrait Gen 1.png]]](<Henry Doyle>)<br>[[Henry Doyle]]|<center>[![[Elaine Portrait Gen 4.png]]](<Elaine Oldham>)<br>[[Elaine Oldham]]|
 
 ## Appearances
 ##### [[Just Starting Out]]
@@ -92,7 +100,7 @@ Melody has one fatal flaw, however. Her love of money. As someone who never had 
 | <center><font size=2>The Counselor's Plan<br><font size=3>***Mentioned***  | <center><font size=2>A Roach<br><font size=3>**Appears** | <center><font size=2>A Budding Friendship<br><font size=3>***Mentioned*** | <center><font size=2>The Baxter Family<br><font size=3>*Absent* | <center><font size=2>People Against Ellen<br><font size=3>*Absent* |
 | <center><font size=2>Hayley<br><font size=3>*Absent*  | <center><font size=2>The Squad<br><font size=3>*Absent* | <center><font size=2>Forbidden Kiss<br><font size=3>*Absent* | <center><font size=2>A Sign From Above<br><font size=3>*Absent* | <center><font size=2>A Change for the Worst<br><font size=3>*Absent* |
 | <center><font size=2>The Bump in the Night<br><font size=3>*Absent* | <center><font size=2>What Would SHE Want?<br><font size=3>*Absent* | <center><font size=2>The Nurse<br><font size=3>**Appears** | <center><font size=2>A Time for Mourning<br><font size=3>*Absent* | <center><font size=2>About Time<br><font size=3>*Absent* |
-| <center><font size=2>The Witch of the Willow<br><font size=3>*Absent*  |
+| <center><font size=2>The Witch of the Willow<br><font size=3>*Absent*  | <center><font size=2>Reflecting<br><font size=3>*Absent*  |
 
 #### Categories
 #Just_Starting_Out_Characters #Dreams_of_Fame_Characters #Generation_1_Characters

@@ -2,12 +2,12 @@
 > # Laurent Windenburg Mansion
 > ![[G.1.26.38.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Windenburg]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Generation | [[First Generation]]|

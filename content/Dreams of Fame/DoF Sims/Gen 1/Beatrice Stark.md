@@ -2,13 +2,13 @@
 > # Beatrice Stark
 > ![[Beatrice Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Xayri
 > | Disguised Name | Beatrice Stark | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Alien |
@@ -16,14 +16,14 @@
 > | Relatives | [[Mitch Laurent]] (True Love)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Sixam]]<br>[[Willow Creek]]| 
 > | Home |[[Beatrice's Condo]]| 
 > | Career |Royal Judge<br>Ambassador| 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Appearance Count | 12 | 
@@ -69,6 +69,12 @@ Once back on Sixam, Beatrice and Liberty took up residence in the [[Sixam Resear
 Beatrice values justice, order, and righteousness, and spent the majority of her life living up to those values. She was entirely dedicated to her career, as she felt it was what would bring the greatest amount of good into the world. Things began to shift for her after she met [[Mitch Laurent|Mitch]], however. She recognized that her priorities shifted to be more self-interested, and she was willing to do things for him even if it came at a personal cost to herself. This later occurred again with [[Liberty Lee|Liberty]] and her family, as she valued their safety and happiness, even if obtaining those things required means that her earlier self would have disapproved of. Regardless, she never stopped valuing fairness, and much of her relationship with Liberty became a series of repaying debts and favors.
 
 Despite her long years as an ambassador to humanity, Beatrice never get understood how to blend in, and many found her somewhat off-putting, all of which wasn't aided by her tendency to be very direct. Being forced to live away from [[Sixam]] began to help her blend in, and her fashion sense shifted from something others would give strange looks to clothing that could pass as an average outfit. She still holds her home and the royal family close to her heart, however, and nothing can ever stop her from continuing to pine for her home planet.
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Xanther Portrait Gen 2.png]]](<Xanther>)<br>[[Xanther]]|<center>[![[Xanthippe Portrait Gen 2.png]]](<Xanthippe>)<br>[[Xanthippe]]|<center>[![[Mitch Portrait Gen 1.png]]](<Mitch Laurent>)<br>[[Mitch Laurent]]|<center>[![[Liberty Portrait Gen 1.png]]](<Liberty Lee>)<br>[[Liberty Lee]]|
+|<center>[![[Giovanna Portrait Gen 2.png]]](<Giovanna Cardwell>)<br>[[Giovanna Cardwell]]|<center>[![[Jo Portrait Gen 1 DoF.png]]](<Jo Kauffman>)<br>[[Jo Kauffman]]|
 
 ## Appearances
 #### [[Dreams of Fame]]

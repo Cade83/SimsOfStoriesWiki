@@ -2,12 +2,12 @@
 > # José Yépez
 > ![[José Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | José Yépez | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,18 +15,18 @@
 > | Relatives | [[Jadyn Yépez]] (Younger Sister)<br>[[Summer Holiday]] (Wife)<br>[[Nash Holiday]] (Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > | Home |[[José's House]]<br>[[Presley House]]| 
 > | Career | Guitarist| 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Other Appearances | [[Courage & Resolve]] | 
-> | Appearance Count | 15 | 
+> | Appearance Count | 17 | 
 > | First Appearance | Dreams of Fame *1.14 - Making It Big*
 
 > [!quote|author] José reminiscing with Summer.
@@ -84,6 +84,12 @@ José is a man who values peace and honesty. He always wants to do what he belie
 
 José cares deeply for others, and that care isn't reserved for just his loved ones. If someone's down, or in need, he'll be there to offer a helping hand, and if he says he cares about someone, he truly means it. José also expects the same in return from those he cares about, however, which was the primary reason Summer not having been completely honest with him at the start of their relationship was such a big deal for him.
 
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Summer Portrait Gen 1.png]]](<Summer Holiday>)<br>[[Summer Holiday]]|<center>[![[Nash Portrait Gen 2.png]]](<Nash Holiday>)<br>[[Nash Holiday]]|<center>[![[Jadyn Portrait Gen 1.png]]](<Jadyn Yépez>)<br>[[Jadyn Yépez]]|<center>[![[Travis Portrait Gen 1.png]]](<Travis Scott>)<br>[[Travis Scott]]||
+|<center>[![[Zoe Portrait Gen 1.png]]](<Zoe Presley>)<br>[[Zoe Presley]]|<center>[![[Giovanna Portrait Gen 2.png]]](<Giovanna Cardwell>)<br>[[Giovanna Cardwell]]|<center>[![[Liberty Portrait Gen 1.png]]](<Liberty Lee>)<br>[[Liberty Lee]]|<center>[![[Patel Portrait Gen 1.png]]](<Zoe Patel>)<br>[[Zoe Patel]]|
+
 ## Appearances
 #### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
@@ -105,6 +111,8 @@ José cares deeply for others, and that care isn't reserved for just his loved o
 #### Cameo Appearances
 ###### [[Courage & Resolve]] Chapter 1: Strength of Character
 - 1.13 - The Presley Family
+###### [[Summertime Haze]] Chapter 1: An Illusion of Safety
+- 1.18 - The Nurse
 ###### [[Courage & Resolve]] Chapter 2: Strength of Will
 - 2.1 - A Grave Conversation
 

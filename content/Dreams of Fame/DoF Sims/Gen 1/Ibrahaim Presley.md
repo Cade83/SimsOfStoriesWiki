@@ -2,12 +2,12 @@
 > # Ibrahaim Presley
 > ![[Ibrahaim Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Ibrahaim Presley | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,12 +15,12 @@
 > | Relatives | [[Zoe Presley]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In | Unknown | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Appearance Count | 1 | 
@@ -41,7 +41,10 @@ Ibrahaim and his wife raised [[Zoe Presley]], and supported her as she tried to 
 
 When Zoe finally saw great success with *A Day in the Life of Granny*, Ibrahaim flew out to celebrate his daughter. He joined Zoe and her friends as they partied at the [[Club Lounge]].
 
-<br style="clear:both; margin: 0; padding: 0" />
+## Relationships
+| | 
+| ------------------------------------------------------------- | 
+|<center>[![[Zoe Portrait Gen 1.png]]](<Zoe Presley>)<br>[[Zoe Presley]] |
 
 ## Appearances
 #### [[Dreams of Fame]]

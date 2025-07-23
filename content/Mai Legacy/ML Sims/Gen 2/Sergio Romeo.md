@@ -2,12 +2,12 @@
 > # Sergio Romeo
 > ![[Romeo Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Sergio Romeo| 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,13 +15,13 @@
 > | Relatives |Paul Romeo (Father)<br>Katherine West (Mother)<br>[[Joaquin Le Chien]] (Ex-Husband)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Windenburg]]| 
 > | Home |[[Romeo House]]<br>[[Le Chien House]]| 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 1 | 
@@ -48,6 +48,11 @@ One fateful day, however, the two were assigned to the same school project toget
 > Joaquin throws Sergio out.
 
 After graduation, Sergio and Joaquin wed, and Sergio moved into the [[Le Chien House]]. Joaquin's parents [[Rosaline Le Chien|Rosaline]] and [[Bronson Le Chien|Bronson]] grew to love him, and were excited for the future of a legacy headed by Joaquin and Sergio. Everything changed when Joaquin's old friend [[Hajar Cresques]] showed up on the front doorstep. Suddenly, Joaquin began to turn on Sergio, and doubt that he was the best thing for him. Within a matter of months, Joaquin had drawn up divorce papers, and Sergio was asked to leave. Hajar than took his place, and Sergio and Joaquin never saw each other again.
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <center>[![[Joaquin Portrait Gen 2.png]]](<Joaquin Le Chien>)<br>[[Joaquin Le Chien]]| <center>[![[Rosaline Portrait Gen 2.png]]](<Rosaline Le Chien>)<br>[[Rosaline Le Chien]]| <center>[![[Bronson Portrait Gen 2.png]]](<Bronson Le Chien>)<br>[[Bronson Le Chien]]|<center>[![[Hajar Portrait Gen 2.png]]](<Hajar Cresques>)<br>[[Hajar Cresques]]|
 
 ## Appearances
 ##### [[Mai Legacy]]

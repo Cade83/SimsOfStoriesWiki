@@ -2,12 +2,12 @@
 > # Terra Holiday
 > ![[Terra Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Terra Holiday | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,12 +15,12 @@
 > | Relatives | [[Summer Holiday]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Appearance Count | 2 | 
@@ -49,6 +49,11 @@ When Summer got married to [[José Yépez]], Terra showed up to the wedding unin
 Terra is an overly critical woman who suffers from a lack of patience. She struggled to sit through [[Summer Holiday|Summer]]'s boy troubles in high school, and when they continued on past then, she threw in the towel. Summer moving in with [[Travis Scott|Travis]] after high school was a breaking point, and the two stopped talking. She instead chose to treat herself to the finer things in life, such as exotic vacations that she never invited Summer to.
 
 She ended up regretting her behavior later in life, after her husband passed and she was left with no family. But was too prideful to ever make a second attempt at connecting with Summer.
+
+## Relationships
+| | 
+| ------------------------------------------------------------- | 
+|<center>[![[Summer Portrait Gen 1.png]]](<Summer Holiday>)<br>[[Summer Holiday]] |
 
 ## Appearances
 #### [[Dreams of Fame]]

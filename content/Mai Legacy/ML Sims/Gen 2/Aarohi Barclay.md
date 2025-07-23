@@ -2,26 +2,26 @@
 > # Aarohi Barclay
 > ![[Aarohi Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Aarohi Barclay | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
-> | Life State | Human |
+> | Life State | Witch |
 > | Generation | [[Second Generation]] |
 > | Relatives | [[Joe Barclay]] (Husband)<br>[[Teala Barclay]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[San Myshuno]]| 
 > | Career | Event Organizer | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 11 | 
@@ -37,7 +37,7 @@
 > ![[1.8.7 v2.png]] 
 > Aarohi meets James for the first time.
 
-Aarohi was born to be an event planer. She enjoyed organizing parties going all the way back to her childhood, and into her college years where she was friends with [[Hajar Cresques]], so it only followed that her later career would align. Aarohi got her start planning loud parties with DJs and bonfires that became the talk of the town, as they were heard across town, attracting the ire of [[Victor Feng|Victor]] and [[Lily Feng]] as a result. Aarohi came to fear them, and ended up throwing parties at the [[Windenburg Ruins]] instead, which were heard by [[Rosaline Le Chien]], and she would call her good friends the Fengs to put a stop to them. It was at one of those parties where she first met [[James Mai]].
+Aarohi was born to be an event planer. She enjoyed organizing parties going all the way back to her childhood, and into her college years where she was friends with [[Hajar Cresques]] and studied under [[Rebekah Gossett]], so it only followed that her later career would align. Aarohi got her start planning loud parties with DJs and bonfires that became the talk of the town, as they were heard across town, attracting the ire of [[Victor Feng|Victor]] and [[Lily Feng]] as a result. Aarohi came to fear them, and ended up throwing parties at the [[Windenburg Ruins]] instead, which were heard by [[Rosaline Le Chien]], and she would call her good friends the Fengs to put a stop to them. It was at one of those parties where she first met [[James Mai]].
 
 > [!caption|left]
 > ![[1.13.1.png]] 
@@ -58,9 +58,16 @@ Regardless, Aarohi remained a close friend of James's friend group and the Mai f
 As with most of James's friend group, Aarohi started to drift away as they all got older. She remained eternally grateful for the time she'd had with them, but she recognized that Seth and Leah were their own people now, and that each member of their friend group had their own problems that were more immediately important than each other. She arguably became the most distant out of anyone in the friend group, and any benefits that she'd once had due to her friendship with powerful families like the Mais and the Fengs slowly dried up. While she still attended events where everyone was in attendance, such as memorials, she focused herself on event organizing, her husband Joe, and raising Teala.
 
 ## Personality
-Despite the loud personality that her career as an event planner would apply, Aarohi is incredibly conflict averse. She has a tendency to flee or make any manner of excuses to get out of any situation that has the potential to be awkward. When she's at peace, however, Aarohi is an incredibly caring and understanding individual who is always willing to lend a hand to a friend if asked.
+Despite the loud personality that her career as an event planner would apply, Aarohi is incredibly conflict averse, almost bordering on shy. She has a tendency to flee or make any manner of excuses to get out of any situation that has the potential to be awkward, which is why she never revealed to [[James Mai|James]] and [[Susan Harper|Susan]] that she was a witch as well. When she's at peace, however, Aarohi is an incredibly caring and understanding individual who is always willing to lend a hand to a friend if asked.
 
 Aarohi has a fear of loneliness. She clung onto [[Joe Barclay|Joe]] when he entered her life because she feared it might be her last shot at love and a family, and luckily for her, it worked out. Joe and her daughter [[Teala Barclay|Teala]] proved to be everything to her later in life, and she wouldn't have traded them for anything in the world.
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <center>[![[Joe Portrait Gen 2.png]]](<Joe Barclay>)<br>[[Joe Barclay]]|<center>[![[Teala Portrait Gen 4.png]]](<Teala Barclay>)<br>[[Teala Barclay]]|<center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]|<center>[![[Susan Portrait Gen 2.png]]](<Samson Brown>)<br>[[Susan Harper]]|
+| <center>[![[Victor Portrait Gen 2.png]]](<Victor Feng>)<br>[[Victor Feng]]|<center>[![[Lily Portrait Gen 2.png]]](<Lily Feng>)<br>[[Lily Feng]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai>)<br>[[Seth Mai]] |<center>[![[Leah Portrait Gen 2.png]]](<Leah Mai>)<br>[[Leah Mai]]
+|<center>[![[Akira Portrait Gen 2.png]]](<Akira Kibo>)<br>[[Akira Kibo]]| <center>[![[Salim Portrait Gen 2.png]]](<Salim Benali>)<br>[[Salim Benali]]| <center>[![[Hajar Portrait Gen 2.png]]](<Hajar Cresques>)<br>[[Hajar Cresques]]| <center>[![[Rebekah Portrait Gen 4.png]]](<Rebekah Gossett>)<br>[[Rebekah Gossett]]|
 
 ## Appearances
 ##### [[Mai Legacy]]

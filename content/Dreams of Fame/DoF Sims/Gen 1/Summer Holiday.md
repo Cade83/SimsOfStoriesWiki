@@ -2,12 +2,12 @@
 > # Summer Holiday
 > ![[Summer Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Summer Holiday | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,18 +15,18 @@
 > | Relatives | [[Terra Holiday]] (Mother)<br>[[Giovanna Cardwell]] (Adoptive Mother)<br>[[José Yépez]] (Husband)<br>[[Nash Holiday]] (Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > | Home |[[BFFs House]]<br>[[Presley House]]| 
 > | Career | Bartender at [[Blue Velvet]]<br>Medical Receptionist<br>Owner of [[Summer's Restaurant]]| 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Other Appearances | [[Courage & Resolve]] | 
-> | Appearance Count | 28 | 
+> | Appearance Count | 31 | 
 > | First Appearance | Dreams of Fame *1.4 - Welcome to the Neighborhood!*
 
 > [!quote|author] Summer to Travis and Liberty
@@ -96,6 +96,12 @@ When Summer sets her mind to something, she pursues it relentlessly. This happen
 
 Summer has a tendency to be exceedingly cruel with her words, and furiously defensive of her choices, even if she herself recognizes that she's screwed up. Living in the [[Presley House]] only amplified her worst tendencies, especially during times when she was unhappy, but Summer recognizes that she's been a bitch for the vast majority of her life. That doesn't mean she's immune to feelings of guilt, or regret, for both her actions, and what happens to others. Summer would just chose not to admit those feelings. The only person she's able to truly open up to is José.
 
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[José Portrait Gen 1.png]]](<José Yépez>)<br>[[José Yépez]]|<center>[![[Nash Portrait Gen 2.png]]](<Nash Holiday>)<br>[[Nash Holiday]]|<center>[![[Travis Portrait Gen 1.png]]](<Travis Scott>)<br>[[Travis Scott]]|<center>[![[Liberty Portrait Gen 1.png]]](<Liberty Lee>)<br>[[Liberty Lee]]|
+|<center>[![[Zoe Portrait Gen 1.png]]](<Zoe Presley>)<br>[[Zoe Presley]] |<center>[![[Giovanna Portrait Gen 2.png]]](<Giovanna Cardwell>)<br>[[Giovanna Cardwell]]|<center>[![[Terra Portrait Gen 1.png]]](<Terra Holiday>)<br>[[Terra Holiday]]|
+
 ## Appearances
 #### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
@@ -119,6 +125,10 @@ Summer has a tendency to be exceedingly cruel with her words, and furiously defe
 - 1.1 - Amelia Brown
 - 1.3 - Charmed by the Willow (Cameo)
 - 1.13 - The Presley Family
+
+###### [[Summertime Haze]] Chapter 1: An Illusion of Safety
+- 1.18 - The Nurse
+- 1.22 - Reflecting
 
 #### Categories
 #Dreams_of_Fame_Characters #Holiday_Family #Main_Characters #Generation_1_Characters #Generation_2_Characters

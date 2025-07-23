@@ -2,12 +2,12 @@
 > # Travis Scott
 > ![[Travis Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Travis Scott | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,18 +15,18 @@
 > | Relatives | [[Charlie Scott]] (Biological Mother)<br>[[Catherine Scott]] (Stepmother)<br>[[Giovanna Cardwell]] (Adoptive Mother)<br>[[Liberty Lee]] (Wife)<br>[[Jacob Scott]] (Son)<br>[[Clara Scott]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > | Home |[[BFFs House]]<br>[[Presley House]]| 
 > | Career | Programmer at Laurent Programmers United | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Other Appearances | [[Courage & Resolve]] | 
-> | Appearance Count | 28 | 
+> | Appearance Count | 30 | 
 > | First Appearance | Dreams of Fame *1.4 - Welcome to the Neighborhood!*
 
 > [!quote|author] Travis to José.
@@ -96,6 +96,13 @@ Travis is the voice of reason in the Presley family. He's almost always the firs
 
 He also has a great love for his family. Travis started dyeing his hair for [[Catherine Scott|Catherine]]'s sake so she felt as if she was part of the family, and after marrying Liberty, he began to care for Summer as family as well now that their love triangle was behind them. This attitude resulted in him being an excellent father to his children [[Jacob Scott|Jacob]] and [[Clara Scott|Clara]], and later one of two fathers to [[Nash Holiday|Nash]] whenever Summer was unreliable. The only time he ever gets angry is when his family is threatened, such as when [[José Yépez|José]] forced Liberty to return to space.
 
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Liberty Portrait Gen 1.png]]](<Liberty Lee>)<br>[[Liberty Lee]]|<center>[![[Jacob Portrait Gen 2.png]]](<Jacob Scott>)<br>[[Jacob Scott]]|<center>[![[Clara Portrait Gen 2.png]]](<Clara Scott>)<br>[[Clara Scott]]|[![[Charlie Portrait Gen 1.png]]](<Charlie Scott>)<br>[[Charlie Scott]]|
+|[![[Catherine Portrait Gen 1.png]]](<Catherine Scott>)<br>[[Catherine Scott]]|<center>[![[José Portrait Gen 1.png]]](<José Yépez>)<br>[[José Yépez]]|<center>[![[Summer Portrait Gen 1.png]]](<Summer Holiday>)<br>[[Summer Holiday]]|<center>[![[Zoe Portrait Gen 1.png]]](<Zoe Presley>)<br>[[Zoe Presley]] |
+|<center>[![[Giovanna Portrait Gen 2.png]]](<Giovanna Cardwell>)<br>[[Giovanna Cardwell]]|
+
 ## Appearances
 #### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
@@ -117,6 +124,9 @@ He also has a great love for his family. Travis started dyeing his hair for [[Ca
 #### Cameo Appearances
 ###### [[Courage & Resolve]] Chapter 1: Strength of Character
 - 1.13 - The Presley Family
+###### [[Summertime Haze]] Chapter 1: An Illusion of Safety
+- 1.18 - The Nurse
+- 1.22 - Reflecting
 ###### [[Courage & Resolve]] Chapter 2: Strength of Will
 - 2.1 - A Grave Conversation
 
