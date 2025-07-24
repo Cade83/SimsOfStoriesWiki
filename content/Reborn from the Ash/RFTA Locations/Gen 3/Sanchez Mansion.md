@@ -2,12 +2,12 @@
 > # Sanchez Mansion
 > ![[K.1.1.1 edited.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Windenburg]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
 > | Generation | [[Third Generation]]|

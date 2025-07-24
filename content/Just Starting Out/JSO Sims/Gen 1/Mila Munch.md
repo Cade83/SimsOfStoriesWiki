@@ -2,12 +2,12 @@
 > # Mila Munch
 > ![[Mila Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Mila Munch | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,13 +15,13 @@
 > | Relatives | [[Gunther Munch]] (Eldest Son)<br>[[Wolfgang Munch]] (Middle Son)<br>[[Lucas Munch]] (Youngest Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Windenburg]]| 
 > | Career | Restaurant Critic | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Appearance Count | 3 | 

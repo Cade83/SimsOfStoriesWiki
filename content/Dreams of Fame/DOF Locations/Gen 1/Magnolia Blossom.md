@@ -2,12 +2,12 @@
 > # Magnolia Blossom Park
 > ![[s.1.2.5.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Willow Creek]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Other Appearances | [[Just Starting Out]]<br>[[Courage & Resolve]] | 
@@ -32,8 +32,6 @@ Magnolia Blossom Park is a place [[Giovanna Cardwell]] and her [[Granny's Husban
 > [!caption|left]
 > ![[B.1.9.2.png]] 
 > The bathroom building.
-
-<br style="clear:both; margin: 0; padding: 0" />
 
 > [!caption|left]
 > ![[G.1.5.12.png]] 

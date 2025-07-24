@@ -2,12 +2,12 @@
 > # Jamie Mai
 > ![[Jamie Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Jamie Mai | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Daniela Mai]] (Mother)<br>[[Ed Mai]] (Father)<br>[[James Mai]] (Brother)<br>[[Ty Cleary]] ( Husband)<br>[[Colette Cleary]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Oasis Springs]]| 
 > | Home |[[Daniela and Ed's]]<br>[[Cleary Ranch]]| 
 > | Career | Cleary Ranch Hand | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 6 | 

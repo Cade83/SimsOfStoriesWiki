@@ -2,12 +2,12 @@
 > # Presley School of Excellency
 > ![[S.1.31.9.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Willow Creek]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Generation | [[Second Generation]] |
@@ -34,7 +34,7 @@ Zoe initially planned for the school to be a family affair, with affordable tuit
 | <center><font size=2>Sixam Life<br><font size=3>*Absent* | <center><font size=2>The Search for Summer<br><font size=3>*Absent* | <center><font size=2>Sylvan Glade<br><font size=3>*Absent* | <center><font size=2>Proposal<br><font size=3>*Absent* | <center><font size=2>Back on Earth<br><font size=3>*Absent* |
 | <center><font size=2>Second Mother<br><font size=3>**Appears** | <center><font size=2>Sylvan Curse<br><font size=3>*Absent* | <center><font size=2>Final Sacrifice<br><font size=3>*Absent* |  |  |
 
-###### Chapter 2: ## Super Villains and Pianists
+###### Chapter 2: Super Villains and Pianists
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |
 | <center><font size=2>Celebrity Funeral<br><font size=3>**Appears** |     |     |     |     |

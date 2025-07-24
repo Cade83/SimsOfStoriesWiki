@@ -3,20 +3,20 @@
 > ![[Husband Gen 1.png]] 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Generation | [[First Generation]] |
 > | Relatives | [[Giovanna Cardwell]] (Wife)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In | [[Willow Creek]] | 
 > | Home | [[Magnolia Blossom]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Appearance Count | 1 | 
@@ -37,6 +37,11 @@ According to [[Giovanna Cardwell]], she and her husband used to galavant around 
 > Giovanna at her [[Giovanna's Husband's Grave|husband's grave]].
 
 The only thing that might indicate that Granny's husband once lived is a grave she dug in the Magnolia Blossom Park. Giovanna claims he was killed by a dragon, but historians believe that if the man actually existed, it was likely a heart attack.
+
+## Relationships
+| | 
+| ------------------------------------------------------------- | 
+|<center>[![[Giovanna Portrait Gen 1.png]]](<Giovanna Cardwell>)<br>[[Giovanna Cardwell]] |
 
 ## Appearances
 #### [[Dreams of Fame]]

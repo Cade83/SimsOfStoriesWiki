@@ -2,13 +2,13 @@
 > # Zoe Patel
 > ![[Patel Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Zoe Patel | 
 > | Nickname | Patel | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -16,14 +16,15 @@
 > | Relatives | [[Ariel Patel]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Oasis Springs]]| 
 > | Lived In |[[Willow Creek]]| 
+> | Home |[[Roomies House]]| 
 > | Career | Secretary at the [[President’s Mansion]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Appearance Count | 9 | 
@@ -63,7 +64,7 @@ Patel sued Zoe for the rights to *A Day in the Life of Granny*, launching a leng
 > ![[S.1.25.17.png]] 
 > Patel arrives at the [[Presley House]].
 
-Before the results of the case went public, Patel used their frequently mistaken identities to dip into Zoe's bank account and drain it of funds. She then dropped off the face of the earth for a few years. Her next gig was working as a secretary for [[Mitch Laurent]] at the [[President’s Mansion]]. It was a job that [[Cassandra Goth]], President Laurent's personal secretary had hired her for somewhat maliciously, as she was not a fan of President Laurent. It was while working job, which Patel had quickly come to hate, that she ran into [[José Yépez]], who wanted to report that an alien named [[Beatrice Stark]] had wiped the memory of Cassandra. Patel took it from a personal report to President Laurent to a public spectacle that she was sure to personally involve herself in that forced Beatrice to flee the planet and return to [[Sixam]].
+Before the results of the case went public, Patel used their frequently mistaken identities to dip into Zoe's bank account and drain it of funds. She then dropped off the face of the earth for a few years. Her next gig was working as a secretary for [[Mitch Laurent]] at the [[President’s Mansion]]. It was a job that [[Cassandra Goth]], President Laurent's personal secretary had hired her for somewhat maliciously, as she was not a fan of President Laurent. It was while working that job, which Patel had quickly come to hate, that she ran into [[José Yépez]], who wanted to report that an alien named [[Beatrice Stark]] had wiped the memory of Cassandra. Patel took it from a personal report to President Laurent to a public spectacle that she was sure to personally involve herself in that forced Beatrice to flee the planet and return to [[Sixam]].
 
 > [!caption|left]
 > ![[S.1.28.7.png]] 
@@ -75,6 +76,12 @@ Rather pleased with herself and recognizing that José was having romantic troub
 An incredibly vindictive woman, Patel can't really motivate herself unless she sees easy financial gain or if she hates the person. She quickly reached that point with [[Zoe Presley]]. After losing the court case, she dedicated the rest of her life to trying to ruin her and her family, even relocating to [[Willow Creek]] so she could be nearby just incase opportunity struck. She loves to put others down with cruel jabs, and delights in anything that might knock Zoe down a peg or two.
 
 Patel loves to seek out the spotlight, and both the *A Day in the Life of Granny* and [[Beatrice Stark|Beatrice]] situations allowed her to make very public facing statements that reached a wide audience. Situations like those feed into her ego, and validate her sense of entitlement. In Zoe Patel's mind, she can do no wrong.
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Ariel Portrait Gen 2.png]]](<Ariel Patel>)<br>[[Ariel Patel]] |<center>[![[Zoe Portrait Gen 1.png]]](<Zoe Presley>)<br>[[Zoe Presley]] |<center>[![[José Portrait Gen 1.png]]](<José Yépez>)<br>[[José Yépez]]|<center>[![[Giovanna Portrait Gen 1.png]]](<Giovanna Cardwell>)<br>[[Giovanna Cardwell]]|
+|<center>[![[Summer Portrait Gen 1.png]]](<Summer Holiday>)<br>[[Summer Holiday]]|<center>[![[Cassandra Portrait Gen 1.png]]](<Summer Holiday>)<br>[[Cassandra Goth]]|
 
 ## Appearances
 #### [[Dreams of Fame]]
