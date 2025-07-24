@@ -2,26 +2,27 @@
 > # Reese Inda
 > ![[Reese Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Reese Inda | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
 > | Generation | [[First Generation]] |
+> | Relatives | [[Antony Jeffers]] (Husband)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Oasis Springs]]| 
 > | Lived In |[[Willow Creek]]| 
 > | Career | Teacher | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Summertime Haze]] | 
 > | Appearance Count |  | 

@@ -2,13 +2,13 @@
 > # Judith-Noelle Gruber
 > ![[Judith-Noelle Gen 2 V2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Judith-Noelle Gruber | 
 > | Nicknames | J (By Tom)<br>Jude (In College) | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -16,7 +16,7 @@
 > | Relatives | [[Tom Gruber]] (Husband)<br>[[Daniel Gruber]] (Oldest Son)<br>[[Priscilla Gruber]] (Daughter)<br>[[Spenser Gruber]] (Middle Son)<br>[[Antwan Gruber]] (Youngest Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[San Myshuno]]| 
 > | Lived In |[[Britechester]]<br>[[Magnolia Promenade]]| 
@@ -24,10 +24,10 @@
 > | Career | Bartender<br>Political Scientist<br>[[Beauchamp Law]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Lies and Deceit]] | 
-> | Appearance Count | 4 | 
+> | Appearance Count | 5 | 
 > | First Appearance | Lies and Deceit *1.1 - Life Goes On*
 
 **Judith-Noelle Gruber** is one of the protagonists of the first chapter of [[Lies and Deceit]]. She's married to [[Tom Gruber]].
@@ -52,7 +52,17 @@ The fact that her family is far from perfect is an idea Judith-Noelle struggles 
 
 Regardless of her own personal struggles, Judith-Noelle maintains the facade of the chipper mother of four at all hours of the day, and it takes a lot for her to drop it.
 
+## Relationships
+| | | | | 
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Tom Portrait Gen 2.png]]](<Tom Gruber>)<br>[[Tom Gruber]]| <center>[![[Spenser Portrait Gen 2.png]]](<Spenser Gruber>)<br>[[Spenser Gruber]]| <center>[![[Antwan Portrait Gen 2.png]]](<Antwan Gruber>)<br>[[Antwan Gruber]]| <center>[![[Daniel Portrait Gen 2.png]]](<Daniel Gruber>)<br>[[Daniel Gruber]]|
+| <center>[![[Priscilla Portrait Gen 2.png]]](<Priscilla Gruber>)<br>[[Priscilla Gruber]]| <center>[![[Gretchen Portrait Gen 2.png]]](<Gretchen Zhou>)<br>[[Gretchen Zhou]]| <center>[![[Cecil Portrait Gen 2.png]]](<Cecil Zhou>)<br>[[Cecil Zhou]]|
+
+
 ## Appearances
+##### [[Lies and Deceit]]
+###### Chapter 1: No Love Lost
+
 #### Cameo Appearances
 ###### [[Courage & Resolve]] Chapter 1: Strength of Character
 - 1.15 - Headlights in the Night (Cameo)

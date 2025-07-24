@@ -2,12 +2,12 @@
 > # Terra Holiday
 > ![[Terra Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Terra Holiday | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,12 +15,12 @@
 > | Relatives | [[Summer Holiday]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Appearance Count | 2 | 
@@ -50,8 +50,13 @@ Terra is an overly critical woman who suffers from a lack of patience. She strug
 
 She ended up regretting her behavior later in life, after her husband passed and she was left with no family. But was too prideful to ever make a second attempt at connecting with Summer.
 
+## Relationships
+| | 
+| ------------------------------------------------------------- | 
+|<center>[![[Summer Portrait Gen 1.png]]](<Summer Holiday>)<br>[[Summer Holiday]] |
+
 ## Appearances
-#### [[Dreams of Fame]]
+##### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |

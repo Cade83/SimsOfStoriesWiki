@@ -2,12 +2,12 @@
 > # Jacob Scott
 > ![[Jacob Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Jacob Scott | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Travis Scott]] (Father)<br>[[Liberty Lee]] (Mother)<br>[[Clara Scott]] (Younger Sister)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Willow Creek]]| 
 > | Home |[[Presley House]]| 
 > | Career | Pianist | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Other Appearances | [[Courage & Resolve]] | 
@@ -40,8 +40,7 @@
 <br style="clear:both; margin: 0; padding: 0" />
 
 ## Appearances
-## Appearances
-#### [[Dreams of Fame]]
+##### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |

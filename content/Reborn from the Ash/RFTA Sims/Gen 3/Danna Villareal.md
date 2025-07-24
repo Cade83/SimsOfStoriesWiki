@@ -2,12 +2,12 @@
 > # Danna Villareal
 > ![[Danna Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Danna Villareal | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,13 +15,13 @@
 > | Relatives |[[Jacques Villareal]] (Husband)<br>[[Hugo Villareal]] (Oldest Son)<br>[[Luna Villareal]] (Daughter)<br>[[Max Villareal]] (Youngest Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Windenburg]]| 
 > | Home |[[Villareal Estate]]| 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
 > | Appearance Count | 1 | 
@@ -45,6 +45,11 @@ One day, Danna disappeared without a trace. It was news that shook all of Winden
 
 ## Personality
 Danna loves fine things and money, but she also has a great deal of love for [[Jacques Villareal|Jacques]] and her children. Being iced out of Jacques's business proceedings wounded Danna deeply, and she wanted nothing more than to force her way into being a part of things with her husband again.
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <center>[![[Jacques Portrait Gen 2.png]]](<Jacques Villareal>)<br>[[Jacques Villareal]]| <center>[![[Max Portrait Gen 3.png]]](<Max Villareal>)<br>[[Max Villareal]]| <center>[![[Luna Portrait Gen 3.png]]](<Luna Villareal>)<br>[[Luna Villareal]]|<center>[![[Hugo Portrait Gen 3.png]]](<Hugo Villareal>)<br>[[Hugo Villareal]]|
 
 ## Appearances
 ##### [[Reborn from the Ash]]

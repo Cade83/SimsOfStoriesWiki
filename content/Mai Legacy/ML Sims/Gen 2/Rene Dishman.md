@@ -2,12 +2,12 @@
 > # Rene Dishman
 > ![[Rene Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Rene Dishman | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,13 +15,13 @@
 > | Relatives | [[Sara Dishman]] (Wife)<br>[[Jocelyn Dishman]] (Daughter)<br>[[Ivan Dishman]] (Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Britechester]]| 
 > | Home |[[Dishman House]]| 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Other Appearances | [[Lies and Deceit]] | 
@@ -55,10 +55,13 @@ When Sara chose to sell her company and retire early, Rene was forced to follow 
 
 His growing proximity to the Mai Family, however, ultimately proved to be his undoing. A month after Jocelyn's marriage to Seth, [[Hajar Cresques]], an enemy of the Mai Family,  chose to set the [[Dishman House]] to get back at the Mais. Rene and Sara ensured that Ivan escaped, but were unable to survive themselves.
 
-<br style="clear:both; margin: 0; padding: 0" />
-
 ## Personality
 Rene is a man of few words. It's rare for him to speak at all, but he's always listening intently. This ability to listen let him be a strong partner to [[Sara Dishman|Sara]], and helped him better connect with [[Jocelyn Dishman|Jocelyn]] and [[Ivan Dishman|Ivan]] in the small ways he could.
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Sara Portrait Gen 2.png]]](<Sara Dishman>)<br>[[Sara Dishman]]|<center>[![[Jocelyn Portrait Gen 2.png]]](<Jocelyn Dishman>)<br>[[Jocelyn Dishman]]|<center>[![[Ivan Portrait Gen 3.png]]](<Ivan Dishman>)<br>[[Ivan Dishman]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai>)<br>[[Seth Mai]] |
 
 ## Appearances
 ##### [[Mai Legacy]]
