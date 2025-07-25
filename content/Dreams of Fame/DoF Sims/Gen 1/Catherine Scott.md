@@ -2,12 +2,12 @@
 > # Catherine Scott
 > ![[Catherine Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Catherine Scott | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,13 +15,13 @@
 > | Relatives |[[Charlie Scott]] (Wife)<br>[[Travis Scott]] (Stepson)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > | Career | Lawyer | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Appearance Count | 5 | 
@@ -59,8 +59,13 @@ In comparison to [[Charlie Scott|Charlie]], Catherine is significantly more grou
 
 As a stepmother, a part of Catherine always felt like a secondary mother to [[Travis Scott|Travis]]. She almost felt like she was competing with her at times, and once [[Giovanna Cardwell|Giovanna]] entered the picture, she was competing with two mothers. Travis originally started dyeing his hair blond to match hers to alleviate this, years ago, but her doubts persisted, even cropping up during Case: Zoe v. Zoe. Charlie and Travis recognized this part of her, however, and always did their best to reassure her that she and Charlie were equals.
 
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|[![[Charlie Portrait Gen 1.png]]](<Charlie Scott>)<br>[[Charlie Scott]]|<center>[![[Travis Portrait Gen 1.png]]](<Travis Scott>)<br>[[Travis Scott]]|<center>[![[Liberty Portrait Gen 1.png]]](<Liberty Lee>)<br>[[Liberty Lee]]|<center>[![[Giovanna Portrait Gen 2.png]]](<Giovanna Cardwell>)<br>[[Giovanna Cardwell]]|
+
 ## Appearances
-#### [[Dreams of Fame]]
+##### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |

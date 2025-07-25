@@ -2,12 +2,12 @@
 > # Reardon House
 > ![[C.1.5.5.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Willow Creek]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Summertime Haze]] | 
 > | Generation | [[First Generation]]|
@@ -40,8 +40,6 @@ It was well known in the area that both Alina and Layne were semi-retired member
 > ![[C.1.15.14.png]] 
 > The dining room.
 
-<br style="clear:both; margin: 0; padding: 0" />
-
 > [!caption|left]
 > ![[C.1.5.10.png]] 
 > The living room.
@@ -50,8 +48,6 @@ It was well known in the area that both Alina and Layne were semi-retired member
 > ![[C.1.4.15.png]] 
 > The hallway to the kids' rooms.
 
-<br style="clear:both; margin: 0; padding: 0" />
-
 > [!caption|left]
 > ![[C.1.12.4.png]] 
 > Bennett's room.
@@ -59,8 +55,6 @@ It was well known in the area that both Alina and Layne were semi-retired member
 > [!caption|left]
 > ![[C.1.4.16.png]] 
 > Regan's room.
-
-<br style="clear:both; margin: 0; padding: 0" />
 
 > [!caption|left]
 > ![[C.1.5.12.png]] 
@@ -80,7 +74,7 @@ It was well known in the area that both Alina and Layne were semi-retired member
 | <center><font size=2>The Counselor's Plan<br><font size=3>*Absent*| <center><font size=2>A Roach<br><font size=3>*Absent* | <center><font size=2>A Budding Friendship<br><font size=3>*Absent*| <center><font size=2>The Baxter Family<br><font size=3>*Absent* | <center><font size=2>People Against Ellen<br><font size=3>*Absent* |
 | <center><font size=2>Hayley<br><font size=3>*Absent*  | <center><font size=2>The Squad<br><font size=3>**Appears** | <center><font size=2>Forbidden Kiss<br><font size=3>**Appears**| <center><font size=2>A Sign From Above<br><font size=3>*Absent*| <center><font size=2>A Change for the Worst<br><font size=3>**Appears** |
 | <center><font size=2>The Bump in the Night<br><font size=3>*Absent*  | <center><font size=2>What Would SHE Want?<br><font size=3>*Absent* | <center><font size=2>The Nurse<br><font size=3>*Absent* | <center><font size=2>A Time for Mourning<br><font size=3>*Absent*| <center><font size=2>About Time<br><font size=3>*Absent* |
-| <center><font size=2>The Witch of the Willow<br><font size=3>*Absent* |
+| <center><font size=2>The Witch of the Willow<br><font size=3>*Absent* | <center><font size=2>Reflecting<br><font size=3>*Absent* |
 
 #### Categories
 #Summertime_Haze_Locations #Residence #Reardon_Family #Generation_1_Locations
