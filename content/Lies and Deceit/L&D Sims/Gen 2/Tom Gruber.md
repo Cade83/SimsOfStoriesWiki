@@ -2,12 +2,12 @@
 > # Tom Gruber
 > ![[Tom Gen 2 V2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Tom Gruber | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,7 +15,7 @@
 > | Relatives | [[Judith-Noelle Gruber]] (Wife)<br>[[Daniel Gruber]] (Oldest Son)<br>[[Priscilla Gruber]] (Daughter)<br>[[Spenser Gruber]] (Middle Son)<br>[[Antwan Gruber]] (Youngest Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[San Myshuno]]| 
 > | Lived In |[[Britechester]]<br>[[Magnolia Promenade]]| 
@@ -23,10 +23,10 @@
 > | Career | Gambler | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Lies and Deceit]] | 
-> | Appearance Count | 3 | 
+> | Appearance Count | 4 | 
 > | First Appearance | Lies and Deceit *1.1 - Life Goes On*
 
 **Tom Gruber** is one of the protagonists of the first chapter of [[Lies and Deceit]]. He's married to [[Judith-Noelle Gruber]].
@@ -45,7 +45,15 @@ Tom is a man always in pursuit of fun and quick and immediate satisfaction. He l
 
 Despite everything, however, Tom is a family man. He has a great deal of love for Judith-Noelle and his children, and tries to help out in his own way, such as through negotiating rent down with [[Ervin Stuart|Ervin]] or being there to give advice when its needed. His drinking problem unfortunately keeps a wall between himself and his family, which is yet another frustration that drives him to the bottle.
 
+## Relationships
+| | | | | 
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <center><font size=2.5>[![[Judith-Noelle Portrait Gen 2.png]]](<Judith-Noelle Gruber>)<br>[[Judith-Noelle Gruber]]| <center>[![[Antwan Portrait Gen 2.png]]](<Antwan Gruber>)<br>[[Antwan Gruber]]| <center>[![[Daniel Portrait Gen 2.png]]](<Daniel Gruber>)<br>[[Daniel Gruber]]| <center>[![[Priscilla Portrait Gen 2.png]]](<Priscilla Gruber>)<br>[[Priscilla Gruber]]|
+| <center>[![[Spenser Portrait Gen 2.png]]](<Spenser Gruber>)<br>[[Spenser Gruber]]| <center>[![[Ervin Portrait Gen 2.png]]](<Ervin Stuart>)<br>[[Ervin Stuart]]|
+
 ## Appearances
+##### [[Lies and Deceit]]
+###### Chapter 1: No Love Lost
 
 #### Categories
-#Lies_and_Deceit_Characters #Gruber_Family #Main_Characters #Antagonistic_Characters  #Generation_1_Characters #Generation_2_Characters
+#Lies_and_Deceit_Characters #Gruber_Family #Main_Characters  #Generation_1_Characters #Generation_2_Characters

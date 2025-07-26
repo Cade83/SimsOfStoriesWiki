@@ -2,9 +2,10 @@ Lies and Deceit is the sixth occurring Sims Story, featuring the [[Judith-Noelle
 ## Chapter 1: No Love Lost
 >*Tom and Judith-Noelle Gruber's marriage and family started out perfect. But after a disastrous debate performance, things took a sharp downturn for the Gruber family, and with money running out and four adult children to take care of, things won't be looking up any time soon. Secrets are whispered behind closed doors, and much of the family isn't honest with each other, or even themselves. When presented with a golden opportunity to start over, away from the city, the Gruber family takes a chance. But what's waiting for them outside of the city may change their family dynamic forever...*
 
-[1.1 - Life Goes On](https://thesimsofstories.weebly.com/11---life-goes-on.html)
-[1.2 - Drunken Murmurs](https://thesimsofstories.weebly.com/12---drunken-murmurs.html)
-[1.3 - Seminar](https://thesimsofstories.weebly.com/13---seminar.html)
+* [1.1 - Life Goes On](https://thesimsofstories.weebly.com/11---life-goes-on.html)
+* [1.2 - Drunken Murmurs](https://thesimsofstories.weebly.com/12---drunken-murmurs.html)
+* [1.3 - Seminar](https://thesimsofstories.weebly.com/13---seminar.html)
+* [1.4 - An Evening of Lies](https://thesimsofstories.weebly.com/14---an-evening-of-lies.html)
 
 ##### Characters
 | | | | | 

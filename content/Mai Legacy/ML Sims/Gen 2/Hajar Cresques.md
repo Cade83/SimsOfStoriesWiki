@@ -2,12 +2,12 @@
 > # Hajar Cresques
 > ![[Hajar Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Hajar Cresques | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Witch |
@@ -15,14 +15,14 @@
 > | Relatives | [[Joaquin Le Chien]] (Husband)<br>[[Julianne Le Chien]] (Daughter)<br>[[Pace Le Chien]] (Oldest Son)<br>[[Korbin Le Chien]] (Youngest Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Windenburg]]| 
 > | Home |[[Le Chien House]]| 
 > | Career | Chemist | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 9 | 
@@ -39,9 +39,9 @@
 > ![[1.22.8.png]] 
 > Hajar whispers to Joaquin.
 
-Hajar first met [[Joaquin Le Chien]] in high school, where she became one of his closest friends. She watched as he fell for [[Sergio Romeo]], and a part of her was jealous. Joaquin has her person, she benefited from his wealth and influence, and she hated that he'd choose anyone over her. As his best friend, Hajar knew a lot about Joaquin's personal life, and tried to turn it against him to make him walk away from Sergio. She'd tell him that his parents wouldn't approve, that he and Sergio couldn't have children to continue the legacy, but it was all for naught. 
+Hajar first met [[Joaquin Le Chien]] in [[Windenburg Secondary School|secondary school]], where she became one of his closest friends. She watched as he fell for [[Sergio Romeo]], and a part of her was jealous. Joaquin has her person, she benefited from his wealth and influence, and she hated that he'd choose anyone over her. As his best friend, Hajar knew a lot about Joaquin's personal life, and tried to turn it against him to make him walk away from Sergio. She'd tell him that his parents wouldn't approve, that he and Sergio couldn't have children to continue the legacy, but it was all for naught. 
 
-Hajar was separated from Joaquin when she went off to college to study science, where she befriended [[Aarohi Barclay]]. While there, she roomed with [[Fatima Mansouri]], a woman who had already studied a bit of witchcraft. Inspired, Hajar became a witch herself, and even studied briefly under [[Elaine Oldham]] to master the art of alchemy. She became good enough to eventually mentor Fatima herself. With her newfound knowledge, Hajar showed up on Joaquin's doorstep, and began to whisper doubts about Sergio to him again. This time, however, they were laced with magic that would last as long as she could keep him from pining for Sergio.
+Hajar was separated from Joaquin when she went off to university to study science, where she befriended [[Aarohi Barclay]]. While there, she roomed with [[Fatima Mansouri]], a woman who had already studied a bit of witchcraft. Inspired, Hajar became a witch herself, and even studied briefly under [[Elaine Oldham]] to master the art of alchemy. She became good enough to eventually mentor Fatima herself. With her newfound knowledge, Hajar showed up on Joaquin's doorstep, and began to whisper doubts about Sergio to him again. This time, however, they were laced with magic that would last as long as she could keep him from pining for Sergio.
 
 > [!caption|left]
 > ![[1.22.10.png]] 
@@ -90,6 +90,13 @@ An incredibly self-motivated woman, Hajar will do anything to ensure the betterm
 
 Hajar is also defined by her dedication. Once she settles on something, she will do anything to ensure she reaches her goal, even if getting there involves seriously injuring or killing people in the process. Her words are similarly barbed, as she'll boldly speak her mind without fear of retribution.
 
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Joaquin Portrait Gen 2.png]]](<Joaquin Le Chien>)<br>[[Joaquin Le Chien]]| <center>[![[Rosaline Portrait Gen 2.png]]](<Rosaline Le Chien>)<br>[[Rosaline Le Chien]]| <center>[![[Bronson Portrait Gen 2.png]]](<Bronson Le Chien>)<br>[[Bronson Le Chien]]|<center>[![[Fatima Portrait Gen 3.png]]](<Fatima Mansouri>)<br>[[Fatima Mansouri]]
+|<center>[![[Elaine Portrait Gen 4.png]]](<Elaine Oldham.md>)<br>[[Elaine Oldham]]| <center>[![[Romeo Portrait Gen 2.png]]](<Sergio Romeo>)<br>[[Sergio Romeo]]|<center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]|<center>[![[Susan Portrait Gen 2.png]]](<Susan Harper>)<br>[[Susan Harper]]|
+| <center>[![[Julianne Portrait Gen 3.png]]](<Julianne Le Chien>)<br>[[Julianne Le Chien]]| <center>[![[Pace Portrait Gen 3.png]]](<Pace Le Chien>)<br>[[Pace Le Chien]]| <center>[![[Korbin Portrait Gen 3.png]]](<Korbin Le Chien>)<br>[[Korbin Le Chien]]| <center>[![[Aarohi Portrait Gen 2.png]]](<Aarohi Barclay>)<br>[[Aarohi Barclay]]|
+
 ## Appearances
 ##### [[Mai Legacy]]
 ###### Generation 1: James
@@ -104,4 +111,4 @@ Hajar is also defined by her dedication. Once she settles on something, she will
 | <center><font size=2>The End of a Generation<br><font size=3>***Mentioned***  |
 
 #### Categories
-#Mai_Legacy_Characters #Le_Chien_Family #Main_Characters #Antagonistic_Characters  #Generation_2_Characters
+#Mai_Legacy_Characters #Le_Chien_Family #Main_Characters #Antagonistic_Characters  #Generation_2_Characters #Witches

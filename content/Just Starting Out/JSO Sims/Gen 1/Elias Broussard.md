@@ -2,12 +2,12 @@
 > # Elias Broussard
 > ![[Elias Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Elias Broussard | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,13 +15,13 @@
 > | Relatives | [[Perla Broussard]] (Mother)<br>[[Deandre Broussard]] (Father)<br>[[Mandy Broussard]] (Younger Sister)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Newcrest]]| 
 > | Career | Chef | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Appearance Count | 1 | 

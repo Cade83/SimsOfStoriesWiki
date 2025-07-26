@@ -2,12 +2,12 @@
 > # Sylvan Glade
 > ![[S.1.28.17.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Willow Creek]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Generation | [[First Generation]] |
@@ -35,7 +35,7 @@ There is a strange piece of architecture in the clearing that is only visible to
 <br style="clear:both; margin: 0; padding: 0" />
 
 ## Appearances
-#### [[Dreams of Fame]]
+##### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |
