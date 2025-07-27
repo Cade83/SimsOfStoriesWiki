@@ -2,12 +2,12 @@
 > # Mortimer Goth
 > ![[Mortimer Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Mortimer Goth | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Vampire |
@@ -15,14 +15,14 @@
 > | Relatives | [[Bella Goth]] (Wife)<br>[[Cassandra Goth]] (Daughter)<br>[[Alexander Goth]] (Brother)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > | Home |[[Goth Mansion]]| 
 > | Career | Land Owner | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Other Appearances | [[Dreams of Fame]] | 

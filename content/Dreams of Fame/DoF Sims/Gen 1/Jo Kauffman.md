@@ -2,26 +2,26 @@
 > # Jo Kauffman
 > ![[Jo Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Jo Kauffman | 
 > | Nicknames | Granny 2 (By Clara and Jacob) | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
 > | Generation | [[First Generation]] |
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > | Home | [[Jo's House]]| 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Other Appearances | [[Courage & Resolve]] | 
@@ -71,8 +71,14 @@ An incredibly level-headed woman, Jo has a clear distinction of what's right and
 
 Her love for socialization comes in a few different forms. One of Jo's greatest joys is entertaining friends over afternoon tea in the comfort of her own home, where she gives advice and opinions. She also tends to be a bit of a gossip, and those conversations tend to be when she is at her least serious.
 
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Amelia Portrait Gen 1.png]]](<Giovanna Cardwell>)<br>[[Amelia Brown]]|<center>[![[Giovanna Portrait Gen 1.png]]](<Giovanna Cardwell>)<br>[[Giovanna Cardwell]]|<center>[![[Beatrice Portrait Gen 1.png]]](<Beatrice Stark>)<br>[[Beatrice Stark]]|<center>[![[Liberty Portrait Gen 1.png]]](<Liberty Lee>)<br>[[Liberty Lee]]|
+|<center>[![[Travis Portrait Gen 1.png]]](<Travis Scott>)<br>[[Travis Scott]]|<center>[![[Summer Portrait Gen 1.png]]](<Summer Holiday>)<br>[[Summer Holiday]]|<center>[![[Zoe Portrait Gen 1.png]]](<Zoe Presley>)<br>[[Zoe Presley]]| <center>[![[José Portrait Gen 1.png]]](<José Yépez>)<br>[[José Yépez]]|
+
 ## Appearances
-#### [[Dreams of Fame]]
+##### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
 |                                                                       |                                                                             |                                                                       |                                                                            |                                                                           |
 | --------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
@@ -84,7 +90,7 @@ Her love for socialization comes in a few different forms. One of Jo's greatest 
 | <center><font size=2>Sixam Life<br><font size=3>*Absent*              | <center><font size=2>The Search for Summer<br><font size=3>**Appears**      | <center><font size=2>Sylvan Glade<br><font size=3>*Absent*            | <center><font size=2>Proposal<br><font size=3>**Appears**                  | <center><font size=2>Back on Earth<br><font size=3>**Appears**            |
 | <center><font size=2>Second Mother<br><font size=3>*Absent*           | <center><font size=2>Sylvan Curse<br><font size=3>**Appears**               | <center><font size=2>Final Sacrifice<br><font size=3>**Appears**      |                                                                            |                                                                           |
 
-###### Chapter 2: ## Super Villains and Pianists
+###### Chapter 2: Super Villains and Pianists
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |
 | <center><font size=2>Celebrity Funeral<br><font size=3>**Appears** |     |     |     |     |
@@ -95,7 +101,7 @@ Her love for socialization comes in a few different forms. One of Jo's greatest 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- | ----------------------------------- |
 | <center><font size=2>Amelia Brown<br><font size=3>**Appears** |<center><font size=2>First Day of a New Life<br><font size=3>*Absent* | <center><font size=2>Charmed by the Willow<br><font size=3>**Appears** | <center><font size=2>A Rival in the Workplace<br><font size=3>*Absent* | <center><font size=2>Getting Clever<br><font size=3>***Mentioned*** 
 |<center><font size=2>The Beauchamp's Apology<br><font size=3>**Appears**| <center><font size=2>Samson<br><font size=3>***Mentioned***  | <center><font size=2>A Man Scorned<br><font size=3>*Absent*  | <center><font size=2>Strength of Character<br><font size=3>**Appears**  |<center><font size=2>A Long Owed Explanation<br><font size=3>**Appears**  |
-|<center><font size=2>The Bitterness Within<br><font size=3>**Appears**  | <center><font size=2>News in the Dead of Night<br><font size=3>***Mentioned*** | <center><font size=2>The Presley Family<br><font size=3>***Mentioned*** | <center><font size=2>Tarnished Memories<br><font size=3>***Mentioned***  | <center><font size=2>A Headlights in the Night<br><font size=3>***Mentioned*** |
+|<center><font size=2>The Bitterness Within<br><font size=3>**Appears**  | <center><font size=2>News in the Dead of Night<br><font size=3>***Mentioned*** | <center><font size=2>The Presley Family<br><font size=3>***Mentioned*** | <center><font size=2>Tarnished Memories<br><font size=3>***Mentioned***  | <center><font size=2>Headlights in the Night<br><font size=3>***Mentioned*** |
 #### Cameo Appearances
 ###### [[Summertime Haze]] Chapter 1: An Illusion of Safety
 - 1.18 - The Nurse

@@ -2,12 +2,12 @@
 > # Malcolm Landgraab
 > ![[Malcolm Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Malcolm Landgraab | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Geoffrey Landgraab]] (Father)<br>[[Nancy Landgraab]] (Mother)<br>[[Johnny Zest]] (Brother)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Oasis Springs]]<br>[[Newcrest]]| 
 > | Home |[[Landgraab Mansion]]<br>[[Brooks House]]| 
 > | Career | Landgraab Industries Heir Apparent | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Other Appearances | [[Dreams of Fame]] | 
