@@ -2,12 +2,12 @@
 > # Blue Velvet
 > ![[G.1.4.11.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Willow Creek]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Other Appearances | [[Just Starting Out]]<br>[[Mai Legacy]] | 
@@ -33,8 +33,6 @@ During the [[Second Generation]], [[James Mai]] and [[Susan Harper]] visit the B
 > ![[S.1.30.28.png]] 
 > The lounge decorated for Summer and José.
 
-<br style="clear:both; margin: 0; padding: 0" />
-
 > [!caption|left]
 > ![[S.1.30.31.png]] 
 > The upstairs decorated for Summer and José.
@@ -46,7 +44,7 @@ During the [[Second Generation]], [[James Mai]] and [[Susan Harper]] visit the B
 <br style="clear:both; margin: 0; padding: 0" />
 
 ## Appearances
-#### [[Dreams of Fame]]
+##### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |

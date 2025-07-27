@@ -2,12 +2,12 @@
 > # Jacqueline Sanchez
 > ![[Jacqueline Gen 3 V2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Jacqueline Sanchez | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,7 +15,7 @@
 > | Relatives | [[Antonio Sanchez]] (Husband)<br>[[Kiara Sanchez]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Selvadorada]]| 
 > | Lived In |[[Windenburg]]| 
@@ -23,7 +23,7 @@
 > | Career | Married to the Head of the Sanchez Family | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
 > | Appearance Count | 6 | 

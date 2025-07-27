@@ -2,12 +2,12 @@
 > # Adrienne Brooks
 > ![[Adrienne Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Adrienne Brooks | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,21 +15,21 @@
 > | Relatives | [[Jameson Brooks]] (Husband)<br>[[John Brooks]] (Son)<br>[[Kayla Brooks]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > | Home |[[Adrienne and Jameson’s]]| 
 > | Career | Realtor | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Other Appearances | [[Dreams of Fame]] | 
 > | Appearance Count | 8 | 
 > | First Appearance | Just Starting Out *1.1 - Starter Home*
 
-**Adrienne Brooks** is a character in the first chapter of [[Just Starting Out]]. She's the mother of [[John Brooks|John]] and [[Kayla Brooks]], and a realtor who serves the [[Willow Creek]] area.
+**Adrienne Brooks** is a character in the first chapter of [[Just Starting Out]]. She's the mother of [[John Brooks|John]] and [[Kayla Brooks]], and a [[Adrienne's Real Estate|realtor]] who serves the [[Willow Creek]] area.
 
 ## Profile
 
