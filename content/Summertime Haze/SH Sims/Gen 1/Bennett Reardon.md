@@ -2,12 +2,12 @@
 > # Bennett Reardon
 > ![[Bennett Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Bennett Reardon | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,17 +15,17 @@
 > | Relatives | [[Layne Reardon]] (Father)<br>[[Alina Reardon]] (Mother)<br>[[Regan Reardon]] (Sister)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Willow Creek]]| 
 > | Home |[[Reardon House]]<br>[[Crespo House]]| 
 > | Career | Painter | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Summertime Haze]] | 
-> | Appearance Count | 14 | 
+> | Appearance Count | 15 | 
 > | First Appearance | Summertime Haze *1.2 - The Man Next-Door*
 
 > [!quote|author] Bennett expressing concern to his friends.
@@ -73,16 +73,22 @@ That changes, however, when it comes to [[Regan Reardon|Regan]]. The two of them
 
 Bennett also sticks up for his friends, having stepped in as [[Henry Doyle|Henry]]'s friend when he recognized he really needed it, even shouting at [[Ellen Bowers|Ellen]] for his sake. He gives good advice, and is there for emotional support whenever it's needed. Both he and Jordan are willing to drop anything to be there for a friend-in-need, and it's that energy that likely drew them together.
 
+## Relationships
+| | | | | 
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <center>[![[Jordan Portrait Gen 1.png]]](<Jordan Crespo>)<br>[[Jordan Crespo]]| <center>[![[Henry Portrait Gen 1.png]]](<Henry Doyle>)<br>[[Henry Doyle]]| <center>[![[Toby Portrait Gen 1.png]]](<Toby Baxter>)<br>[[Toby Baxter]]| <center>[![[Regan Portrait Gen 1.png]]](<Regan Reardon>)<br>[[Regan Reardon]]|
+| <center>[![[Alina Portrait Gen 1.png]]](<Alina Reardon>)<br>[[Alina Reardon]]|<center>[![[Layne Portrait Gen 1.png]]](<Layne Reardon>)<br>[[Layne Reardon]]| <center>[![[Hope Portrait Gen 1.png]]](<Hope Peck.md>)<br>[[Hope Peck]]|<center>[![[Paolo Portrait Gen 1.png]]](<Paolo Rocca.md>)<br>[[Paolo Rocca]]|
+
 ## Appearances
 ##### [[Summertime Haze]]
 ###### Chapter 1: An Illusion of Safety
 
-|                                                                       |     |     |     |     |
-| --------------------------------------------------------------------- | --- | --- | --- | --- |
-| <center><font size=2>Escaping the Past<br><font size=3>*Absent*  | <center><font size=2>The Man Next-Door<br><font size=3>**Appears** | <center><font size=2>The Counselor<br><font size=3>*Absent* | <center><font size=2>Reardon<br><font size=3>**Appears** | <center><font size=2>Summertime Hangout<br><font size=3>**Appears** |
-| <center><font size=2>The Counselor's Plan<br><font size=3>*Absent*  | <center><font size=2>A Roach<br><font size=3>*Absent* | <center><font size=2>A Budding Friendship<br><font size=3>*Absent* | <center><font size=2>The Baxter Family<br><font size=3>*Absent* | <center><font size=2>People Against Ellen<br><font size=3>**Appears** |
-| <center><font size=2>Hayley<br><font size=3>**Appears**  | <center><font size=2>The Squad<br><font size=3>**Appears** | <center><font size=2>Forbidden Kiss<br><font size=3>**Appears** | <center><font size=2>A Sign From Above<br><font size=3>**Appears** | <center><font size=2>A Change for the Worst<br><font size=3>**Appears** |
-| <center><font size=2>The Bump in the Night<br><font size=3>**Appears**   | <center><font size=2>What Would SHE Want?<br><font size=3>**Appears** | <center><font size=2>The Nurse<br><font size=3>*Absent* | <center><font size=2>A Time for Mourning<br><font size=3>**Appears** | <center><font size=2>About Time<br><font size=3>**Appears** |
-| <center><font size=2>The Witch of the Willow<br><font size=3>**Appears**  |
+|                                                                           |                                                                       |                                                                           |                                                                        |                                                                         |
+| ------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| <center><font size=2>Escaping the Past<br><font size=3>*Absent*           | <center><font size=2>The Man Next-Door<br><font size=3>**Appears**    | <center><font size=2>The Counselor<br><font size=3>***Mentioned***        | <center><font size=2>Reardon<br><font size=3>**Appears**               | <center><font size=2>Summertime Hangout<br><font size=3>**Appears**     |
+| <center><font size=2>The Counselor's Plan<br><font size=3>***Mentioned*** | <center><font size=2>A Roach<br><font size=3>***Mentioned***          | <center><font size=2>A Budding Friendship<br><font size=3>***Mentioned*** | <center><font size=2>The Baxter Family<br><font size=3>***Mentioned*** | <center><font size=2>People Against Ellen<br><font size=3>**Appears**   |
+| <center><font size=2>Hayley<br><font size=3>**Appears**                   | <center><font size=2>The Squad<br><font size=3>**Appears**            | <center><font size=2>Forbidden Kiss<br><font size=3>**Appears**           | <center><font size=2>A Sign From Above<br><font size=3>**Appears**     | <center><font size=2>A Change for the Worst<br><font size=3>**Appears** |
+| <center><font size=2>The Bump in the Night<br><font size=3>**Appears**    | <center><font size=2>What Would SHE Want?<br><font size=3>**Appears** | <center><font size=2>The Nurse<br><font size=3>***Mentioned***            | <center><font size=2>A Time for Mourning<br><font size=3>**Appears**   | <center><font size=2>About Time<br><font size=3>**Appears**             |
+| <center><font size=2>The Witch of the Willow<br><font size=3>**Appears**  | <center><font size=2>Reflecting<br><font size=3>**Appears**           |                                                                           |                                                                        |                                                                         |
 #### Categories
 #Summertime_Haze_Characters #Reardon_Family #Crespo_Family #Main_Characters #Generation_1_Characters

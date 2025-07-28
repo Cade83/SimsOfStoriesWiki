@@ -2,12 +2,12 @@
 > # Planet Honeypop
 > ![[1.2.5 v2.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[San Myshuno]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Generation | [[Second Generation]]|

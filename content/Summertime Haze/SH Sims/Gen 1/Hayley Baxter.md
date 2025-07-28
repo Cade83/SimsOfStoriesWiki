@@ -2,12 +2,12 @@
 > # Hayley Baxter
 > ![[Hayley Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Hayley Baxter | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,7 +15,7 @@
 > | Relatives | [[Toby Baxter]] (Husband)<br>[[Jennifer Baxter]] (Daughter)<br>[[Nathan Baxter]] (Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Oasis Springs]]| 
 > | Lived In |[[Willow Creek]]| 
@@ -23,7 +23,7 @@
 > | Career | Stay-at-Home Mom | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Summertime Haze]] | 
 > | Appearance Count | 7 | 
@@ -78,16 +78,23 @@ As a stay-at-home mom, Hayley is willing to do anything to support her family, w
 
 Hayley's biggest flaw is that her desire for her perfect life and perfect family can blind her. [[Reese Inda|Reese]] warned her numerous times about her suspicions about Toby's sexuality, but Hayley threatened to cut her off over entertaining the idea. She ignored all the hints with [[Paolo Rocca|Paolo]] and Henry as well, operating with a dangerous degree of blindness.
 
+## Relationships
+| | | | | 
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <center>[![[Toby Portrait Gen 1.png]]](<Toby Baxter>)<br>[[Toby Baxter]]| <center>[![[Jennifer Portrait Gen 1.png]]](<Jennifer Baxter>)<br>[[Jennifer Baxter]]| <center>[![[Nathan Portrait Gen 1.png]]](<Nathan Baxter>)<br>[[Nathan Baxter]]| <center>[![[Reese Portrait Gen 1.png]]](<Reese Inda.md>)<br>[[Reese Inda]]
+|<center>[![[Paolo Portrait Gen 1.png]]](<Paolo Rocca.md>)<br>[[Paolo Rocca]]|<center>[![[Henry Portrait Gen 1.png]]](<Henry Doyle>)<br>[[Henry Doyle]]| <center>[![[Jordan Portrait Gen 1.png]]](<Jordan Crespo>)<br>[[Jordan Crespo]]| <center>[![[Hope Portrait Gen 1.png]]](<Hope Peck.md>)<br>[[Hope Peck]]|
+| <center>[![[Bennett Portrait Gen 1.png]]](<Bennett Reardon>)<br>[[Bennett Reardon]]|<center>[![[Ellen Portrait Gen 1.png]]](<Ellen Bowers>)<br>[[Ellen Bowers]]|
+
 ## Appearances
 ##### [[Summertime Haze]]
 ###### Chapter 1: An Illusion of Safety
 
-|                                                                       |     |     |     |     |
-| --------------------------------------------------------------------- | --- | --- | --- | --- |
-| <center><font size=2>Escaping the Past<br><font size=3>*Absent*  | <center><font size=2>The Man Next-Door<br><font size=3>*Absent* | <center><font size=2>The Counselor<br><font size=3>*Absent* | <center><font size=2>Reardon<br><font size=3>*Absent* | <center><font size=2>Summertime Hangout<br><font size=3>*Absent* |
-| <center><font size=2>The Counselor's Plan<br><font size=3>**Appears**  | <center><font size=2>A Roach<br><font size=3>***Mentioned*** | <center><font size=2>A Budding Friendship<br><font size=3>***Mentioned*** | <center><font size=2>The Baxter Family<br><font size=3>**Appears** | <center><font size=2>People Against Ellen<br><font size=3>*Absent* |
-| <center><font size=2>Hayley<br><font size=3>**Appears**  | <center><font size=2>The Squad<br><font size=3>***Mentioned*** | <center><font size=2>Forbidden Kiss<br><font size=3>**Appears** | <center><font size=2>A Sign From Above<br><font size=3>**Appears** | <center><font size=2>A Change for the Worst<br><font size=3>***Mentioned***|
-| <center><font size=2>The Bump in the Night<br><font size=3>*Absent*  | <center><font size=2>What Would SHE Want?<br><font size=3>**Appears** | <center><font size=2>The Nurse<br><font size=3>**Appears** | <center><font size=2>A Time for Mourning<br><font size=3>***Mentioned*** | <center><font size=2>About Time<br><font size=3>***Mentioned*** |
-| <center><font size=2>The Witch of the Willow<br><font size=3>***Mentioned***  |
+|                                                                              |                                                                       |                                                                           |                                                                          |                                                                             |
+| ---------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| <center><font size=2>Escaping the Past<br><font size=3>*Absent*              | <center><font size=2>The Man Next-Door<br><font size=3>*Absent*       | <center><font size=2>The Counselor<br><font size=3>*Absent*               | <center><font size=2>Reardon<br><font size=3>*Absent*                    | <center><font size=2>Summertime Hangout<br><font size=3>*Absent*            |
+| <center><font size=2>The Counselor's Plan<br><font size=3>**Appears**        | <center><font size=2>A Roach<br><font size=3>***Mentioned***          | <center><font size=2>A Budding Friendship<br><font size=3>***Mentioned*** | <center><font size=2>The Baxter Family<br><font size=3>**Appears**       | <center><font size=2>People Against Ellen<br><font size=3>***Mentioned***   |
+| <center><font size=2>Hayley<br><font size=3>**Appears**                      | <center><font size=2>The Squad<br><font size=3>***Mentioned***        | <center><font size=2>Forbidden Kiss<br><font size=3>**Appears**           | <center><font size=2>A Sign From Above<br><font size=3>**Appears**       | <center><font size=2>A Change for the Worst<br><font size=3>***Mentioned*** |
+| <center><font size=2>The Bump in the Night<br><font size=3>***Mentioned***   | <center><font size=2>What Would SHE Want?<br><font size=3>**Appears** | <center><font size=2>The Nurse<br><font size=3>**Appears**                | <center><font size=2>A Time for Mourning<br><font size=3>***Mentioned*** | <center><font size=2>About Time<br><font size=3>***Mentioned***             |
+| <center><font size=2>The Witch of the Willow<br><font size=3>***Mentioned*** | <center><font size=2>Reflecting<br><font size=3>***Mentioned***       |                                                                           |                                                                          |                                                                             |
 #### Categories
 #Summertime_Haze_Characters #Baxter_Family #Generation_1_Characters
