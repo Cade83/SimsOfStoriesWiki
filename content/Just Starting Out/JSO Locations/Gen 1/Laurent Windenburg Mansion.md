@@ -2,12 +2,12 @@
 > # Laurent Windenburg Mansion
 > ![[G.1.26.38.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Windenburg]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Generation | [[First Generation]]|
@@ -32,8 +32,6 @@ Centuries later, as [[Mitch Laurent]] amassed his fortune, he bought the mansion
 > [!caption|left]
 > ![[G.1.26.45.png]] 
 > The doorway to the secret room.
-
-<br style="clear:both; margin: 0; padding: 0" />
 
 > [!caption|left]
 > ![[G.1.26.48.png]] 

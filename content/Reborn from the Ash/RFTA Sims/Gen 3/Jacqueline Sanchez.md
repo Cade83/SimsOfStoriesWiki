@@ -2,12 +2,12 @@
 > # Jacqueline Sanchez
 > ![[Jacqueline Gen 3 V2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Jacqueline Sanchez | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,7 +15,7 @@
 > | Relatives | [[Antonio Sanchez]] (Husband)<br>[[Kiara Sanchez]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Selvadorada]]| 
 > | Lived In |[[Windenburg]]| 
@@ -23,7 +23,7 @@
 > | Career | Married to the Head of the Sanchez Family | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
 > | Appearance Count | 6 | 
@@ -36,6 +36,12 @@
 ## Personality
 
 <br style="clear:both; margin: 0; padding: 0" />
+
+## Relationships
+| | | | | 
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Antonio Portrait Gen 3.png]]](<Antonio Sanchez>)<br>[[Antonio Sanchez]]| <center>[![[Kiara Portrait Gen 3.png]]](<Kiara Sanchez>)<br>[[Kiara Sanchez]]| <center>[![[Jinelle Portrait Gen 3.png]]](<Jinelle Foster>)<br>[[Jinelle Foster]]| <center>[![[Lyric Portrait Gen 3.png]]](<Lyric Jarrel>)<br>[[Lyric Jarrel]]|
+|<center>[![[Ivailo Portrait Gen 3.png]]](<Ivailo Rodrigues.md>)<br>[[Ivailo Rodrigues]]|
 
 ## Appearances
 ##### [[Reborn from the Ash]]

@@ -2,12 +2,12 @@
 > # Liberty Lee
 > ![[Liberty Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Liberty Lee | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,17 +15,17 @@
 > | Relatives | [[Travis Scott]] (Husband)<br>[[Jacob Scott]] (Son)<br>[[Clara Scott]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > | Home |[[BFFs House]]<br>[[Presley House]]| 
 > | Career | Astronaut<br>Scientist | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
-> | Appearance Count | 25 | 
+> | Appearance Count | 26 | 
 > | First Appearance | Dreams of Fame *1.4 - Welcome to the Neighborhood!*
 
 **Liberty Lee** is one of the protagonists of the first chapter of [[Dreams of Fame]]. She's roomed with [[Travis Scott]] and [[Summer Holiday]] since graduating from high school.
@@ -38,8 +38,15 @@
 
 <br style="clear:both; margin: 0; padding: 0" />
 
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Travis Portrait Gen 1.png]]](<Travis Scott>)<br>[[Travis Scott]]|<center>[![[Jacob Portrait Gen 2.png]]](<Jacob Scott>)<br>[[Jacob Scott]]|<center>[![[Clara Portrait Gen 2.png]]](<Clara Scott>)<br>[[Clara Scott]]|<center>[![[Beatrice Portrait Gen 1.png]]](<Beatrice Stark>)<br>[[Beatrice Stark]]|
+|<center>[![[Summer Portrait Gen 1.png]]](<Summer Holiday>)<br>[[Summer Holiday]]|<center>[![[José Portrait Gen 1.png]]](<José Yépez>)<br>[[José Yépez]]|<center>[![[Giovanna Portrait Gen 2.png]]](<Giovanna Cardwell>)<br>[[Giovanna Cardwell]]|<center>[![[Zoe Portrait Gen 1.png]]](<Zoe Presley>)<br>[[Zoe Presley]] 
+|<center>[![[Jo Portrait Gen 1 DoF.png]]](<Jo Kauffman>)<br>[[Jo Kauffman]]|
+
 ## Appearances
-#### [[Dreams of Fame]]
+##### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
 |                                                                       |                                                                             |                                                                       |                                                                               |                                                                              |
 | --------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -51,10 +58,15 @@
 | <center><font size=2>Sixam Life<br><font size=3>**Appears**           | <center><font size=2>The Search for Summer<br><font size=3>**Appears**      | <center><font size=2>Sylvan Glade<br><font size=3>*Absent*            | <center><font size=2>Proposal<br><font size=3>***Mentioned***                 | <center><font size=2>Back on Earth<br><font size=3>**Appears**               |
 | <center><font size=2>Second Mother<br><font size=3>**Appears**        | <center><font size=2>Sylvan Curse<br><font size=3>***Mentioned***           | <center><font size=2>Final Sacrifice<br><font size=3>**Appears**      |                                                                               |                                                                              |
 
-###### Chapter 2: ## Super Villains and Pianists
+###### Chapter 2: Super Villains and Pianists
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |
 | <center><font size=2>Celebrity Funeral<br><font size=3>**Appears** |     |     |     |     |
+
+#### Cameo Appearances
+###### [[Summertime Haze]] Chapter 1: An Illusion of Safety
+- 1.18 - The Nurse
+- 1.22 - Reflecting
 
 #### Categories
 #Dreams_of_Fame_Characters #Scott_Family #Main_Characters #Generation_1_Characters #Generation_2_Characters

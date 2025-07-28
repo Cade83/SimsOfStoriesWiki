@@ -2,12 +2,12 @@
 > # Nancy Landgraab
 > ![[Nancy Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Nancy Landgraab | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human (Generation 1)<br>Vampire (Generation 2+) |
@@ -15,14 +15,14 @@
 > | Relatives | [[Geoffrey Landgraab]] (Husband)<br>[[Johnny Zest]] (Oldest Son)<br>[[Malcolm Landgraab]] (Youngest Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Oasis Springs]]| 
 > | Home |[[Landgraab Mansion]]| 
 > | Career | Landgraab Industries CEO | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Appearance Count | 8 | 
@@ -37,6 +37,12 @@
 ## Personality
 
 <br style="clear:both; margin: 0; padding: 0" />
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Geoffrey Portrait Gen 1.png]]](<Geoffrey Landgraab>)<br>[[Geoffrey Landgraab]]|<center>[![[Malcolm Portrait Gen 1.png]]](<Malcolm Landgraab>)<br>[[Malcolm Landgraab]]|<center>[![[John Portrait Gen 1.png]]](<John Brooks>)<br>[[John Brooks]]|<center>[![[Lillian Portrait Gen 1.png]]](<Lillian Vickers>)<br>[[Lillian Vickers]]|
+|<center>[![[Johnny Portrait Gen 2.png]]](<Johnny Zest>)<br>[[Johnny Zest]]|<center>[![[Bella Portrait Gen 1.png]]](<Bella Goth>)<br>[[Bella Goth]]|<center>[![[Mortimer Portrait Gen 1.png]]](<Mortimer Goth>)<br>[[Mortimer Goth]]|<center>[![[Mitch Portrait Gen 1.png]]](<Mitch Laurent>)<br>[[Mitch Laurent]]|
 
 ## Appearances
 ##### [[Just Starting Out]]

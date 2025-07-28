@@ -2,12 +2,12 @@
 > # Mortimer Goth
 > ![[Mortimer Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Mortimer Goth | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Vampire |
@@ -15,14 +15,14 @@
 > | Relatives | [[Bella Goth]] (Wife)<br>[[Cassandra Goth]] (Daughter)<br>[[Alexander Goth]] (Brother)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > | Home |[[Goth Mansion]]| 
 > | Career | Land Owner | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Other Appearances | [[Dreams of Fame]] | 
@@ -38,6 +38,12 @@
 ## Personality
 
 <br style="clear:both; margin: 0; padding: 0" />
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Bella Portrait Gen 1.png]]](<Bella Goth>)<br>[[Bella Goth]]|<center>[![[Cassandra Portrait Gen 1.png]]](<Cassandra Goth>)<br>[[Cassandra Goth]]|<center>[![[Alexander Portrait Gen 1.png]]](<Alexander Goth>)<br>[[Alexander Goth]]|<center>[![[Mitch Portrait Gen 1.png]]](<Mitch Laurent>)<br>[[Mitch Laurent]]|
+|<center>[![[Nancy Portrait Gen 1.png]]](<Nancy Landgraab>)<br>[[Nancy Landgraab]]|<center>[![[Geoffrey Portrait Gen 1.png]]](<Geoffrey Landgraab>)<br>[[Geoffrey Landgraab]]|
 
 ## Appearances
 ##### [[Just Starting Out]]

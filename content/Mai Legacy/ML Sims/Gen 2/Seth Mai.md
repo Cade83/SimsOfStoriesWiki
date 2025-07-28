@@ -2,12 +2,12 @@
 > # Seth Mai
 > ![[Seth Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Seth Mai | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives |[[James Mai]] (Father)<br>[[Susan Harper]] (Mother)<br>[[Leah Mai]] (Sister)<br>[[Jocelyn Dishman]] (Wife)<br>[[Ronnie Mai]] (Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Windenburg]]| 
 > | Home |[[Mai House]]| 
 > | Career | Journalist | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 19 | 
