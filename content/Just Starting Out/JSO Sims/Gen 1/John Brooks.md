@@ -2,12 +2,12 @@
 > # John Brooks
 > ![[John Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | John Brooks | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,7 +15,7 @@
 > | Relatives | [[Adrienne Brooks]] (Mother)<br>[[Jameson Brooks]] (Father)<br>[[Kayla Brooks]] (Younger Sister)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Willow Creek]]| 
 > | Lived In |[[Newcrest]]| 
@@ -23,7 +23,7 @@
 > | Career | Programmer at Landgraab Industries | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Appearance Count | 24 | 
@@ -38,6 +38,12 @@
 ## Personality
 
 <br style="clear:both; margin: 0; padding: 0" />
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Kayla Portrait Gen 1.png]]](<Kayla Brooks>)<br>[[Kayla Brooks]]|<center>[![[Cassandra Portrait Gen 1.png]]](<Cassandra Goth>)<br>[[Cassandra Goth]]|<center>[![[Jameson Portrait Gen 1.png]]](<Jameson Brooks>)<br>[[Jameson Brooks]]|<center>[![[Adrienne Portrait Gen 1.png]]](<Adrienne Brooks>)<br>[[Adrienne Brooks]]|
+|<center>[![[Malcolm Portrait Gen 1.png]]](<Malcolm Landgraab>)<br>[[Malcolm Landgraab]]|<center>[![[Lillian Portrait Gen 1.png]]](<Lillian Vickers>)<br>[[Lillian Vickers]]|<center>[![[Nancy Portrait Gen 1.png]]](<Nancy Landgraab>)<br>[[Nancy Landgraab]]|<center>[![[Alexander Portrait Gen 1.png]]](<Alexander Goth>)<br>[[Alexander Goth]]|
 
 ## Appearances
 ##### [[Just Starting Out]]

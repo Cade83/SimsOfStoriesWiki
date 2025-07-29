@@ -2,12 +2,12 @@
 > # Jacques Villareal
 > ![[Jacques Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Jacques Villareal | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives |[[Danna Villareal]] (Wife)<br>[[Hugo Villareal]] (Oldest Son)<br>[[Luna Villareal]] (Daughter)<br>[[Max Villareal]] (Youngest Son)<br>[[Akira Kibo]] (Husband)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Windenburg]]| 
 > | Home |[[Villareal Estate]]| 
 > | Career | Head of the Villareal Family | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Other Appearances | [[Reborn from the Ash]] | 
@@ -81,6 +81,13 @@ Privately, Luna and Max were glad he was gone, which was something they would ad
 Jacques dedicated his life to the pursuit of wealth. So much so that he lost himself in it. While it initially began with him wanting the best for his family, he lost his ability to connect with [[Danna Villareal|Danna]], and [[Hugo Villareal|Hugo]] became more of an employee to him than a son with his own dreams and passions. [[Luna Villareal|Luna]] and [[Max Villareal|Max]] would later recognize that they were lucky to not have been old enough for Jacques to do the same to him.
 
 After Danna's disappearance, Jacques became increasingly erratic. He would do things completely outside of his character entirely for the sake of doing them, and his relationship with [[Akira Kibo|Akira]] and the fits of jealousy he'd have over him baffled even the oldest of his friends. His treatment of Akira was also hard to predict, as while it was clear he loved him, there were times where he yelled at him until he left the premises. Whether or not that came from a place of fear stemming from Danna's fate, or was a sudden dislike of Akira is hard to say.
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Hugo Portrait Gen 3.png]]](<Hugo Villareal>)<br>[[Hugo Villareal]]| <center>[![[Luna Portrait Gen 3.png]]](<Luna Villareal>)<br>[[Luna Villareal]]| <center>[![[Max Portrait Gen 3.png]]](<Max Villareal>)<br>[[Max Villareal]]| <center>[![[Danna Portrait Gen 2.png]]](<Danna Villareal>)<br>[[Danna Villareal]]|
+|<center>[![[Akira Portrait Gen 2.png]]](<Akira Kibo>)<br>[[Akira Kibo]]|<center>[![[Antonio Portrait Gen 3.png]]](<Antonio Sanchez>)<br>[[Antonio Sanchez]]|<center>[![[Jacqueline Portrait Gen 3.png]]](<Jacqueline Sanchez>)<br>[[Jacqueline Sanchez]]|<center>[![[Susan Portrait Gen 2.png]]](<Susan Harper>)<br>[[Susan Harper]]|
+| <center>[![[Ulrike Portrait Gen 2.png]]](<Ulrike Faust>)<br>[[Ulrike Faust]]| <center>[![[Eliza Portrait Gen 2.png]]](<Eliza Pancakes>)<br>[[Eliza Pancakes]]| <center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]| <center>[![[Salim Portrait Gen 2.png]]](<Salim Benali>)<br>[[Salim Benali]]|
 
 ## Appearances
 ##### [[Mai Legacy]]

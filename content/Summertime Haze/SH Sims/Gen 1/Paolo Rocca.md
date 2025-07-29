@@ -2,26 +2,26 @@
 > # Paolo Rocca
 > ![[Paolo Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Paolo Rocca | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
 > | Generation | [[First Generation]] |
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Windenburg]]| 
 > | Lived In |[[Oasis Springs]]<br>[[Willow Creek]]| 
 > | Career | Personal Trainer | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Summertime Haze]] | 
 > | Appearance Count |  | 
@@ -36,6 +36,12 @@
 ## Personality
 
 <br style="clear:both; margin: 0; padding: 0" />
+
+## Relationships
+| | | | | 
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <center>[![[Toby Portrait Gen 1.png]]](<Toby Baxter>)<br>[[Toby Baxter]]|<center>[![[Hayley Portrait Gen 1.png]]](<Hayley Baxter>)<br>[[Hayley Baxter]]|<center>[![[Reese Portrait Gen 1.png]]](<Reese Inda.md>)<br>[[Reese Inda]]|<center>[![[Hope Portrait Gen 1.png]]](<Hope Peck.md>)<br>[[Hope Peck]]|
+| <center>[![[Henry Portrait Gen 1.png]]](<Henry Doyle>)<br>[[Henry Doyle]]| <center>[![[Jordan Portrait Gen 1.png]]](<Jordan Crespo>)<br>[[Jordan Crespo]]| <center>[![[Bennett Portrait Gen 1.png]]](<Bennett Reardon>)<br>[[Bennett Reardon]]|
 
 ## Appearances
 ##### [[Summertime Haze]]

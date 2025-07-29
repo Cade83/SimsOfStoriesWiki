@@ -2,12 +2,12 @@
 > # Ed Mai
 > ![[Ed Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Ed Mai | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,19 +15,19 @@
 > | Relatives | [[Daniela Mai]] (Wife)<br>[[James Mai]] (Son)<br>[[Jamie Mai]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Oasis Springs]]| 
 > | Home |[[Daniela and Ed's]]<br>[[Cleary Ranch]]| 
 > | Career | Painter | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Other Appearances | [[Just Starting Out]] | 
 > | Appearance Count | 3 | 
-> | First Appearance | Mai Legacy *1.1 - A New Beginning*
+> | First Appearance |Just Starting Out *1.12 - Lips Sealed Shut*
 > | Final Appearance | Just Starting Out *1.17 - Run Away*
 
 > [!quote|author] Ed talking up the Mai Resort and Spa to Nancy.
@@ -61,6 +61,12 @@ After James finally returned to Oasis Springs, met Jamie, and found out about Ed
 
 ## Personality
 A rather soft spoken man, Ed was always one to let his wife [[Daniela Mai|Daniela]] lead. They both shared grand visions for the future, and would help each other achieve those visions, with Ed regularly helping out with the Mai Resort and Spa. Impressing those grand visions for the future onto their son [[James Mai|James]], however, proved to be their greatest regret.
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <center>[![[Daniela Portrait Gen 2.png]]](<Daniela Mai>)<br>[[Daniela Mai]]|<center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]| <center>[![[Jamie Portrait Gen 2.png]]](<Jamie Mai>)<br>[[Jamie Mai]]| <center>[![[Ty Portrait Gen 2.png]]](<Ty Cleary>)<br>[[Ty Cleary]]|
+| <center>[![[Colette Portrait Gen 2.png]]](<Colette Cleary>)<br>[[Colette Cleary]]|<center>[![[Nancy Portrait Gen 1.png]]](<Nancy Landgraab>)<br>[[Nancy Landgraab]]|
 
 ## Appearances
 ##### [[Mai Legacy]]

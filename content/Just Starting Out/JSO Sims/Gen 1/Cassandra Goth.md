@@ -2,12 +2,12 @@
 > # Cassandra Goth
 > ![[Cassandra Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Cassandra Goth | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Mortimer Goth]] (Father)<br>[[Bella Goth]] (Mother)<br>[[Alexander Goth]] (Brother)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]<br>[[Newcrest]]| 
 > | Home |[[Goth Mansion]]<br>[[Brooks House]]| 
 > | Career | Presidential Secretary | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Other Appearances | [[Dreams of Fame]]<br>[[Courage & Resolve]]<br>[[Lies and Deceit]]| 
@@ -38,6 +38,12 @@
 ## Personality
 
 <br style="clear:both; margin: 0; padding: 0" />
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Alexander Portrait Gen 1.png]]](<Alexander Goth>)<br>[[Alexander Goth]]|<center>[![[Bella Portrait Gen 1.png]]](<Bella Goth>)<br>[[Bella Goth]]|<center>[![[Mortimer Portrait Gen 1.png]]](<Mortimer Goth>)<br>[[Mortimer Goth]]|<center>[![[John Portrait Gen 1.png]]](<John Brooks>)<br>[[John Brooks]] |
+|<center>[![[Kayla Portrait Gen 1.png]]](<Kayla Brooks>)<br>[[Kayla Brooks]]|<center>[![[Mitch Portrait Gen 1.png]]](<Mitch Laurent>)<br>[[Mitch Laurent]]|<center>[![[Malcolm Portrait Gen 1.png]]](<Malcolm Landgraab>)<br>[[Malcolm Landgraab]]|
 
 ## Appearances
 ##### [[Just Starting Out]]

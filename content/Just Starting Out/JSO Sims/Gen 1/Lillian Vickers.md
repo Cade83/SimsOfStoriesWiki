@@ -2,25 +2,25 @@
 > # Lillian Vickers
 > ![[Lillian Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Lillian Vickers | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
 > | Generation | [[First Generation]] |
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Newcrest]]| 
 > | Career | Programmer at Landgraab Industries | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Other Appearances | [[Summertime Haze]] | 
@@ -36,6 +36,11 @@
 ## Personality
 
 <br style="clear:both; margin: 0; padding: 0" />
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[John Portrait Gen 1.png]]](<John Brooks>)<br>[[John Brooks]] |<center>[![[Nancy Portrait Gen 1.png]]](<Nancy Landgraab>)<br>[[Nancy Landgraab]]|<center>[![[Malcolm Portrait Gen 1.png]]](<Malcolm Landgraab>)<br>[[Malcolm Landgraab]]|
 
 ## Appearances
 ##### [[Just Starting Out]]
