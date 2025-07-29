@@ -2,12 +2,12 @@
 > # Rosaline Le Chien
 > ![[Rosaline Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Rosaline Le Chien | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Bronson Le Chien]] (Husband)<br>[[Joaquin Le Chien]] (Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Windenburg]]| 
 > | Home |[[Le Chien House]]| 
 > | Career | Le Chien Legacy Heiress | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 4 | 
@@ -69,6 +69,12 @@ Rosaline was ready to give up and at least try to coexist with the Mais, but Haj
 
 ## Personality
 Rosaline is a woman who can command nearly every situation with grace and poise. Her personality, as well as her love for a commoner like [[Bronson Le Chien|Bronson]], played a large role in her continuing to elevate the Le Chien family in [[Windenburg]]. When it comes to her family history, however, Rosaline gets defensive. She can recall every detail of the Le Chien Legacy, even going as far back as the time of [[Fredrick Le Chien|Fredrick]] and [[Mabel Le Chien|Mabel]], and will do anything to ensure that history continues to endure and prosper. Losing the legacy broke her spirit.
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <center>[![[Bronson Portrait Gen 2.png]]](<Bronson Le Chien>)<br>[[Rosaline Le Chien]]|<center>[![[Joaquin Portrait Gen 2.png]]](<Joaquin Le Chien>)<br>[[Joaquin Le Chien]]| <center>[![[Romeo Portrait Gen 2.png]]](<Sergio Romeo>)<br>[[Sergio Romeo]]| <center>[![[Hajar Portrait Gen 2.png]]](<Hajar Cresques>)<br>[[Hajar Cresques]]|
+| <center>[![[Victor Portrait Gen 2.png]]](<Victor Feng>)<br>[[Victor Feng]]|<center>[![[Lily Portrait Gen 2.png]]](<Lily Feng>)<br>[[Lily Feng]]| <center>[![[Cassandra Portrait Gen 1.png]]](<Cassandra Goth>)<br>[[Cassandra Goth]]|
 
 ## Appearances
 ##### [[Mai Legacy]]

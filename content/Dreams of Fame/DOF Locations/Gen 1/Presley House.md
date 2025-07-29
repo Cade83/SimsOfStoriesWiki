@@ -2,12 +2,12 @@
 > # Presley House
 > ![[S.1.27.2.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Willow Creek]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Other Appearances |[[Courage & Resolve]] | 
@@ -60,20 +60,22 @@ While other household members were less than fond of Zoe's taste in decor, she r
 > The outdoor bar and pool.
 
 > [!caption|left]
+> ![[S.1.20.7.png]] 
+> The second story balcony.
+
+> [!caption|left]
 > ![[S.1.32.12.png]] 
 > The basement dining room.
-
-<br style="clear:both; margin: 0; padding: 0" />
 
 > [!caption|left]
 > ![[S.1.15.4.png]] 
 > Zoe's room.
 
+<br style="clear:both; margin: 0; padding: 0" />
+
 > [!caption|left]
 > ![[S.2.1.3.png]] 
 > Giovanna's room.
-
-<br style="clear:both; margin: 0; padding: 0" />
 
 > [!caption|left]
 > ![[S.1.31.2.png]] 
@@ -83,11 +85,11 @@ While other household members were less than fond of Zoe's taste in decor, she r
 > ![[S.1.31.1.png]] 
 > Jacob and Clara's childhood room.
 
-<br style="clear:both; margin: 0; padding: 0" />
-
 > [!caption|left]
 > ![[S.1.30.6.png]] 
 > Summer's room.
+
+<br style="clear:both; margin: 0; padding: 0" />
 
 > [!caption|left]
 > ![[S.1.32.1.png]] 
@@ -96,7 +98,7 @@ While other household members were less than fond of Zoe's taste in decor, she r
 <br style="clear:both; margin: 0; padding: 0" />
 
 ## Appearances
-#### [[Dreams of Fame]]
+##### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |
@@ -108,7 +110,7 @@ While other household members were less than fond of Zoe's taste in decor, she r
 | <center><font size=2>Sixam Life<br><font size=3>**Appears** | <center><font size=2>The Search for Summer<br><font size=3>**Appears** | <center><font size=2>Sylvan Glade<br><font size=3>**Appears** | <center><font size=2>Proposal<br><font size=3>**Appears** | <center><font size=2>Back on Earth<br><font size=3>**Appears** |
 | <center><font size=2>Second Mother<br><font size=3>**Appears** | <center><font size=2>Sylvan Curse<br><font size=3>**Appears** | <center><font size=2>Final Sacrifice<br><font size=3>**Appears** |  |  |
 
-###### Chapter 2: ## Super Villains and Pianists
+###### Chapter 2: Super Villains and Pianists
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |
 | <center><font size=2>Celebrity Funeral<br><font size=3>**Appears** |     |     |     |     |

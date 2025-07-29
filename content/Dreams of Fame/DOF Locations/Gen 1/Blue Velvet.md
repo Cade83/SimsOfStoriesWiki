@@ -2,12 +2,12 @@
 > # Blue Velvet
 > ![[G.1.4.11.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Willow Creek]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Other Appearances | [[Just Starting Out]]<br>[[Mai Legacy]] | 
@@ -20,9 +20,12 @@ The **Blue Velvet** is a lounge and bar in [[Willow Creek]]. It appears in [[Jus
 ## Profile
 A historic bar located on [[Willow Creek]]'s main street, the Blue Velvet is a hot spot for tourists and locals alike.
 
-In the [[First Generation]], [[John Brooks|John]] and [[Kayla Brooks]] meet [[Malcolm Landgraab]] for the first time here. [[Summer Holiday]] is a frequent customer of the bar, and it's one of the first places her family goes to check when she goes missing. Summer later has her wedding to [[José Yépez]] here, having rented out the space with an incredible sum of money. While José wasn't thrilled about getting married at a bar, after he hired people to decorate the space and transform it into something that didn't resemble a bar, he got on board.
+In the [[First Generation]], [[John Brooks|John]] and [[Kayla Brooks]] meet [[Malcolm Landgraab]] for the first time here. [[Summer Holiday]] worked here straight out of high school and later became a frequent customer. It's one of the first places her family goes to check when she goes missing. Summer later has her wedding to [[José Yépez]] here, having rented out the space with an incredible sum of money. While José wasn't thrilled about getting married at a bar, after he hired people to decorate the space and transform it into something that didn't resemble a bar, he got on board.
 
 During the [[Second Generation]], [[James Mai]] and [[Susan Harper]] visit the Blue Velvet to celebrate after winning their court case against the Le Chien family.
+
+## Employees
+- [[Summer Holiday]]
 
 ## Gallery
 > [!caption|left]
@@ -32,8 +35,6 @@ During the [[Second Generation]], [[James Mai]] and [[Susan Harper]] visit the B
 > [!caption|left]
 > ![[S.1.30.28.png]] 
 > The lounge decorated for Summer and José.
-
-<br style="clear:both; margin: 0; padding: 0" />
 
 > [!caption|left]
 > ![[S.1.30.31.png]] 
@@ -46,7 +47,7 @@ During the [[Second Generation]], [[James Mai]] and [[Susan Harper]] visit the B
 <br style="clear:both; margin: 0; padding: 0" />
 
 ## Appearances
-#### [[Dreams of Fame]]
+##### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |
