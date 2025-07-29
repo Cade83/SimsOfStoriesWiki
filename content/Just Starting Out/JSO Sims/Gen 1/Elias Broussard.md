@@ -2,12 +2,12 @@
 > # Elias Broussard
 > ![[Elias Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Elias Broussard | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,13 +15,13 @@
 > | Relatives | [[Perla Broussard]] (Mother)<br>[[Deandre Broussard]] (Father)<br>[[Mandy Broussard]] (Younger Sister)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Newcrest]]| 
 > | Career | Chef | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Appearance Count | 1 | 
@@ -36,6 +36,11 @@
 ## Personality
 
 <br style="clear:both; margin: 0; padding: 0" />
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Mandy Portrait Gen 1.png]]](<Mandy Broussard>)<br>[[Mandy Broussard]]|<center>[![[Perla Portrait Gen 2.png]]](<Perla Broussard>)<br>[[Perla Broussard]]|<center>[![[Deandre Portrait Gen 2.png]]](<Deandre Broussard>)<br>[[Deandre Broussard]]|<center>[![[Alexander Portrait Gen 1.png]]](<Alexander Goth>)<br>[[Alexander Goth]]|
 
 ## Appearances
 ##### [[Just Starting Out]]

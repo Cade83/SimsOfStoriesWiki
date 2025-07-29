@@ -2,12 +2,12 @@
 > # Joe Barclay
 > ![[Joe Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Joe Barclay | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,13 +15,13 @@
 > | Relatives | [[Aarohi Barclay]] (Wife)<br>[[Teala Barclay]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[San Myshuno]]| 
 > | Career | DJ | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 3 | 
@@ -47,6 +47,11 @@ As Aarohi drifted apart from her friends as they aged, Joe remained her rock. He
 
 ## Personality
 While Joe is a man of few words, he has a jealous streak running a mile wide. Early on in his relationship with [[Aarohi Barclay|Aarohi]], he was suspicious of her friendship with [[Lily Feng]], as well as her close friendship with most others. Her drifting apart from her friends came as a relief to him, as it let the two of them focus on raising [[Teala Barclay|Teala]]. He'd also never cared for most of Aarohi's friends.
+
+## Relationships
+| | | 
+| ------------------------------------------------------------- | -------------------------------------------- |
+| <center>[![[Aarohi Portrait Gen 2.png]]](<Aarohi Barclay>)<br>[[Aarohi Barclay]]|<center>[![[Teala Portrait Gen 4.png]]](<Teala Barclay>)<br>[[Teala Barclay]]|
 
 ## Appearances
 ##### [[Mai Legacy]]

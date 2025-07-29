@@ -2,12 +2,12 @@
 > # Malcolm Landgraab
 > ![[Malcolm Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Malcolm Landgraab | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Geoffrey Landgraab]] (Father)<br>[[Nancy Landgraab]] (Mother)<br>[[Johnny Zest]] (Brother)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Oasis Springs]]<br>[[Newcrest]]| 
 > | Home |[[Landgraab Mansion]]<br>[[Brooks House]]| 
 > | Career | Landgraab Industries Heir Apparent | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Other Appearances | [[Dreams of Fame]] | 
@@ -38,6 +38,12 @@
 ## Personality
 
 <br style="clear:both; margin: 0; padding: 0" />
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Nancy Portrait Gen 1.png]]](<Nancy Landgraab>)<br>[[Nancy Landgraab]]|<center>[![[Geoffrey Portrait Gen 1.png]]](<Geoffrey Landgraab>)<br>[[Geoffrey Landgraab]]|<center>[![[John Portrait Gen 1.png]]](<John Brooks>)<br>[[John Brooks]] |<center>[![[Kayla Portrait Gen 1.png]]](<Kayla Brooks>)<br>[[Kayla Brooks]]|
+|<center>[![[Cassandra Portrait Gen 1.png]]](<Cassandra Goth>)<br>[[Cassandra Goth]]|<center>[![[Alexander Portrait Gen 1.png]]](<Alexander Goth>)<br>[[Alexander Goth]]|<center>[![[Johnny Portrait Gen 2.png]]](<Johnny Zest>)<br>[[Johnny Zest]]|
 
 ## Appearances
 ##### [[Just Starting Out]]
