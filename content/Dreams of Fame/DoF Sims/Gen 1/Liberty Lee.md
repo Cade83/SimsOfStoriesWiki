@@ -102,6 +102,13 @@ Liberty has always been very driven by her own interests. She was unemployed for
 |<center>[![[Summer Portrait Gen 1.png]]](<Summer Holiday>)<br>[[Summer Holiday]]|<center>[![[José Portrait Gen 1.png]]](<José Yépez>)<br>[[José Yépez]]|<center>[![[Giovanna Portrait Gen 2.png]]](<Giovanna Cardwell>)<br>[[Giovanna Cardwell]]|<center>[![[Jo Portrait Gen 1 DoF.png]]](<Jo Kauffman>)<br>[[Jo Kauffman]]|
 |<center>[![[Zoe Portrait Gen 1.png]]](<Zoe Presley>)<br>[[Zoe Presley]] |
 
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Travis Portrait Gen 1.png]]](<Travis Scott>)<br>[[Travis Scott]]|<center>[![[Jacob Portrait Gen 2.png]]](<Jacob Scott>)<br>[[Jacob Scott]]|<center>[![[Clara Portrait Gen 2.png]]](<Clara Scott>)<br>[[Clara Scott]]|<center>[![[Beatrice Portrait Gen 1.png]]](<Beatrice Stark>)<br>[[Beatrice Stark]]|
+|<center>[![[Summer Portrait Gen 1.png]]](<Summer Holiday>)<br>[[Summer Holiday]]|<center>[![[José Portrait Gen 1.png]]](<José Yépez>)<br>[[José Yépez]]|<center>[![[Giovanna Portrait Gen 2.png]]](<Giovanna Cardwell>)<br>[[Giovanna Cardwell]]|<center>[![[Zoe Portrait Gen 1.png]]](<Zoe Presley>)<br>[[Zoe Presley]] 
+|<center>[![[Jo Portrait Gen 1 DoF.png]]](<Jo Kauffman>)<br>[[Jo Kauffman]]|
+
 ## Appearances
 ##### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
