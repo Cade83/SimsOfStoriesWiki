@@ -2,12 +2,12 @@
 > # Geoffrey Landgraab
 > ![[Geoffrey Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Geoffrey Landgraab | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human (Generation 1) |
@@ -15,14 +15,14 @@
 > | Relatives | [[Nancy Landgraab]] (Wife)<br>[[Johnny Zest]] (Oldest Son)<br>[[Malcolm Landgraab]] (Youngest Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Oasis Springs]]| 
 > | Home |[[Landgraab Mansion]]| 
 > | Career | Policeman | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Other Appearances | [[Dreams of Fame]] | 
@@ -38,6 +38,12 @@
 ## Personality
 
 <br style="clear:both; margin: 0; padding: 0" />
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Nancy Portrait Gen 1.png]]](<Nancy Landgraab>)<br>[[Nancy Landgraab]]|<center>[![[Malcolm Portrait Gen 1.png]]](<Malcolm Landgraab>)<br>[[Malcolm Landgraab]]|<center>[![[Johnny Portrait Gen 2.png]]](<Johnny Zest>)<br>[[Johnny Zest]]|<center>[![[John Portrait Gen 1.png]]](<John Brooks>)<br>[[John Brooks]]|
+|<center>[![[Bella Portrait Gen 1.png]]](<Bella Goth>)<br>[[Bella Goth]]|<center>[![[Mortimer Portrait Gen 1.png]]](<Mortimer Goth>)<br>[[Mortimer Goth]]|
 
 ## Appearances
 ##### [[Just Starting Out]]

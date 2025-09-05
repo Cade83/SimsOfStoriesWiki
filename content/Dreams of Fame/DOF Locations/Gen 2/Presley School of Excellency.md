@@ -2,12 +2,12 @@
 > # Presley School of Excellency
 > ![[S.1.31.9.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Willow Creek]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Generation | [[Second Generation]] |
@@ -22,7 +22,7 @@ The Presley School of Excellency was commissioned by [[Zoe Presley]]. Struck by 
 Zoe initially planned for the school to be a family affair, with affordable tuition, her teaching English, [[Summer Holiday]] teaching cooking, and [[Giovanna Cardwell]] teaching painting, but she passed before the school was completed. While Zoe came up with the name on her own, at the school's grand opening ceremony, the official narrative became that the school was named in her honor. Despite Zoe's original vision, the Presley School of Excellency became a rather prestigious academy that specialized in the arts, becoming rather disconnected from her family.
 
 ## Appearances
-#### [[Dreams of Fame]]
+##### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ Zoe initially planned for the school to be a family affair, with affordable tuit
 | <center><font size=2>Sixam Life<br><font size=3>*Absent* | <center><font size=2>The Search for Summer<br><font size=3>*Absent* | <center><font size=2>Sylvan Glade<br><font size=3>*Absent* | <center><font size=2>Proposal<br><font size=3>*Absent* | <center><font size=2>Back on Earth<br><font size=3>*Absent* |
 | <center><font size=2>Second Mother<br><font size=3>**Appears** | <center><font size=2>Sylvan Curse<br><font size=3>*Absent* | <center><font size=2>Final Sacrifice<br><font size=3>*Absent* |  |  |
 
-###### Chapter 2: ## Super Villains and Pianists
+###### Chapter 2: Super Villains and Pianists
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |
 | <center><font size=2>Celebrity Funeral<br><font size=3>**Appears** |     |     |     |     |

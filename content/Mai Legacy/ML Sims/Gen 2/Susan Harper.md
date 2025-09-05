@@ -2,12 +2,12 @@
 > # Susan Harper
 > ![[Susan Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Susan Harper | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,7 +15,7 @@
 > | Relatives | [[James Mai]] (Husband)<br>[[Seth Mai]] (Son)<br>[[Leah Mai]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[San Myshuno]]| 
 > | Lived In |[[Windenburg]]| 
@@ -23,7 +23,7 @@
 > | Career | Basketball Player | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 26 | 

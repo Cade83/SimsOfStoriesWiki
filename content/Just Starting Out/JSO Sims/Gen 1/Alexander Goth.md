@@ -2,12 +2,12 @@
 > # Alexander Goth
 > ![[Alexander Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Alexander Goth | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Mortimer Goth]] (Father)<br>[[Bella Goth]] (Mother)<br>[[Cassandra Goth]] (Sister)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]<br>[[Newcrest]]| 
 > | Home |[[Goth Mansion]]<br>[[Brooks House]]| 
 > | Career | Unemployed | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Appearance Count | 8 | 
@@ -37,6 +37,12 @@
 ## Personality
 
 <br style="clear:both; margin: 0; padding: 0" />
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Cassandra Portrait Gen 1.png]]](<Cassandra Goth>)<br>[[Cassandra Goth]]|<center>[![[Bella Portrait Gen 1.png]]](<Bella Goth>)<br>[[Bella Goth]]|<center>[![[Mortimer Portrait Gen 1.png]]](<Mortimer Goth>)<br>[[Mortimer Goth]]|<center>[![[John Portrait Gen 1.png]]](<John Brooks>)<br>[[John Brooks]] |
+|<center>[![[Kayla Portrait Gen 1.png]]](<Kayla Brooks>)<br>[[Kayla Brooks]]|<center>[![[Malcolm Portrait Gen 1.png]]](<Malcolm Landgraab>)<br>[[Malcolm Landgraab]]|<center>[![[Elias Portrait Gen 1.png]]](<Elias Broussard>)<br>[[Elias Broussard]]|
 
 ## Appearances
 ##### [[Just Starting Out]]

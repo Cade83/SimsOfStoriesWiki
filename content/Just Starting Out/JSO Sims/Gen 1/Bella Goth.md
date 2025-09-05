@@ -2,12 +2,12 @@
 > # Bella Goth
 > ![[Bella Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Bella Goth | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Vampire |
@@ -15,14 +15,14 @@
 > | Relatives | [[Mortimer Goth]] (Husband)<br>[[Cassandra Goth]] (Daughter)<br>[[Alexander Goth]] (Brother)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > | Home |[[Goth Mansion]]| 
 > | Career | [[Blue Jays]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Other Appearances | [[Dreams of Fame]] | 
@@ -38,6 +38,13 @@
 ## Personality
 
 <br style="clear:both; margin: 0; padding: 0" />
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Mortimer Portrait Gen 1.png]]](<Mortimer Goth>)<br>[[Mortimer Goth]]|<center>[![[Cassandra Portrait Gen 1.png]]](<Cassandra Goth>)<br>[[Cassandra Goth]]|<center>[![[Alexander Portrait Gen 1.png]]](<Alexander Goth>)<br>[[Alexander Goth]]|<center>[![[Maia Portrait Gen 3.png]]](<Maia Mallory>)<br>[[Maia Mallory]]|
+|<center>[![[Mitch Portrait Gen 1.png]]](<Mitch Laurent>)<br>[[Mitch Laurent]]|<center>[![[Sergio Portrait Gen 2.png]]](<Sergio Esparza>)<br>[[Sergio Esparza]]|<center>[![[Nancy Portrait Gen 1.png]]](<Nancy Landgraab>)<br>[[Nancy Landgraab]]|<center>[![[Geoffrey Portrait Gen 1.png]]](<Geoffrey Landgraab>)<br>[[Geoffrey Landgraab]]|
+|<center>[![[Vladislaus Portrait Gen 4.png]]](<Vladislaus Straud>)<br>[[Vladislaus Straud]]|
 
 ## Appearances
 ##### [[Just Starting Out]]

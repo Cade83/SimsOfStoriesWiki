@@ -2,12 +2,12 @@
 > # Felix Beauchamp
 > ![[Felix Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Felix Beauchamp | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Genevieve Beauchamp]] (Wife)<br>[[Connor Beauchamp]] (Son)<br>[[Elise Beauchamp]] (Daughter)|
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In | [[Willow Creek]]| 
 > | Career | CEO of [[Beauchamp Law]]  | 
 > | Home | [[Beacuchamp House]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Appearance Count | 7 | 
@@ -61,6 +61,12 @@ Felix is a man who cares deeply about the state of the world, and much of his ac
 
 He's also a man ruled by social anxiety, however, and he's reliant on his wife [[Genevieve Beauchamp|Genevieve]] to keep things moving. Felix is great on the phone, but terrible at face to face conversations, let alone public speaking, so he let her handle all of that for him. Felix has complete and utter trust in Genevieve, yet he also dislikes her relentless pursuit of perfection, as he recognizes that he himself is imperfect.
 
+## Relationships
+| | | | | 
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <center><font size=2.5>[![[Genevieve Portrait Gen 1.png]]](<Genevieve Beauchamp>)<br>[[Genevieve Beauchamp]]| <center>[![[Connor Portrait Gen 2.png]]](<Connor Beauchamp>)<br>[[Connor Beauchamp]]| <center>[![[Elise Portrait Gen 2.png]]](<Elise Beauchamp>)<br>[[Elise Beauchamp]]| <center>[![[Mitch Portrait Gen 1.png]]](<Mitch Laurent>)<br>[[Mitch Laurent]]|
+|<center>[![[Amelia Portrait Gen 1.png]]](<Amelia Brown>)<br>[[Amelia Brown]]|
+
 ## Appearances
 ##### [[Courage & Resolve]]
 ###### Chapter 1: Strength of Character
@@ -69,7 +75,7 @@ He's also a man ruled by social anxiety, however, and he's reliant on his wife [
 | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | <center><font size=2>Amelia Brown<br><font size=3>*Absent*               | <center><font size=2>First Day of a New Life<br><font size=3>***Mentioned*** | <center><font size=2>Charmed by the Willow<br><font size=3>***Mentioned*** | <center><font size=2>A Rival in the Workplace<br><font size=3>***Mentioned*** | <center><font size=2>Getting Clever<br><font size=3>***Mentioned***        |
 | <center><font size=2>The Beauchamp's Apology<br><font size=3>**Appears** | <center><font size=2>Samson<br><font size=3>***Mentioned***                  | <center><font size=2>A Man Scorned<br><font size=3>***Mentioned***         | <center><font size=2>Strength of Character<br><font size=3>*Absent*           | <center><font size=2>A Long Owed Explanation<br><font size=3>**Appears**   |
-| <center><font size=2>The Bitterness Within<br><font size=3>*Absent*      | <center><font size=2>News in the Dead of Night<br><font size=3>**Appears**   | <center><font size=2>The Presley Family<br><font size=3>**Appears**        | <center><font size=2>Tarnished Memories<br><font size=3>**Appears**           | <center><font size=2>A Headlights in the Night<br><font size=3>**Appears** |
+| <center><font size=2>The Bitterness Within<br><font size=3>*Absent*      | <center><font size=2>News in the Dead of Night<br><font size=3>**Appears**   | <center><font size=2>The Presley Family<br><font size=3>**Appears**        | <center><font size=2>Tarnished Memories<br><font size=3>**Appears**           | <center><font size=2>Headlights in the Night<br><font size=3>**Appears** |
 
 #### Cameo Appearances
 ###### [[Just Starting Out]] Chapter 1: Starting Out New

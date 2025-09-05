@@ -2,12 +2,12 @@
 > # Newcrest High
 > ![[C.1.1.3.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Newcrest]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Summertime Haze]] | 
 > | Generation | [[First Generation]]|
@@ -44,6 +44,6 @@ Newcrest High serves all of [[Newcrest]] as its primary high school. In the [[Fi
 | <center><font size=2>The Counselor's Plan<br><font size=3>*Absent* | <center><font size=2>A Roach<br><font size=3>*Absent* | <center><font size=2>A Budding Friendship<br><font size=3>*Absent* | <center><font size=2>The Baxter Family<br><font size=3>*Absent* | <center><font size=2>People Against Ellen<br><font size=3>*Absent* |
 | <center><font size=2>Hayley<br><font size=3>*Absent*  | <center><font size=2>The Squad<br><font size=3>*Absent* | <center><font size=2>Forbidden Kiss<br><font size=3>*Absent* | <center><font size=2>A Sign From Above<br><font size=3>*Absent* | <center><font size=2>A Change for the Worst<br><font size=3>*Absent* |
 | <center><font size=2>The Bump in the Night<br><font size=3>*Absent*   | <center><font size=2>What Would SHE Want?<br><font size=3>*Absent* | <center><font size=2>The Nurse<br><font size=3>*Absent* | <center><font size=2>A Time for Mourning<br><font size=3>*Absent* | <center><font size=2>About Time<br><font size=3>*Absent* |
-| <center><font size=2>The Witch of the Willow<br><font size=3>**Appears**  |
+| <center><font size=2>The Witch of the Willow<br><font size=3>**Appears**  | <center><font size=2>Reflecting<br><font size=3>*Absent* |
 #### Categories
 #Summertime_Haze_Locations #Schools #Generation_1_Locations

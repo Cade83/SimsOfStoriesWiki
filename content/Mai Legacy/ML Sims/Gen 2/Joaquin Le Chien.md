@@ -2,12 +2,12 @@
 > # Joaquin Le Chien
 > ![[Joaquin Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Joaquin Le Chien | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Rosaline Le Chien]] (Mother)<br>[[Bronson Le Chien]] (Father)<br>[[Hajar Cresques]] (Wife)<br>[[Sergio Romeo]] (Ex-Husband)<br>[[Julianne Le Chien]] (Daughter)<br>[[Pace Le Chien]] (Oldest Son)<br>[[Korbin Le Chien]] (Youngest Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Windenburg]]| 
 > | Home |[[Le Chien House]]| 
 > | Career | Legacy Heir | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 10 | 
@@ -45,13 +45,13 @@ Joaquin was raised with the understanding that one day, it would be his duty to 
 > ![[1.22.7.png]] 
 > Joaquin and Sergio as prom kings.
 
-The way he was raised led to him developing a bit of an ego that carried over to his school life, where Joaquin lording over others resulted in him rising to the top of the high school food chain and being surrounded by friends. He became known for throwing incredible parties that he'd invite the entire school to, which he would then DJ. Joaquin had one rival however- [[Sergio Romeo]]. Sergio didn't bow down to Joaquin like the rest of the school, and their fights became the stuff of legend. One fateful day, the two of them were assigned to a school project together, and while at [[Romeo House|Sergio's]], the two admitted their attraction to each other and became an it couple. The pair of them even won prom king together at the end of the year.
+The way he was raised led to him developing a bit of an ego that carried over to his school life, where Joaquin lording over others resulted in him rising to the top of the [[Windenburg Secondary School|secondary school]] food chain and being surrounded by friends. He became known for throwing incredible parties that he'd invite the entire school to, which he would then DJ. Joaquin had one rival however- [[Sergio Romeo]]. Sergio didn't bow down to Joaquin like the rest of the school, and their fights became the stuff of legend. One fateful day, the two of them were assigned to a school project together, and while at [[Romeo House|Sergio's]], the two admitted their attraction to each other and became an it couple. The pair of them even won prom king together at the end of the year.
 
 > [!caption|right]
 > ![[1.22.9.png]] 
 > Joaquin proposes to Sergio.
 
-Joaquin's best friend at the time, [[Hajar Cresques]], was never a fan of Sergio and would always express her doubts in him, but once Hajar went off to college, Joaquin proposed to Sergio, and Sergio became part of the Le Chien Legacy. The pair of them lived happily together for a few years until Hajar reentered Joaquin's life, and began to fill him with doubt again. As time passed, Hajar's words took root in Joaquin's mind, and he began to fall out of love with Sergio. Eventually, the two of them got divorced, and Joaquin married Hajar shortly after.
+Joaquin's best friend at the time, [[Hajar Cresques]], was never a fan of Sergio and would always express her doubts in him, but once Hajar went off to university, Joaquin proposed to Sergio, and Sergio became part of the Le Chien Legacy. The pair of them lived happily together for a few years until Hajar reentered Joaquin's life, and began to fill him with doubt again. As time passed, Hajar's words took root in Joaquin's mind, and he began to fall out of love with Sergio. Eventually, the two of them got divorced, and Joaquin married Hajar shortly after.
 
 > [!caption|left]
 > ![[1.8.3 v2.png]] 
@@ -93,6 +93,12 @@ As everyone exited the courthouse, James tried to approach Joaquin, but Joaquin 
 In his youth, Joaquin had a bit of an ego, and believed the world should be handed to him, as it had been throughout his early life due to the way [[Rosaline Le Chien|Rosaline]] and [[Bronson Le Chien|Bronson]] raised him. His life in high school only reaffirmed this, as he was insanely popular, his biggest rival [[Sergio Romeo]] fell in love with him, and he still had a legacy and wealth to come home to every day. Despite his ego, Joaquin wasn't unkind, and would help out others if he felt like it, such as him directing [[James Mai]] towards karaoke night.
 
 Marrying [[Hajar Cresques]], losing his legacy, and failing his family all slowly broke Joaquin. Initially, he was filled with a self-defensive rage, as James and [[Susan Harper]] establishing a legacy that challenge his went against everything he'd been taught his whole life. Even once everything was lost, Hajar stayed angry, while Joaquin wanted to simply live his life. He wanted to raise his kids in peace, and telling Hajar about the Mai Legacy came to be his biggest regret. Near the end of his life, he recognized that he and Hajar had become villains, and wished that he could have kept his mouth shut and enjoyed the friend group James had invited him to be part of that one day at the ruins.
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Hajar Portrait Gen 2.png]]](<Hajar Cresques>)<br>[[Hajar Cresques]]| <center>[![[Romeo Portrait Gen 2.png]]](<Sergio Romeo>)<br>[[Sergio Romeo]]| <center>[![[Rosaline Portrait Gen 2.png]]](<Rosaline Le Chien>)<br>[[Rosaline Le Chien]]| <center>[![[Bronson Portrait Gen 2.png]]](<Bronson Le Chien>)<br>[[Bronson Le Chien]]|
+| <center>[![[Julianne Portrait Gen 3.png]]](<Julianne Le Chien>)<br>[[Julianne Le Chien]]| <center>[![[Pace Portrait Gen 3.png]]](<Pace Le Chien>)<br>[[Pace Le Chien]]| <center>[![[Korbin Portrait Gen 3.png]]](<Korbin Le Chien>)<br>[[Korbin Le Chien]]|<center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]|
 
 ## Appearances
 ##### [[Mai Legacy]]

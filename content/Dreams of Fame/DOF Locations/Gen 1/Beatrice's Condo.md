@@ -2,12 +2,12 @@
 > # Beatrice's Condo
 > ![[S.1.18.16.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Willow Creek]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Generation | [[First Generation]]|
@@ -34,7 +34,7 @@ Located in a cheap condo located in a more rundown part of [[Willow Creek]], [[B
 - This is Violet, Smokey, and Bluestar's house with some spooky vines and boxes thrown out in front. The main reason Beatrice refuses to let anyone into her home is because the furnishing is for Violet.
 
 ## Appearances
-#### [[Dreams of Fame]]
+##### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |
