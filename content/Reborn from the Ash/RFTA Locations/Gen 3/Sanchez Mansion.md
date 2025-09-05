@@ -2,12 +2,12 @@
 > # Sanchez Mansion
 > ![[K.1.1.1 edited.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Windenburg]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
 > | Generation | [[Third Generation]]|
@@ -25,7 +25,7 @@ The Sanchez Mansion came to be well known in Windenburg, gracing magazine covers
 - [[Antonio Sanchez]]
 - [[Jacqueline Sanchez]]
 - [[Kiara Sanchez]]
-- [[Ivalio Rodrigues]]
+- [[Ivailo Rodrigues]]
 - [[Jinelle Foster]]
 - [[Lyric Jarrel]]
 

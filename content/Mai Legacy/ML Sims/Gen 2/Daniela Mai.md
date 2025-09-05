@@ -2,12 +2,12 @@
 > # Daniela Mai
 > ![[Daniela Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Daniela Mai | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,19 +15,19 @@
 > | Relatives | [[Ed Mai]] (Husband)<br>[[James Mai]] (Son)<br>[[Jamie Mai]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Oasis Springs]]| 
 > | Home |[[Daniela and Ed's]]<br>[[Cleary Ranch]]| 
 > | Career | Owner of the Mai Resort and Spa | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Other Appearances | [[Just Starting Out]] | 
 > | Appearance Count | 3 | 
-> | First Appearance | Mai Legacy *1.1 - A New Beginning*
+> | First Appearance | Just Starting Out *1.12 - Lips Sealed Shut*
 > | Final Appearance | Just Starting Out *1.17 - Run Away*
 
 > [!quote|author] Daniela to James.
@@ -61,6 +61,12 @@ After James finally returned to Oasis Springs, met Jamie, and found out about Da
 
 ## Personality
 Daniela is a woman who radiates confidence. Some would argue she had an excess of confidence, but she would always believe otherwise. She expected great things of herself and her family, and was always willing to step up and do what was needed to be done to achieve whatever it was she wanted.
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <center>[![[Ed Portrait Gen 2.png]]](<Ed Mai>)<br>[[Ed Mai]]|<center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]| <center>[![[Jamie Portrait Gen 2.png]]](<Jamie Mai>)<br>[[Jamie Mai]]| <center>[![[Ty Portrait Gen 2.png]]](<Ty Cleary>)<br>[[Ty Cleary]]|
+| <center>[![[Colette Portrait Gen 2.png]]](<Colette Cleary>)<br>[[Colette Cleary]]|<center>[![[Nancy Portrait Gen 1.png]]](<Nancy Landgraab>)<br>[[Nancy Landgraab]]|
 
 ## Appearances
 ##### [[Mai Legacy]]

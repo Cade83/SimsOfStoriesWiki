@@ -2,12 +2,12 @@
 > # Leah Mai
 > ![[Leah Gen 2.png]]
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Leah Mai | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives |[[James Mai]] (Father)<br>[[Susan Harper]] (Mother)<br>[[Seth Mai]] (Older Brother)<br>[[Maverick Holm]] (Husband)<br>[[Willow Holm]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Windenburg]]| 
 > | Home |[[Mai House]]| 
 > | Career | Host of *The Afternoon Tea* | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 17 | 

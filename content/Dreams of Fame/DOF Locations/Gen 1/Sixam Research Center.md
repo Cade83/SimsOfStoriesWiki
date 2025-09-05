@@ -2,12 +2,12 @@
 > # Sixam Research Center
 > ![[S.1.26.13.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Sixam]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Generation | [[First Generation]] |
@@ -30,8 +30,6 @@ Beatrice later chose the research center as a place to hide from the Sixamese al
 > ![[S.1.26.23.png]] 
 > The interior of the kitchen.
 
-<br style="clear:both; margin: 0; padding: 0" />
-
 > [!caption|left]
 > ![[S.1.33.12.png]] 
 > The computer room.
@@ -43,7 +41,7 @@ Beatrice later chose the research center as a place to hide from the Sixamese al
 <br style="clear:both; margin: 0; padding: 0" />
 
 ## Appearances
-#### [[Dreams of Fame]]
+##### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |

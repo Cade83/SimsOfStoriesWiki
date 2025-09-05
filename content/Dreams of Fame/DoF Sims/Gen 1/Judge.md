@@ -3,20 +3,20 @@
 > ![[S.1.18.5.png]] 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
 > | Generation | [[First Generation]] |
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In | [[Willow Creek]] | 
 > | Career | Judge | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Appearance Count | 4 | 
@@ -38,7 +38,7 @@ The judge presides over the [[Willow Creek Courthouse]]. When [[Zoe Patel]] sued
 What ultimately decided her ruling on the case was the entrance of [[Giovanna Cardwell]], who sat on Zoe Presley's side of the courtroom. That was all the evidence she needed, because as a secret fan of the books and Giovanna in particular, she knew that sitting near Zoe by itself was enough of a statement. She secured an autograph from Giovanna, and later showed up to the opening of the [[Presley School of Excellency]] many years later and grabbed another autograph there.
 
 ## Appearances
-#### [[Dreams of Fame]]
+##### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |

@@ -1,17 +1,13 @@
----
-dg-publish: true
-dg-home: true
----
 > [!infobox]+ Collapsible Infobox
 > # Amelia Brown
 > ![[Amelia Gen 1 V3.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |   |   | 
 > | ---- | ---- | 
 > | Full Name | Amelia Brown | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |   |   | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -19,7 +15,7 @@ dg-home: true
 > | Relatives | [[Samson Brown]] (Husband)<br>[[Jamira Brown]] (Daughter)<br>[[Cory Brown]] (Son)|
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |   |   | 
 > | ---- | ---- | 
 > | Birthplace | [[Brindleton Bay]] | 
 > | Lived In | [[Willow Creek]] | 
@@ -27,7 +23,7 @@ dg-home: true
 > | Career | [[Beauchamp Law]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |   |   | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Other Appearances | [[Dreams of Fame]] | 
@@ -81,6 +77,12 @@ Amelia is best described as someone who loves her family. She's fiercely defensi
 
 As someone who never really enjoyed confrontation, Amelia tends to keep her head down and bear bad situations, something that hurt her first with Samson and later with [[Stefan Barrens|Stefan]]. She has her limits, however, and when pushed she's willing to take big swings with enough preparation. Socially, Amelia loves gossip, and the ability to talk for hours about anything without fear of judgement. The basis of her friendship with [[Jo Kauffman|Jo]] was based on gossip before it developed into something much deeper.
 
+## Relationships
+| | | | | 
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Samson Portrait Gen 1.png]]](<Samson Brown>)<br>[[Samson Brown]]| <center>[![[Jamira Portrait Gen 2.png]]](<Jamira Brown>)<br>[[Jamira Brown]]| <center>[![[Cory Portrait Gen 2.png]]](<Cory Brown>)<br>[[Cory Brown]]|<center>[![[Carter Portrait Gen 2.png]]](<Carter Reyes.md>)<br>[[Carter Reyes]]|
+| <center>[![[Jo Portrait Gen 1.png]]](<Jo Kauffman>)<br>[[Jo Kauffman]]| <center><font size=2.5>[![[Genevieve Portrait Gen 1.png]]](<Genevieve Beauchamp>)<br>[[Genevieve Beauchamp]]| <center>[![[Felix Portrait Gen 1.png]]](<Felix Beauchamp>)<br>[[Felix Beauchamp]]| <center>[![[Stefan Portrait Gen 1.png]]](<Stefan Barrens>)<br>[[Stefan Barrens]]|
+
 ## Trivia
 - Amelia, alongside [[Jamira Brown|Jamira]] and [[Cory Brown|Cory]], were downloaded from the Sims 4 Gallery to fill a lot in a neighborhood. In that save, [[Carter Reyes|Carter]] was the Sim I was playing with, but he bonded closely with the Brown family. This is what led to the Browns becoming the focus of their own story.
 
@@ -92,7 +94,7 @@ As someone who never really enjoyed confrontation, Amelia tends to keep her head
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- | ----------------------------------- |
 | <center><font size=2>Amelia Brown<br><font size=3>**Appears** |<center><font size=2>First Day of a New Life<br><font size=3>**Appears** | <center><font size=2>Charmed by the Willow<br><font size=3>**Appears** | <center><font size=2>A Rival in the Workplace<br><font size=3>**Appears** | <center><font size=2>Getting Clever<br><font size=3>**Appears** 
 |<center><font size=2>The Beauchamp's Apology<br><font size=3>**Appears**| <center><font size=2>Samson<br><font size=3>**Appears** | <center><font size=2>A Man Scorned<br><font size=3>**Appears**  | <center><font size=2>Strength of Character<br><font size=3>**Appears**  |<center><font size=2>A Long Owed Explanation<br><font size=3>**Appears**  |
-|<center><font size=2>The Bitterness Within<br><font size=3>***Mentioned***  | <center><font size=2>News in the Dead of Night<br><font size=3>**Appears** | <center><font size=2>The Presley Family<br><font size=3>**Appears**  | <center><font size=2>Tarnished Memories<br><font size=3>**Appears**  | <center><font size=2>A Headlights in the Night<br><font size=3>**Appears** |
+|<center><font size=2>The Bitterness Within<br><font size=3>***Mentioned***  | <center><font size=2>News in the Dead of Night<br><font size=3>**Appears** | <center><font size=2>The Presley Family<br><font size=3>**Appears**  | <center><font size=2>Tarnished Memories<br><font size=3>**Appears**  | <center><font size=2>Headlights in the Night<br><font size=3>**Appears** |
 ###### Chapter 2: Strength of Will
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |

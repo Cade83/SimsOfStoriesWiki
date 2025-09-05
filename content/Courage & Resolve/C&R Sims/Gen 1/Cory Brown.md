@@ -2,12 +2,12 @@
 > # Cory Brown
 > ![[Cory Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Cory Brown | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,7 +15,7 @@
 > | Relatives | [[Amelia Brown]] (Mother)<br>[[Samson Brown]] (Father)<br>[[Jamira Brown]] (Older Sister)|
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace | [[Brindleton Bay]] | 
 > | Lived In | [[Willow Creek]] | 
@@ -23,7 +23,7 @@
 > | Career | Basketball Player | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Other Appearances | [[Dreams of Fame]] | 
@@ -50,6 +50,12 @@ In comparison to his [[Jamira Brown|sister]], Cory is significantly more level-h
 
 Cory also has a deep interest in his own family history, and how it relates to his image of himself. He tends to get concerned about how he and his family look, and after seeing how bad [[Samson Brown|Samson]] was, he began to wonder what sharing DNA with that man meant.
 
+## Relationships
+| | | | | 
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <center>[![[Amelia Portrait Gen 1.png]]](<Amelia Brown>)<br>[[Amelia Brown]]| <center>[![[Jamira Portrait Gen 2.png]]](<Jamira Brown>)<br>[[Jamira Brown]]| <center>[![[Booker Portrait Gen 2.png]]](<Booker Aston>)<br>[[Booker Aston]]| <center>[![[Sheena Portrait Gen 2.png]]](<Sheena Morrin>)<br>[[Sheena Morrin]]|
+| <center>[![[Samson Portrait Gen 1.png]]](<Samson Brown>)<br>[[Samson Brown]]|
+
 ## Appearances
 ##### [[Courage & Resolve]]
 ###### Chapter 1: Strength of Character
@@ -58,7 +64,7 @@ Cory also has a deep interest in his own family history, and how it relates to h
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- | ----------------------------------- |
 | <center><font size=2>Amelia Brown<br><font size=3>**Appears** |<center><font size=2>First Day of a New Life<br><font size=3>**Appears** | <center><font size=2>Charmed by the Willow<br><font size=3>**Appears** | <center><font size=2>A Rival in the Workplace<br><font size=3>***Mentioned*** | <center><font size=2>Getting Clever<br><font size=3>***Mentioned***
 |<center><font size=2>The Beauchamp's Apology<br><font size=3>**Appears**| <center><font size=2>Samson<br><font size=3>***Mentioned*** | <center><font size=2>A Man Scorned<br><font size=3>***Mentioned*** | <center><font size=2>Strength of Character<br><font size=3>**Appears**  |<center><font size=2>A Long Owed Explanation<br><font size=3>**Appears**  |
-|<center><font size=2>The Bitterness Within<br><font size=3>***Mentioned***  | <center><font size=2>News in the Dead of Night<br><font size=3>**Appears** | <center><font size=2>The Presley Family<br><font size=3>**Appears**  | <center><font size=2>Tarnished Memories<br><font size=3>**Appears**  | <center><font size=2>A Headlights in the Night<br><font size=3>**Appears** |
+|<center><font size=2>The Bitterness Within<br><font size=3>***Mentioned***  | <center><font size=2>News in the Dead of Night<br><font size=3>**Appears** | <center><font size=2>The Presley Family<br><font size=3>**Appears**  | <center><font size=2>Tarnished Memories<br><font size=3>**Appears**  | <center><font size=2>Headlights in the Night<br><font size=3>**Appears** |
 ###### Chapter 2: Strength of Will
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |

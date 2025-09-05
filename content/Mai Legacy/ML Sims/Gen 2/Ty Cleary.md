@@ -2,12 +2,12 @@
 > # Ty Cleary
 > ![[Ty Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Ty Cleary | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Jamie Mai]] (Sister)<br>[[Colette Cleary]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Oasis Springs]]| 
 > | Home |[[Cleary Ranch]]| 
 > | Career | Cleary Ranch Owner | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 4 | 
@@ -35,6 +35,12 @@
 ## Personality
 
 <br style="clear:both; margin: 0; padding: 0" />
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Jamie Portrait Gen 2.png]]](<Jamie Mai>)<br>[[Jamie Mai]]|<center>[![[Colette Portrait Gen 2.png]]](<Colette Cleary>)<br>[[Colette Cleary]]|<center>[![[Daniela Portrait Gen 2.png]]](<Daniela Mai>)<br>[[Daniela Mai]]|<center>[![[Ed Portrait Gen 2.png]]](<Ed Mai>)<br>[[Ed Mai]]|
+|<center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]|
 
 ## Appearances
 ##### [[Mai Legacy]]

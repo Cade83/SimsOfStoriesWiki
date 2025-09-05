@@ -2,12 +2,12 @@
 > # Bronson Le Chien
 > ![[Bronson Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Bronson Le Chien | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Rosaline Le Chien]] (Wife)<br>[[Joaquin Le Chien]] (Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Windenburg]]| 
 > | Home |[[Le Chien House]]| 
 > | Career | Trophy Husband | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 4 | 
@@ -63,6 +63,12 @@ While doubtful that they could continue to exist alongside the Mai family, Brons
 
 ## Personality
 While [[Rosaline Le Chien|Rosaline]] was always be the one to lead conversations, Bronson was the more analytical of the two. He'd recognize what the intentions of others were, then contribute his thoughts to turn things around. Through Rosaline, he developed a great love for Le Chien family history on top of the love he already had for Rosaline and [[Joaquin Le Chien|Joaquin]], and he'd do anything to protect them.
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <center>[![[Rosaline Portrait Gen 2.png]]](<Rosaline Le Chien>)<br>[[Rosaline Le Chien]]|<center>[![[Joaquin Portrait Gen 2.png]]](<Joaquin Le Chien>)<br>[[Joaquin Le Chien]]| <center>[![[Romeo Portrait Gen 2.png]]](<Sergio Romeo>)<br>[[Sergio Romeo]]| <center>[![[Hajar Portrait Gen 2.png]]](<Hajar Cresques>)<br>[[Hajar Cresques]]|
+| <center>[![[Victor Portrait Gen 2.png]]](<Victor Feng>)<br>[[Victor Feng]]|<center>[![[Lily Portrait Gen 2.png]]](<Lily Feng>)<br>[[Lily Feng]]| <center>[![[Cassandra Portrait Gen 1.png]]](<Cassandra Goth>)<br>[[Cassandra Goth]]|
 
 ## Appearances
 ##### [[Mai Legacy]]
