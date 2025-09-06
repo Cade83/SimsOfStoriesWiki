@@ -2,26 +2,26 @@
 > # Jinelle Foster
 > ![[Jinelle Gen 3 NEW.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Jinelle Foster | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
 > | Generation | [[Third Generation]] |
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Windenburg]]
 > | Home |[[Sanchez Mansion]]| 
 > | Career | Personal Servant | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
 > | Appearance Count | 5 | 
@@ -34,6 +34,12 @@
 ## Personality
 
 <br style="clear:both; margin: 0; padding: 0" />
+
+## Relationships
+| | | | | 
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <center>[![[Jacqueline Portrait Gen 3.png]]](<Jacqueline Sanchez>)<br>[[Jacqueline Sanchez]]|<center>[![[Ivailo Portrait Gen 3.png]]](<Ivailo Rodrigues.md>)<br>[[Ivailo Rodrigues]]| <center>[![[Lyric Portrait Gen 3.png]]](<Lyric Jarrel>)<br>[[Lyric Jarrel]]|<center>[![[Antonio Portrait Gen 3.png]]](<Antonio Sanchez>)<br>[[Antonio Sanchez]]|
+| <center>[![[Kiara Portrait Gen 3.png]]](<Kiara Sanchez>)<br>[[Kiara Sanchez]]|
 
 ## Appearances
 ##### [[Reborn from the Ash]]

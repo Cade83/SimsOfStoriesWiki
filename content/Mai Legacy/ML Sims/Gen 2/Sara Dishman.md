@@ -2,12 +2,12 @@
 > # Sara Dishman
 > ![[Sara Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Sara Dishman | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Rene Dishman]] (Husband)<br>[[Jocelyn Dishman]] (Daughter)<br>[[Ivan Dishman]] (Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Britechester]]| 
 > | Home |[[Dishman House]]| 
 > | Career | Founder of Wellness Brand | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Other Appearances | [[Lies and Deceit]] | 
@@ -59,6 +59,11 @@ Her growing proximity to the Mai Family, however, ultimately proved to be her un
 
 ## Personality
 Sara is an ever-friendly businesswoman who, as a result of her own success, always wants to give back to others. She did this through seminars, and later through the adoption of [[Jocelyn Dishman|Jocelyn]] and [[Ivan Dishman|Ivan]]. While Sara would be the first to admit that motherhood ultimately wasn't in her, as she wasn't able to properly mediate or deal with their arguments and soon gave up on it, but she was always willing to do anything she could for them.
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Rene Portrait Gen 2.png]]](<Rene Dishman>)<br>[[Rene Dishman]]|<center>[![[Jocelyn Portrait Gen 2.png]]](<Jocelyn Dishman>)<br>[[Jocelyn Dishman]]|<center>[![[Ivan Portrait Gen 3.png]]](<Ivan Dishman>)<br>[[Ivan Dishman]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai>)<br>[[Seth Mai]] |
 
 ## Appearances
 ##### [[Mai Legacy]]

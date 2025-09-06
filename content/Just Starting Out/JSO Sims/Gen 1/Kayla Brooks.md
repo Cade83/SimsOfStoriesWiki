@@ -2,12 +2,12 @@
 > # Kayla Brooks
 > ![[Kayla Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Kayla Brooks | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,7 +15,7 @@
 > | Relatives | [[Adrienne Brooks]] (Mother)<br>[[Jameson Brooks]] (Father)<br>[[John Brooks]] (Older Brother)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Willow Creek]]| 
 > | Lived In |[[Newcrest]]| 
@@ -23,7 +23,7 @@
 > | Career | Author of the *Living on Less* series | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] |
 > | Other Appearances | [[Dreams of Fame]] |  
@@ -39,6 +39,12 @@
 ## Personality
 
 <br style="clear:both; margin: 0; padding: 0" />
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[John Portrait Gen 1.png]]](<John Brooks>)<br>[[John Brooks]] |<center>[![[Adrienne Portrait Gen 1.png]]](<Adrienne Brooks>)<br>[[Adrienne Brooks]]|<center>[![[Jameson Portrait Gen 1.png]]](<Jameson Brooks>)<br>[[Jameson Brooks]]|<center>[![[Melody Portrait Gen 1.png]]](<Melody Roach>)<br>[[Melody Roach]]|
+|<center>[![[Malcolm Portrait Gen 1.png]]](<Malcolm Landgraab>)<br>[[Malcolm Landgraab]]|<center>[![[Cassandra Portrait Gen 1.png]]](<Cassandra Goth>)<br>[[Cassandra Goth]]|<center>[![[Alexander Portrait Gen 1.png]]](<Alexander Goth>)<br>[[Alexander Goth]]|<center>[![[Mila Portrait Gen 1.png]]](<Mitch Laurent>)<br>[[Mila Munch]]|
 
 ## Appearances
 ##### [[Just Starting Out]]

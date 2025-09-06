@@ -2,12 +2,12 @@
 > # José's House
 > ![[S.1.24.23.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Willow Creek]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Generation | [[First Generation]]|
@@ -44,7 +44,7 @@ After marrying Summer, José sold his home, and moved into the [[Presley House]]
 - This house is built entirely underground, which is why it is almost dark outdoors. The one chapter where there is light in the windows, it was temporarily moved aboveground.
 
 ## Appearances
-#### [[Dreams of Fame]]
+##### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |
