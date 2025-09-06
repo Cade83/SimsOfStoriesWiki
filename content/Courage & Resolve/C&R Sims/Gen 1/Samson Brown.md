@@ -2,12 +2,12 @@
 > # Samson Brown
 > ![[Samson Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Samson Brown | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,7 +15,7 @@
 > | Relatives | [[Amelia Brown]] (Wife)<br>[[Jamira Brown]] (Daughter)<br>[[Cory Brown]] (Son)|
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace | [[Magnolia Promenade]] | 
 > | Lived In | [[Brindleton Bay]] <br>[[Willow Creek]]| 
@@ -23,7 +23,7 @@
 > | Career | Musician | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Appearance Count | 8 | 
@@ -73,12 +73,16 @@ Left with nothing else, Samson made one final attempt to win back his children. 
 
 After Samson's death, Amelia ensured that Carter would face no criminal charges, framing things to paint Carter as their savior. She then allowed herself to mourn, and became a regular visitor to his grave. She didn't mourn the Samson that was killed however, she mourned the man he had been at the start.
 
-<br style="clear:both; margin: 0; padding: 0" />
-
 ## Personality
 Samson was originally a friendly man who recognized the struggles of others. He wanted nothing more than to raise the perfect family and life out the perfect life with [[Amelia Brown|Amelia]]. This is the man Amelia fell in love with, and he still exists when he talks about raising his children, buried under mountains of alcohol and angst.
 
 As they fell on tough financial times, Samson developed a dependency on alcohol, and began to argue with Amelia about their life choices. He could only see the mistakes and failures, and he resented both himself and Amelia for them. This resentment became a rage that often reached a point of violence, first towards Amelia, and later towards [[Stefan Barrens|Stefan]] and his own children. Samson wanted nothing more than to be a good father and a good husband, and his inability to be either ruined him.
+
+## Relationships
+| | | | | 
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <center>[![[Amelia Portrait Gen 1.png]]](<Amelia Brown>)<br>[[Amelia Brown]]| <center>[![[Stefan Portrait Gen 1.png]]](<Stefan Barrens>)<br>[[Stefan Barrens]]| <center>[![[Jamira Portrait Gen 1.png]]](<Jamira Brown>)<br>[[Jamira Brown]]| <center>[![[Cory Portrait Gen 1.png]]](<Cory Brown>)<br>[[Cory Brown]]|
+| <center>[![[Johnny Portrait Gen 2.png]]](<Johnny Zest>)<br>[[Johnny Zest]]|
 
 ## Appearances
 ##### [[Courage & Resolve]]
@@ -88,7 +92,7 @@ As they fell on tough financial times, Samson developed a dependency on alcohol,
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | <center><font size=2>Amelia Brown<br><font size=3>***Mentioned***            | <center><font size=2>First Day of a New Life<br><font size=3>***Mentioned***   | <center><font size=2>Charmed by the Willow<br><font size=3>***Mentioned*** | <center><font size=2>A Rival in the Workplace<br><font size=3>*Absent* | <center><font size=2>Getting Clever<br><font size=3>***Mentioned***        |
 | <center><font size=2>The Beauchamp's Apology<br><font size=3>***Mentioned*** | <center><font size=2>Samson<br><font size=3>**Appears**                        | <center><font size=2>A Man Scorned<br><font size=3>**Appears**             | <center><font size=2>Strength of Character<br><font size=3>**Appears** | <center><font size=2>A Long Owed Explanation<br><font size=3>**Appears**   |
-| <center><font size=2>The Bitterness Within<br><font size=3>**Appears**       | <center><font size=2>News in the Dead of Night<br><font size=3>***Mentioned*** | <center><font size=2>The Presley Family<br><font size=3>**Appears**        | <center><font size=2>Tarnished Memories<br><font size=3>*Absent*       | <center><font size=2>A Headlights in the Night<br><font size=3>**Appears** |
+| <center><font size=2>The Bitterness Within<br><font size=3>**Appears**       | <center><font size=2>News in the Dead of Night<br><font size=3>***Mentioned*** | <center><font size=2>The Presley Family<br><font size=3>**Appears**        | <center><font size=2>Tarnished Memories<br><font size=3>*Absent*       | <center><font size=2>Headlights in the Night<br><font size=3>**Appears** |
 ###### Chapter 2: Strength of Will
 |                                                                     |     |     |     |     |
 | ------------------------------------------------------------------- | --- | --- | --- | --- |

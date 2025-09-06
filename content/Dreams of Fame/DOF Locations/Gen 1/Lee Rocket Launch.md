@@ -2,12 +2,12 @@
 > # Lee Rocket Launch
 > ![[S.1.11.5.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Willow Creek]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Generation | [[First Generation]] |
@@ -34,7 +34,7 @@ As someone who had wanted to become an astronaut for years, [[Liberty Lee]] used
 * This house is built on the same lot as the [[Brown Residence]], even though the Brown Residence is the building that actually exists on that lot in canon. This placement is a holdover from the original Presley family play-through, and in canon, the rocket launch exists nearby, but not close enough to be a lot over.
 
 ## Appearances
-#### [[Dreams of Fame]]
+##### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |

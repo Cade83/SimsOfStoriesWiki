@@ -2,12 +2,12 @@
 > # Carter Reyes
 > ![[Carter Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Carter Reyes | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -15,7 +15,7 @@
 > | Relatives | 
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace | [[Oasis Springs]] | 
 > | Lived In | [[Willow Creek]] | 
@@ -23,7 +23,7 @@
 > | Career | Sugar Baby | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Appearance Count | 2 | 
@@ -42,6 +42,11 @@ Carter sped into [[Willow Creek]] with his face awash with tears, regretting his
 
 <br style="clear:both; margin: 0; padding: 0" />
 
+## Relationships
+| | | | | 
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <center>[![[Rian Portrait Gen 2.png]]](<Rian Winstrate>)<br>[[Rian Winstrate]]| <center>[![[Amelia Portrait Gen 2.png]]](<Amelia Brown>)<br>[[Amelia Brown]]| <center>[![[Jamira Portrait Gen 2.png]]](<Jamira Brown>)<br>[[Jamira Brown]]| <center>[![[Cory Portrait Gen 2.png]]](<Cory Brown>)<br>[[Cory Brown]]|
+
 ## Appearances
 ##### [[Courage & Resolve]]
 ###### Chapter 1: Strength of Character
@@ -50,7 +55,7 @@ Carter sped into [[Willow Creek]] with his face awash with tears, regretting his
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | <center><font size=2>Amelia Brown<br><font size=3>*Absent*            | <center><font size=2>First Day of a New Life<br><font size=3>*Absent*   | <center><font size=2>Charmed by the Willow<br><font size=3>*Absent* | <center><font size=2>A Rival in the Workplace<br><font size=3>*Absent* | <center><font size=2>Getting Clever<br><font size=3>*Absent*             |
 | <center><font size=2>The Beauchamp's Apology<br><font size=3>*Absent* | <center><font size=2>Samson<br><font size=3>*Absent*                 | <center><font size=2>A Man Scorned<br><font size=3>*Absent*         | <center><font size=2>Strength of Character<br><font size=3>*Absent*    | <center><font size=2>A Long Owed Explanation<br><font size=3>*Absent* |
-| <center><font size=2>The Bitterness Within<br><font size=3>*Absent*   | <center><font size=2>News in the Dead of Night<br><font size=3>*Absent* | <center><font size=2>The Presley Family<br><font size=3>*Absent*    | <center><font size=2>Tarnished Memories<br><font size=3>*Absent*       | <center><font size=2>A Headlights in the Night<br><font size=3>**Appears**   |
+| <center><font size=2>The Bitterness Within<br><font size=3>*Absent*   | <center><font size=2>News in the Dead of Night<br><font size=3>*Absent* | <center><font size=2>The Presley Family<br><font size=3>*Absent*    | <center><font size=2>Tarnished Memories<br><font size=3>*Absent*       | <center><font size=2>Headlights in the Night<br><font size=3>**Appears**   |
 
 ###### Chapter 2: Strength of Will
 |                                                                       |     |     |     |     |     |

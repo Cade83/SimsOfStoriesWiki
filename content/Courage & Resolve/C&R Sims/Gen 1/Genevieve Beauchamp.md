@@ -2,12 +2,12 @@
 > # Genevieve Beauchamp
 > ![[Genevieve Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Genevieve Beauchamp | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[Felix Beauchamp]] (Husband)<br>[[Connor Beauchamp]] (Son)<br>[[Elise Beauchamp]] (Daughter)|
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In | [[Willow Creek]]| 
 > | Career | Publicist at [[Beauchamp Law]] | 
 > | Home | [[Beacuchamp House]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Other Appearances | [[Lies and Deceit]] | 
@@ -66,6 +66,11 @@ A woman in a relentless pursuit of perfection, Genevieve knows how to keep thing
 
 This desire for perfection is also reflected in her personal life- she keeps it entirely separate from her work life, as she believes it could lead to messes. She also expects perfection from those around her, which has been something that was frustrated Felix from time to time as he recognizes that he is far from perfect. Regardless, once someone has entered Genevieve's personal life, she treats them as a friend for life, and will do anything to ensure that their life and friendship remains unblemished.
 
+## Relationships
+| | | | | 
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <center>[![[Felix Portrait Gen 1.png]]](<Felix Beauchamp>)<br>[[Felix Beauchamp]]| <center>[![[Connor Portrait Gen 2.png]]](<Connor Beauchamp>)<br>[[Connor Beauchamp]]| <center>[![[Elise Portrait Gen 2.png]]](<Elise Beauchamp>)<br>[[Elise Beauchamp]]| <center>[![[Amelia Portrait Gen 1.png]]](<Amelia Brown>)<br>[[Amelia Brown]]|
+
 ## Appearances
 ##### [[Courage & Resolve]]
 ###### Chapter 1: Strength of Character
@@ -74,7 +79,7 @@ This desire for perfection is also reflected in her personal life- she keeps it 
 | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | <center><font size=2>Amelia Brown<br><font size=3>*Absent*               | <center><font size=2>First Day of a New Life<br><font size=3>**Appears** | <center><font size=2>Charmed by the Willow<br><font size=3>*Absent*  | <center><font size=2>A Rival in the Workplace<br><font size=3>**Appears** | <center><font size=2>Getting Clever<br><font size=3>**Appears**       |
 | <center><font size=2>The Beauchamp's Apology<br><font size=3>**Appears** | <center><font size=2>Samson<br><font size=3>**Appears**                | <center><font size=2>A Man Scorned<br><font size=3>***Mentioned***         | <center><font size=2>Strength of Character<br><font size=3>*Absent*           | <center><font size=2>A Long Owed Explanation<br><font size=3>**Appears**   |
-| <center><font size=2>The Bitterness Within<br><font size=3>*Absent*      | <center><font size=2>News in the Dead of Night<br><font size=3>**Appears**   | <center><font size=2>The Presley Family<br><font size=3>**Appears**        | <center><font size=2>Tarnished Memories<br><font size=3>**Appears**           | <center><font size=2>A Headlights in the Night<br><font size=3>**Appears** |
+| <center><font size=2>The Bitterness Within<br><font size=3>*Absent*      | <center><font size=2>News in the Dead of Night<br><font size=3>**Appears**   | <center><font size=2>The Presley Family<br><font size=3>**Appears**        | <center><font size=2>Tarnished Memories<br><font size=3>**Appears**           | <center><font size=2>Headlights in the Night<br><font size=3>**Appears** |
 
 #### Cameo Appearances
 ###### [[Just Starting Out]] Chapter 1: Starting Out New

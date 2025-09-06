@@ -2,12 +2,12 @@
 > # Daniela and Ed's
 > ![[1.1.3 v2.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Oasis Springs]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Generation | [[Second Generation]]|

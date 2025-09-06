@@ -2,12 +2,12 @@
 > # Summer Holiday
 > ![[Summer Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Summer Holiday | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,18 +15,18 @@
 > | Relatives | [[Terra Holiday]] (Mother)<br>[[Giovanna Cardwell]] (Adoptive Mother)<br>[[José Yépez]] (Husband)<br>[[Nash Holiday]] (Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]| 
 > | Home |[[BFFs House]]<br>[[Presley House]]| 
 > | Career | Bartender at [[Blue Velvet]]<br>Medical Receptionist<br>Owner of [[Summer's Restaurant]]| 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
-> | Other Appearances | [[Courage & Resolve]] | 
-> | Appearance Count | 28 | 
+> | Other Appearances | [[Courage & Resolve]]<br>[[Summertime Haze]] | 
+> | Appearance Count | 31 | 
 > | First Appearance | Dreams of Fame *1.4 - Welcome to the Neighborhood!*
 
 > [!quote|author] Summer to Travis and Liberty
@@ -35,7 +35,7 @@
 **Summer Holiday** is one of the protagonists of the first chapter of [[Dreams of Fame]]. She's roomed with [[Travis Scott]] and [[Liberty Lee]] since graduating from high school.
 
 ## Profile
-Summer Holiday had a difficult relationship with her parents growing up, especially with her mother, [[Terra Holiday|Terra]]. Summer felt as if she was overly critical of her every last decision, and Terra saw her as entitled. This only worsened throughout high school, as Summer began to pursue [[Travis Scott]] romantically, and Terra continually told Summer that she could do better. She was horrified when, after graduating high school, Summer chose to [[BFFs House|move in]] with Travis and a mutual friend by the name of [[Liberty Lee]].
+Summer Holiday had a difficult relationship with her parents growing up, especially with her mother, [[Terra Holiday|Terra]]. Summer felt as if she was overly critical of her every last decision, and Terra saw her as entitled. This only worsened throughout high school, as Summer began to pursue [[Travis Scott]] romantically, and Terra continually told Summer that she could do better. She was horrified when, after graduating high school, Summer chose to [[BFFs House|move in]] with Travis and a mutual friend by the name of [[Liberty Lee]]. While living with them, she took on a job bartending at the [[Blue Velvet]].
 
 > [!caption|left]
 > ![[S.1.4.5.png]] 
@@ -83,7 +83,7 @@ At the [[President’s Mansion]], he ran into [[Zoe Patel]], an enemy of Summer'
 > ![[S.1.30.36.png]] 
 >  Summer and José enjoy their wedding.
 
-Once she was found, Summer was rushed to the [[Willow Creek Hospital|hospital]], and José showed up to apologize profusely. He then proposed right then, and Summer happily said yes. The two of them were wed at the [[Blue Velvet]], a favorite bar of Summer's, and the place she'd worked years ago. With José forgiven by her family, her wedding was well attended. To Summer's surprise, even her mother showed up. Terra was looking to make amends and start over, but only if Summer was also willing to admit her faults. Summer refused, telling her that it was far too late. That evening, for the first time in a long time, Summer realized that she was truly happy.
+Once she was found, Summer was rushed to the [[Willow Creek Hospital|hospital]], and José showed up to apologize profusely. He then proposed right then, and Summer happily said yes. The two of them were wed at the Blue Velvet, which had remained a favorite bar of Summer's ever since she'd worked there years ago. With José forgiven by her family, her wedding was well attended. To Summer's surprise, even her mother showed up. Terra was looking to make amends and start over, but only if Summer was also willing to admit her faults. Summer refused, telling her that it was far too late. That evening, for the first time in a long time, Summer realized that she was truly happy.
 
 > [!caption|left]
 > ![[S.1.33.29.png]] 
@@ -96,8 +96,14 @@ When Summer sets her mind to something, she pursues it relentlessly. This happen
 
 Summer has a tendency to be exceedingly cruel with her words, and furiously defensive of her choices, even if she herself recognizes that she's screwed up. Living in the [[Presley House]] only amplified her worst tendencies, especially during times when she was unhappy, but Summer recognizes that she's been a bitch for the vast majority of her life. That doesn't mean she's immune to feelings of guilt, or regret, for both her actions, and what happens to others. Summer would just chose not to admit those feelings. The only person she's able to truly open up to is José.
 
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[José Portrait Gen 1.png]]](<José Yépez>)<br>[[José Yépez]]|<center>[![[Nash Portrait Gen 2.png]]](<Nash Holiday>)<br>[[Nash Holiday]]|<center>[![[Travis Portrait Gen 1.png]]](<Travis Scott>)<br>[[Travis Scott]]|<center>[![[Liberty Portrait Gen 1.png]]](<Liberty Lee>)<br>[[Liberty Lee]]|
+|<center>[![[Zoe Portrait Gen 1.png]]](<Zoe Presley>)<br>[[Zoe Presley]] |<center>[![[Giovanna Portrait Gen 2.png]]](<Giovanna Cardwell>)<br>[[Giovanna Cardwell]]|<center>[![[Terra Portrait Gen 1.png]]](<Terra Holiday>)<br>[[Terra Holiday]]|
+
 ## Appearances
-#### [[Dreams of Fame]]
+##### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
 |                                                                       |                                                                                |                                                                       |                                                                               |                                                                              |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -109,7 +115,7 @@ Summer has a tendency to be exceedingly cruel with her words, and furiously defe
 | <center><font size=2>Sixam Life<br><font size=3>**Appears**           | <center><font size=2>The Search for Summer<br><font size=3>***Mentioned***     | <center><font size=2>Sylvan Glade<br><font size=3>**Appears**         | <center><font size=2>Proposal<br><font size=3>**Appears**                     | <center><font size=2>Back on Earth<br><font size=3>**Appears**               |
 | <center><font size=2>Second Mother<br><font size=3>**Appears**        | <center><font size=2>Sylvan Curse<br><font size=3>**Appears**                  | <center><font size=2>Final Sacrifice<br><font size=3>**Appears**      |                                                                               
 
-###### Chapter 2: ## Super Villains and Pianists
+###### Chapter 2: Super Villains and Pianists
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |
 | <center><font size=2>Celebrity Funeral<br><font size=3>**Appears** |     |     |     |     |
@@ -119,6 +125,10 @@ Summer has a tendency to be exceedingly cruel with her words, and furiously defe
 - 1.1 - Amelia Brown
 - 1.3 - Charmed by the Willow (Cameo)
 - 1.13 - The Presley Family
+
+###### [[Summertime Haze]] Chapter 1: An Illusion of Safety
+- 1.18 - The Nurse
+- 1.22 - Reflecting
 
 #### Categories
 #Dreams_of_Fame_Characters #Holiday_Family #Main_Characters #Generation_1_Characters #Generation_2_Characters
