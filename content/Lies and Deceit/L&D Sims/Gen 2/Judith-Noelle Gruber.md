@@ -63,6 +63,18 @@ Having lost the election, the company Judith-Noelle had been responsible for fel
 
 At home, Judith-Noelle truly stepped into her role as a mother, and went out of her way to look our for each of her children. She quelled fights, ensured they were well-fed, and tried her best to encourage family dinners, even if they often didn't happen. Tom did his best to step in when he could, but he had a tendency to disappear and come home late, often drunk, which Judith-Noelle hated. Once she was promoted, things looked to be turning around, as she could more comfortably support her family, and she even allowed Tom to take her out dancing for the first time in years.
 
+> [!caption|right]
+> ![[F.1.1.11.png]] 
+> Genevieve offers Judith-Noelle the promotion.
+
+Having lost the election, the company Judith-Noelle had been responsible for fell into financial ruin. She eventually ended up relocating her family to an [[Gruber Apartment|apartment]] in [[Britechester]], where she'd found a job working at [[Beauchamp Law (Britechester)|Beauchamp Law]]. As Tom was unable to hold down a consistent job, Judith-Noelle was the sole provider for her entire family, so she put in significant effort at work. With time, she was recognized for her efforts, and [[Genevieve Beauchamp]] visited her and offered her a promotion to regional manager, which Judith-Noelle happily accepted.
+
+> [!caption|left]
+> ![[F.1.2.12.png]] 
+> Judith-Noelle argues with Tom when he comes home late.
+
+At home, Judith-Noelle truly stepped into her role as a mother, and went out of her way to look our for each of her children. She quelled fights, ensured they were well-fed, and tried her best to encourage family dinners, even if they often didn't happen. Tom did his best to step in when he could, but he had a tendency to disappear and come home late, often drunk, which Judith-Noelle hated. Once she was promoted, things looked to be turning around, as she could more comfortably support her family, and she even allowed Tom to take her out dancing for the first time in years.
+
 ## Personality
 Judith-Noelle is a woman who will do anything to ensure her family's perfection and long-term success. Despite her political failings, she starts over and works hard at [[Beauchamp Law]] to provide, and even stays with [[Tom Gruber|Tom]] despite their struggling marriage for the sake of preserving her idealized version of a perfect family. The rare glimpses of the man she fell in love with keep her going, as she still truly does love that version of him. Judith-Noelle abandoned many of her dreams and goals for herself in order to preserve her perfect family.
 
