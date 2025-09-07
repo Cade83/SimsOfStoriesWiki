@@ -35,6 +35,9 @@ After [[Samson Brown]]'s death, [[Amelia Brown]] paid regular visits to his grav
 ## Appearances
 #### [[Courage & Resolve]]
 ###### Chapter 2: Strength of Will
+|                                                                       |     |     |     |     |
+| --------------------------------------------------------------------- | --- | --- | --- | --- |
+| <center><font size=2>A Grave Conversation<br><font size=3>**Appears** |     |     |     |     |
 
 #### Categories
 #Summertime_Haze_Locations #Cemeteries #Generation_1_Locations #Generation_2_Locations

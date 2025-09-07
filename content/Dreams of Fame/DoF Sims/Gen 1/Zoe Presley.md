@@ -123,11 +123,6 @@ Zoe's final personality emerged as she struggled to rid herself of the fog that 
 | <center><font size=2>Sixam Life<br><font size=3>***Mentioned*** | <center><font size=2>The Search for Summer<br><font size=3>**Appears** | <center><font size=2>Sylvan Glade<br><font size=3>**Appears** | <center><font size=2>Proposal<br><font size=3>**Appears** | <center><font size=2>Back on Earth<br><font size=3>**Appears** |
 | <center><font size=2>Second Mother<br><font size=3>**Appears** | <center><font size=2>Sylvan Curse<br><font size=3>**Appears** | <center><font size=2>Final Sacrifice<br><font size=3>**Appears** |  |  |
 
-###### Chapter 2: Super Villains and Pianists
-|                                                                       |     |     |     |     |
-| --------------------------------------------------------------------- | --- | --- | --- | --- |
-| <center><font size=2>Celebrity Funeral<br><font size=3>***Mentioned*** |     |     |     |     |
-
 #### Cameo Appearances
 ###### [[Courage & Resolve]] Chapter 1: Strength of Character
 - 1.1 - Amelia Brown

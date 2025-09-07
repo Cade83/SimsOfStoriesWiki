@@ -74,7 +74,7 @@ It took a bit more time, but with renovations, the house became a source of prid
 #### Under James
 
 > [!caption|left]
-> ![[1.11.1-v2.png]] 
+> ![[1.11.1 v2.png]] 
 > The entry room.
 
 > [!caption|left]
