@@ -2,12 +2,12 @@
 > # Giovanna's Husband's Grave
 > ![[S.1.3.1.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Willow Creek]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Dreams of Fame]] | 
 > | Generation | [[First Generation]]|
@@ -28,7 +28,7 @@ Giovanna refuses to reveal where exactly this location is, and Patel was unwilli
 <br style="clear:both; margin: 0; padding: 0" />
 
 ## Appearances
-#### [[Dreams of Fame]]
+##### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |

@@ -2,25 +2,25 @@
 > # Stefan Barrens
 > ![[Stefan Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Stefan Barrens | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
 > | Generation | [[First Generation]] |
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In | [[Willow Creek]]| 
 > | Career | [[Beauchamp Law]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Courage & Resolve]] | 
 > | Appearance Count | 5 | 
@@ -63,6 +63,11 @@ In Stefan's world, he is at the center of the universe. He believes that everyon
 
 [[Jo Kauffman|Jo]]'s death shattered Stefan's worldview and understanding of his own self. According to his previous logic, with Jo dead, Amelia hurt, and him and Samson getting away with her murder, it should have been a net gain for him. Yet, Stefan was consumed with guilt. He recognized how many lives Jo had touched, and came to realize that being a positive influence in the lives of others might actually be more of a net positive than a tireless pursuit of career and sexual achievements.
 
+## Relationships
+| | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | 
+|<center>[![[Samson Portrait Gen 1.png]]](<Samson Brown>)<br>[[Samson Brown]]| <center>[![[Amelia Portrait Gen 1.png]]](<Amelia Brown>)<br>[[Amelia Brown]]| <center><font size=2.5>[![[Genevieve Portrait Gen 1.png]]](<Genevieve Beauchamp>)<br>[[Genevieve Beauchamp]]|
+
 ## Appearances
 ##### [[Courage & Resolve]]
 ###### Chapter 1: Strength of Character
@@ -71,6 +76,6 @@ In Stefan's world, he is at the center of the universe. He believes that everyon
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- | ----------------------------------- |
 | <center><font size=2>Amelia Brown<br><font size=3>*Absent* |<center><font size=2>First Day of a New Life<br><font size=3>*Absent* | <center><font size=2>Charmed by the Willow<br><font size=3>*Absent* | <center><font size=2>A Rival in the Workplace<br><font size=3>**Appears** | <center><font size=2>Getting Clever<br><font size=3>**Appears**
 |<center><font size=2>The Beauchamp's Apology<br><font size=3>***Mentioned***| <center><font size=2>Samson<br><font size=3>*Absent*| <center><font size=2>A Man Scorned<br><font size=3>**Appears**  | <center><font size=2>Strength of Character<br><font size=3>*Absent* |<center><font size=2>A Long Owed Explanation<br><font size=3>*Absent*  |
-|<center><font size=2>The Bitterness Within<br><font size=3>**Appears**  | <center><font size=2>News in the Dead of Night<br><font size=3>*Absent* | <center><font size=2>The Presley Family<br><font size=3>**Appears**  | <center><font size=2>Tarnished Memories<br><font size=3>*Absent* | <center><font size=2>A Headlights in the Night<br><font size=3>*Absent*|
+|<center><font size=2>The Bitterness Within<br><font size=3>**Appears**  | <center><font size=2>News in the Dead of Night<br><font size=3>*Absent* | <center><font size=2>The Presley Family<br><font size=3>**Appears**  | <center><font size=2>Tarnished Memories<br><font size=3>*Absent* | <center><font size=2>Headlights in the Night<br><font size=3>*Absent*|
 #### Categories
 #Courage_and_Resolve_Characters #Barrens_Family #Antagonistic_Characters #Generation_1_Characters

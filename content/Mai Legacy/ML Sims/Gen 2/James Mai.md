@@ -2,13 +2,13 @@
 > # James Mai
 > ![[James Gen 2.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | James Mai | 
 > | Nicknames | Karaoke Boy (By Susan and Akira) | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
@@ -16,7 +16,7 @@
 > | Relatives | [[Daniela Mai]] (Mother)<br>[[Ed Mai]] (Father)<br>[[Jamie Mai]] (Sister)<br>[[Susan Harper]] (Wife)<br>[[Seth Mai]] (Son)<br>[[Leah Mai]] (Daughter)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Oasis Springs]]| 
 > | Lived In |[[Windenburg]]| 
@@ -24,7 +24,7 @@
 > | Career | Painter | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 29 | 
@@ -65,7 +65,7 @@ While out with Susan, James encountered [[Victor Feng]], who told him about lega
 > ![[1.6.6 v2.png]] 
 > James argues with Jacuqes, and Akira has to step in.
 
-As James's friendship with Akira grew, he attracted the attention of [[Jacques Villareal]], Akira's husband. Jacques felt a growing sense of jealousy when it came to James's closeness to Akira, and James did himself no favors by standing up to Jacques in an argument. Swearing vengeance on James, Jacques cooked up a plot to break into James's house and steal his legacy armor, but his failure to account for James's floor plan led to Jacques ending up trapped in James's house and facing a very public arrest. James threw a house party he had been planning on throwing later the same day to prove that he was unshaken, and befriended two of Susan's friends- [[Penny Pizzazz]] and [[Eliza Pancakes]].
+As James's friendship with Akira grew, he attracted the attention of [[Jacques Villareal]], Akira's husband. Jacques felt a growing sense of jealousy when it came to James's closeness to Akira, and James did himself no favors by standing up to Jacques in an argument. Swearing vengeance on James, Jacques cooked up a plot to break into James's house and steal his legacy armor, but his failure to account for James's floor plan led to Jacques ending up trapped in James's house and facing a very public arrest. James threw a house party he had been planning on throwing later the same day to prove that he was unshaken, and befriended two of Susan's friends- [[Penny Pizzazz]] and [[Eliza Pancakes]]. Eliza insisted that James and Susan were a perfect match, a cry that was later echoed by Akira and Penny regularly.
 
 > [!caption|left]
 > ![[1.6.9 v2.png]] 
@@ -122,6 +122,13 @@ James lived a life defined by his own impulsivity. Nearly everything he did, fro
 James values his friends and family highly. When he first ran away from home, he knew he wanted to have fun and be social, and he ensured that he had the people around him for that to continue to be a constant in his life. He and Susan were hosting social events even at the end of James's life. When it came to [[Seth Mai|Seth]] and [[Leah Mai|Leah]], James wanted to ensure that he taught them enough about legacies and his own mistakes to set them up for success, but he was also cognizant of [[Daniela Mai|Daniela]] and [[Ed Mai|Ed]]'s mistakes, and was careful not to put too much pressure on themselves.
 
 While James originally ran away to escape expectations, he ended up achieving everything Daniela and Ed had wanted for him, and managed to go even further beyond. Regardless, James lived out his life afraid to reach out to them again. He knew in his heart that he'd achieved so much that there wasn't any way they wouldn't be proud of him, but James compartmentalized and pretended as if [[Oasis Springs]] was frozen in time until it was too late. 
+
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Susan Portrait Gen 2.png]]](<Samson Brown>)<br>[[Susan Harper]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai>)<br>[[Seth Mai]] |<center>[![[Leah Portrait Gen 2.png]]](<Leah Mai>)<br>[[Leah Mai]]|<center>[![[Akira Portrait Gen 2.png]]](<Akira Kibo.md>)<br>[[Akira Kibo]]|
+| <center>[![[Salim Portrait Gen 2.png]]](<Salim Benali>)<br>[[Salim Benali]]|<center>[![[Aarohi Portrait Gen 2.png]]](<Aarohi Barclay.md>)<br>[[Aarohi Barclay]] | <center>[![[Victor Portrait Gen 2.png]]](<Victor Feng>)<br>[[Victor Feng]]|<center>[![[Lily Portrait Gen 2.png]]](<Lily Feng>)<br>[[Lily Feng]]
+|<center>[![[Joaquin Portrait Gen 2.png]]](<Joaquin Le Chien>)<br>[[Joaquin Le Chien]]|<center>[![[Hajar Portrait Gen 2.png]]](<Hajar Cresques>)<br>[[Hajar Cresques]]|<center>[![[Daniela Portrait Gen 2.png]]](<Daniela Mai>)<br>[[Daniela Mai]]|<center>[![[Ed Portrait Gen 2.png]]](<Ed Mai>)<br>[[Ed Mai]]|
 
 ## Appearances
 ##### [[Mai Legacy]]

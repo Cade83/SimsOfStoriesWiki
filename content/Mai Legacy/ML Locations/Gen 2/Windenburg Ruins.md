@@ -2,12 +2,12 @@
 > # Windenburg Ruins
 > ![[1.8.4 v2.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Windenburg]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Generation | [[Second Generation]]|
