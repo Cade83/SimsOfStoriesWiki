@@ -2,12 +2,12 @@
 > # Gruber Apartment
 > ![[F.1.2.1 edited.png]] 
 > ###### Location Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Town | [[Britechester]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Lies and Deceit]] | 
 > | Generation | [[Second Generation]]|
@@ -46,9 +46,15 @@ Ervin rents out the apartment to the Gruber family at a reduced price due to his
 > ![[F.1.2.16.png]] 
 > The Gruber kids' room.
 
+> [!caption|left]
+> ![[F.1.5.2.png]] 
+> The building laundry room.
+
 <br style="clear:both; margin: 0; padding: 0" />
 
 ## Appearances
+##### [[Lies and Deceit]]
+###### Chapter 1: No Love Lost
 
 #### Categories
 #Lies_and_Deceit_Locations #Residence #Gruber_Family #Generation_2_Locations
