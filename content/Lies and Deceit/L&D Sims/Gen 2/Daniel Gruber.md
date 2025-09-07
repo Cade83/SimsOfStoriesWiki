@@ -32,6 +32,7 @@
 **Daniel Gruber** is one of the protagonists of the first chapter of [[Lies and Deceit]]. He's the twin brother of [[Priscilla Gruber|Priscilla]].
 
 ## Profile
+The oldest of the Gruber feelings by just a single minute, Daniel grew up feeling as if he had to look out for his younger siblings. Once [[Judith-Noelle Gruber|Judith-Noelle]] lost the election and [[Priscilla Gruber|Priscilla]] started getting meaner, Daniel began to step in, often correcting or providing context to her harsh statements, he began to feel responsible for his siblings. He became the go-to for any needed advice, and mediated many an argument.
 
 ## Personality
 As one half of the oldest of the Gruber siblings, Daniel took on a somewhat parental role for his siblings. He's the go to for any advice, and is good at mediating arguments and determining solutions.

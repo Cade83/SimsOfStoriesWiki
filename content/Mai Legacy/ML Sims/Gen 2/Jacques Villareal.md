@@ -12,7 +12,7 @@
 > | Gender | Male | 
 > | Life State | Human |
 > | Generation | [[Second Generation]] |
-> | Relatives |[[Danna Villareal]] (Wife)<br>[[Hugo Villareal]] (Oldest Son)<br>[[Luna Villareal]] (Daughter)<br>[[Max Villareal]] (Youngest Son)<br>[[Akira Kibo]] (Husband)
+> | Relatives |[[Danna Villareal]] (Wife)<br>[[Hugo Villareal]] (Oldest Son)<br>[[Luna Villareal]] (Daughter)<br>[[Max Villareal]] (Youngest Son)<br>[[Akira Kibo]] (Ex-Husband)
 > 
 > ##### Personal Information
 > |  |  | 
@@ -86,7 +86,7 @@ After Danna's disappearance, Jacques became increasingly erratic. He would do th
 | | | | |
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
 |<center>[![[Hugo Portrait Gen 3.png]]](<Hugo Villareal>)<br>[[Hugo Villareal]]| <center>[![[Luna Portrait Gen 3.png]]](<Luna Villareal>)<br>[[Luna Villareal]]| <center>[![[Max Portrait Gen 3.png]]](<Max Villareal>)<br>[[Max Villareal]]| <center>[![[Danna Portrait Gen 2.png]]](<Danna Villareal>)<br>[[Danna Villareal]]|
-|<center>[![[Akira Portrait Gen 2.png]]](<Akira Kibo>)<br>[[Akira Kibo]]|<center>[![[Antonio Portrait Gen 3.png]]](<Antonio Sanchez>)<br>[[Antonio Sanchez]]|<center>[![[Jacqueline Portrait Gen 3.png]]](<Jacqueline Sanchez>)<br>[[Jacqueline Sanchez]]|<center>[![[Susan Portrait Gen 2.png]]](<Susan Harper>)<br>[[Susan Harper]]|
+|<center>[![[Akira Portrait Gen 2.png]]](<Akira Kibo.md>)<br>[[Akira Kibo]]|<center>[![[Antonio Portrait Gen 3.png]]](<Antonio Sanchez>)<br>[[Antonio Sanchez]]|<center>[![[Jacqueline Portrait Gen 3.png]]](<Jacqueline Sanchez>)<br>[[Jacqueline Sanchez]]|<center>[![[Susan Portrait Gen 2.png]]](<Susan Harper>)<br>[[Susan Harper]]|
 | <center>[![[Ulrike Portrait Gen 2.png]]](<Ulrike Faust>)<br>[[Ulrike Faust]]| <center>[![[Eliza Portrait Gen 2.png]]](<Eliza Pancakes>)<br>[[Eliza Pancakes]]| <center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]| <center>[![[Salim Portrait Gen 2.png]]](<Salim Benali>)<br>[[Salim Benali]]|
 
 ## Appearances

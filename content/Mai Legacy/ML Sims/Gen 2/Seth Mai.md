@@ -36,6 +36,13 @@
 
 <br style="clear:both; margin: 0; padding: 0" />
 
+## Relationships
+
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Jocelyn Portrait Gen 2.png]]](<Jocelyn Dishman>)<br>[[Jocelyn Dishman]]|<center>[![[Leah Portrait Gen 2.png]]](<Leah Mai>)<br>[[Leah Mai]]| <center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]|<center>[![[Susan Portrait Gen 2.png]]](<Susan Harper>)<br>[[Susan Harper]]|
+| <center>[![[Maverick Portrait Gen 2.png]]](<Maverick Holm>)<br>[[Maverick Holm]]|<center>[![[Akira Portrait Gen 2.png]]](<Akira Kibo.md>)<br>[[Akira Kibo]]| <center>[![[Salim Portrait Gen 2.png]]](<Salim Benali>)<br>[[Salim Benali]]|<center>[![[Aarohi Portrait Gen 2.png]]](<Aarohi Barclay.md>)<br>[[Aarohi Barclay]] |
+
 ## Appearances
 ##### [[Mai Legacy]]
 ###### Generation 1: James

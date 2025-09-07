@@ -30,7 +30,7 @@
 > | First Appearance | Lies and Deceit *1.3 - Seminar*
 > | Final Appearance | Mai Legacy *1.21 - Growing Flames*
 
-> [!quote|author] Rosaline introducting herself.
+> [!quote|author] Rosaline introducing herself.
 > “Hello, hello! I’m Sara Dishman."
 
 **Sara Dishman** is a character introduced the first chapter of [[Mai Legacy]]. She's the mother of [[Jocelyn Dishman|Jocelyn]].

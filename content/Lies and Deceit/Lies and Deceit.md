@@ -6,6 +6,7 @@ Lies and Deceit is the sixth occurring Sims Story, featuring the [[Judith-Noelle
 * [1.2 - Drunken Murmurs](https://thesimsofstories.weebly.com/12---drunken-murmurs.html)
 * [1.3 - Seminar](https://thesimsofstories.weebly.com/13---seminar.html)
 * [1.4 - An Evening of Lies](https://thesimsofstories.weebly.com/14---an-evening-of-lies.html)
+* [1.5 - Thin Walls, Thin Wallets](https://thesimsofstories.weebly.com/15---thin-walls-thin-wallets.html)
 
 ##### Characters
 | | | | | 

@@ -64,7 +64,7 @@ Luckily, Kiara does have some degree of awareness of her privilege. She doesn't 
 | | | | | 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
 |<center>[![[Antonio Portrait Gen 3.png]]](<Antonio Sanchez>)<br>[[Antonio Sanchez]]| <center>[![[Jacqueline Portrait Gen 3.png]]](<Jacqueline Sanchez>)<br>[[Jacqueline Sanchez]]|<center>[![[Lyric Portrait Gen 3.png]]](<Lyric Jarrel>)<br>[[Lyric Jarrel]]| <center>[![[Luna Portrait Gen 3.png]]](<Luna Villareal>)<br>[[Luna Villareal]]|
-| <center>[![[Akira Portrait Gen 3.png]]](<Akira Kibo>)<br>[[Akira Kibo]]| <center>[![[Libby Portrait Gen 3.png]]](<Libby Honeycutt>)<br>[[Libby Honeycutt]]| <center>[![[Houda Portrait Gen 3.png]]](<Houda Choukri>)<br>[[Houda Choukri]]| <center>[![[Fatima Portrait Gen 3.png]]](<Fatima Mansouri>)<br>[[Fatima Mansouri]]| 
+| <center>[![[Libby Portrait Gen 3.png]]](<Libby Honeycutt>)<br>[[Libby Honeycutt]]| <center>[![[Houda Portrait Gen 3.png]]](<Houda Choukri>)<br>[[Houda Choukri]]| <center>[![[Fatima Portrait Gen 3.png]]](<Fatima Mansouri>)<br>[[Fatima Mansouri]]| <center>[![[Akira Portrait Gen 3.png]]](<Akira Kibo.md>)<br>[[Akira Kibo]]| 
 
 ## Appearances
 ##### [[Reborn from the Ash]]
