@@ -2,19 +2,19 @@
 > # Mitch Laurent
 > ![[Mitch Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Mitch Laurent | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
 > | Generation | [[First Generation]] |
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace | [[Windenburg]] | 
 > | Lived In | [[Willow Creek]] | 
@@ -22,7 +22,7 @@
 > | Career | [[President]] | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Just Starting Out]] | 
 > | Other Appearances | [[Courage & Resolve]]<br>[[Dreams of Fame]] | 
@@ -69,12 +69,16 @@ After his conversation with Cassandra, Mitch went straight to work, determined t
 
 What Mitch didn't know, however, was that Felix was completely incapable at giving public speeches, and Felix was knocked out in the semifinals of the Presidential Debates. He kicked himself for not doing research beyond Felix's achievements and politics.
 
-<br style="clear:both; margin: 0; padding: 0" />
-
 ## Personality
 Mitch is a man defined by his own self-interest. Everything he does is for the benefit of himself, from testing [[Cassandra Goth|Cassandra]], to his business dealings, even going all the way back to his initial campaign for the [[President|presidency]]. Mitch has a never ending desire for monetary gain and entertainment, and too much stagnation results in him becoming bored. Being bored is something Mitch dislikes more than anything else, and he will plan any number of destructive or otherwise illegal things to remedy it.
 
 Socially, Mitch creates an air of being disinterested and casual. He'll give others nicknames they hate, talk informally, and generally act completely immature for someone in his position. In an argument, he dances around his opponent through a collection of lies and brutal honesty that undermine his opponents points, resulting in them feeling inferior and if they have lost. All of this masks a Mitch that can get very serious, and has endless machinations going on in his mind just beneath the surface. 
+
+## Relationships
+| | | | | 
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| <center>[![[Cassandra Portrait Gen 1.png]]](<Cassandra Goth>)<br>[[Cassandra Goth]]| <center>[![[Bella Portrait Gen 1.png]]](<Bella Goth>)<br>[[Bella Goth]]| <center>[![[Mortimer Portrait Gen 1.png]]](<Mortimer Goth>)<br>[[Mortimer Goth]]|<center>[![[Felix Portrait Gen 1.png]]](<Felix Beauchamp>)<br>[[Felix Beauchamp]]|
+|<center>[![[Beatrice Portrait Gen 1.png]]](<Beatrice Stark>)<br>[[Beatrice Stark]]|<center>[![[Maia Portrait Gen 3.png]]](<Maia Mallory>)<br>[[Maia Mallory]]|
 
 ## Appearances
 ##### [[Just Starting Out]]
@@ -95,7 +99,7 @@ Socially, Mitch creates an air of being disinterested and casual. He'll give oth
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | <center><font size=2>Amelia Brown<br><font size=3>*Absent*            | <center><font size=2>First Day of a New Life<br><font size=3>*Absent*   | <center><font size=2>Charmed by the Willow<br><font size=3>*Absent* | <center><font size=2>A Rival in the Workplace<br><font size=3>*Absent* | <center><font size=2>Getting Clever<br><font size=3>***Mentioned***             |
 | <center><font size=2>The Beauchamp's Apology<br><font size=3>*Absent* | <center><font size=2>Samson<br><font size=3>*Absent*                 | <center><font size=2>A Man Scorned<br><font size=3>*Absent*         | <center><font size=2>Strength of Character<br><font size=3>*Absent*    | <center><font size=2>A Long Owed Explanation<br><font size=3>*Absent* |
-| <center><font size=2>The Bitterness Within<br><font size=3>*Absent*   | <center><font size=2>News in the Dead of Night<br><font size=3>*Absent* | <center><font size=2>The Presley Family<br><font size=3>*Absent*    | <center><font size=2>Tarnished Memories<br><font size=3>**Appears**       | <center><font size=2>A Headlights in the Night<br><font size=3>**Appears**   |
+| <center><font size=2>The Bitterness Within<br><font size=3>*Absent*   | <center><font size=2>News in the Dead of Night<br><font size=3>*Absent* | <center><font size=2>The Presley Family<br><font size=3>*Absent*    | <center><font size=2>Tarnished Memories<br><font size=3>**Appears**       | <center><font size=2>Headlights in the Night<br><font size=3>**Appears**   |
 
 #### [[Dreams of Fame]]
 ###### Chapter 1: A Painter and an Author

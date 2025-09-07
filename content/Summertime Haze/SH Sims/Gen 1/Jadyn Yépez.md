@@ -2,12 +2,12 @@
 > # Jadyn Yépez
 > ![[Jadyn Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Jadyn Yépez | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
@@ -15,14 +15,14 @@
 > | Relatives | [[José Yépez]] (Older Brother)<br>[[Henry Doyle]] (Adoptive Son)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Lived In |[[Newcrest]]| 
 > | Home |[[Jadyn's House]]| 
 > | Career | Artist | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Summertime Haze]] | 
 > | Other Appearances | [[Dreams of Fame]] | 
@@ -66,17 +66,22 @@ Similarly to her brother, [[José Yépez|José]], Jadyn values peace and honesty
 
 What defines Jadyn's personal relationships is her love for her son, [[Henry Doyle|Henry]]. As she raised him, he became her most trusted confidant, and the person she cared most about in the world. Henry leaving without speaking to her first wounded her deeply, but as she learned more about him, she came to understand why. When he returned home, Jadyn was able to go right back to where they'd left off, as nothing will ever shake the love she has for her son.
 
+## Relationships
+| | |
+| ------------------------------------------------------------- | -------------------------------------------- |
+| <center>[![[Henry Portrait Gen 1.png]]](<Henry Doyle>)<br>[[Henry Doyle]]|<center>[![[José Portrait Gen 1.png]]](<José Yépez>)<br>[[José Yépez]]|
+
 ## Appearances
 ##### [[Summertime Haze]]
 ###### Chapter 1: An Illusion of Safety
 
-|                                                                       |     |     |     |     |
-| --------------------------------------------------------------------- | --- | --- | --- | --- |
-| <center><font size=2>Escaping the Past<br><font size=3>***Mentioned***  | <center><font size=2>The Man Next-Door<br><font size=3>*Absent* | <center><font size=2>The Counselor<br><font size=3>*Absent* | <center><font size=2>Reardon<br><font size=3>*Absent* | <center><font size=2>Summertime Hangout<br><font size=3>***Mentioned*** |
-| <center><font size=2>The Counselor's Plan<br><font size=3>*Absent* | <center><font size=2>A Roach<br><font size=3>*Absent* | <center><font size=2>A Budding Friendship<br><font size=3>*Absent* | <center><font size=2>The Baxter Family<br><font size=3>*Absent* | <center><font size=2>People Against Ellen<br><font size=3>*Absent* |
-| <center><font size=2>Hayley<br><font size=3>*Absent*  | <center><font size=2>The Squad<br><font size=3>*Absent* | <center><font size=2>Forbidden Kiss<br><font size=3>*Absent* | <center><font size=2>A Sign From Above<br><font size=3>*Absent* | <center><font size=2>A Change for the Worst<br><font size=3>*Absent* |
-| <center><font size=2>The Bump in the Night<br><font size=3>*Absent*   | <center><font size=2>What Would SHE Want?<br><font size=3>*Absent* | <center><font size=2>The Nurse<br><font size=3>**Appears** | <center><font size=2>A Time for Mourning<br><font size=3>*Absent* | <center><font size=2>About Time<br><font size=3>*Absent* |
-| <center><font size=2>The Witch of the Willow<br><font size=3>**Appears**  |
+|                                                                           |                                                                        |                                                                     |                                                                   |                                                                           |
+| ------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| <center><font size=2>Escaping the Past<br><font size=3>***Mentioned***    | <center><font size=2>The Man Next-Door<br><font size=3>***Mentioned*** | <center><font size=2>The Counselor<br><font size=3>*Absent*         | <center><font size=2>Reardon<br><font size=3>*Absent*             | <center><font size=2>Summertime Hangout<br><font size=3>***Mentioned***   |
+| <center><font size=2>The Counselor's Plan<br><font size=3>***Mentioned*** | <center><font size=2>A Roach<br><font size=3>***Mentioned***           | <center><font size=2>A Budding Friendship<br><font size=3>*Absent*  | <center><font size=2>The Baxter Family<br><font size=3>*Absent*   | <center><font size=2>People Against Ellen<br><font size=3>***Mentioned*** |
+| <center><font size=2>Hayley<br><font size=3>*Absent*                      | <center><font size=2>The Squad<br><font size=3>*Absent*                | <center><font size=2>Forbidden Kiss<br><font size=3>***Mentioned*** | <center><font size=2>A Sign From Above<br><font size=3>*Absent*   | <center><font size=2>A Change for the Worst<br><font size=3>*Absent*      |
+| <center><font size=2>The Bump in the Night<br><font size=3>*Absent*       | <center><font size=2>What Would SHE Want?<br><font size=3>*Absent*     | <center><font size=2>The Nurse<br><font size=3>**Appears**          | <center><font size=2>A Time for Mourning<br><font size=3>*Absent* | <center><font size=2>About Time<br><font size=3>*Absent*                  |
+| <center><font size=2>The Witch of the Willow<br><font size=3>**Appears**  | <center><font size=2>Reflecting<br><font size=3>*Absent*               |                                                                     |                                                                   |                                                                           |
 
 #### Cameo Appearances
 ###### [[Dreams of Fame]] Chapter 1: A Painter and an Author

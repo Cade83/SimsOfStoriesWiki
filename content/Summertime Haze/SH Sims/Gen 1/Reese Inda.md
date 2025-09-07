@@ -2,26 +2,27 @@
 > # Reese Inda
 > ![[Reese Gen 1.png]] 
 > ###### Names 
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Full Name | Reese Inda | 
 >
 > ##### Biographical Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
 > | Generation | [[First Generation]] |
+> | Relatives | [[Antony Jeffers]] (Husband)
 > 
 > ##### Personal Information
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Birthplace |[[Oasis Springs]]| 
 > | Lived In |[[Willow Creek]]| 
 > | Career | Teacher | 
 > 
 > ##### Story Info
-> | Type | Stat | 
+> |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Summertime Haze]] | 
 > | Appearance Count |  | 
@@ -36,6 +37,12 @@
 ## Personality
 
 <br style="clear:both; margin: 0; padding: 0" />
+
+## Relationships
+| | | | | 
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Antony Portrait Gen 2.png]]](<Antony Jeffers.md>)<br>[[Antony Jeffers]]| <center>[![[Hayley Portrait Gen 1.png]]](<Hayley Baxter.md>)<br>[[Hayley Baxter]]| <center>[![[Toby Portrait Gen 1.png]]](<Toby Baxter>)<br>[[Toby Baxter]]| <center>[![[Jennifer Portrait Gen 1.png]]](<Jennifer Baxter>)<br>[[Jennifer Baxter]]| 
+|<center>[![[Nathan Portrait Gen 1.png]]](<Nathan Baxter>)<br>[[Nathan Baxter]]|<center>[![[Paolo Portrait Gen 1.png]]](<Paolo Rocca.md>)<br>[[Paolo Rocca]]|
 
 ## Appearances
 ##### [[Summertime Haze]]
