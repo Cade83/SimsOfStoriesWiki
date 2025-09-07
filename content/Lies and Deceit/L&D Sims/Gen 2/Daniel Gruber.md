@@ -32,14 +32,22 @@
 **Daniel Gruber** is one of the protagonists of the first chapter of [[Lies and Deceit]]. He's the twin brother of [[Priscilla Gruber|Priscilla]].
 
 ## Profile
-The oldest of the Gruber feelings by just a single minute, Daniel grew up feeling as if he had to look out for his younger siblings. Once [[Judith-Noelle Gruber|Judith-Noelle]] lost the election and [[Priscilla Gruber|Priscilla]] started getting meaner, Daniel began to step in, often correcting or providing context to her harsh statements, he began to feel responsible for his siblings. He became the go-to for any needed advice, and mediated many an argument.
+> [!caption|right]
+> ![[F.1.4.28.png]] 
+> Daniel offers his advice to Spenser.
+
+The oldest of the Gruber feelings by just a single minute, Daniel grew up feeling as if he had to look out for his younger siblings. Once [[Judith-Noelle Gruber|Judith-Noelle]] lost the election and [[Priscilla Gruber|Priscilla]] started getting meaner, Daniel began to step in, often correcting or providing context to her harsh statements, he began to feel responsible for his siblings. He became the go-to for any needed advice, and mediated many an argument. Even if Priscilla was mean, she was Daniel's closest friend, and the two of them told everything to each other- Daniel came out to her when he was 10 and no one else.
+
+> [!caption|left]
+> ![[F.1.3.22.png]] 
+> Daniel and Priscilla look for wealthy men.
+
+Once Daniel and Priscilla were done with school, they chose to skip going onto university and get jobs instead to support both themselves and their family. Daniel found a job as a cashier at a local supermarket, and while he enjoyed having a bit of money, it wasn't much. After a discussion with Priscilla, the two of them chose to spend some of their free time on dating apps or roaming the grounds of the university, looking for rich men who could support them financially.
 
 ## Personality
 As one half of the oldest of the Gruber siblings, Daniel took on a somewhat parental role for his siblings. He's the go to for any advice, and is good at mediating arguments and determining solutions.
 
 Daniel is nearly inseparable from his twin sister, [[Priscilla Gruber|Priscilla]], and the pair of them do almost everything together. Any secrets the two of them have are shared between each other, and Daniel's rather dry and sarcastic sense of humor compliments Priscilla's vulgarity and boldness.
-
-<br style="clear:both; margin: 0; padding: 0" />
 
 ## Relationships
 | | | | | 

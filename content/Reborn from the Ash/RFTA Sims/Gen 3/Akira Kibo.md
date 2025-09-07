@@ -110,5 +110,9 @@ Akira is also a man who falls hard and fast when it comes to love. [[Susan Harpe
 ##### [[Reborn from the Ash]]
 ###### Chapter 1: Ties Stronger than Blood
 
+#### Cameo Appearances
+###### [[Mai Legacy]] Generation 2: Leah
+- 2.1 - A New Heir
+
 #### Categories
 #Mai_Legacy_Characters #Reborn_from_the_Ash_Characters #Main_Characters #Generation_2_Characters #Generation_3_Characters
