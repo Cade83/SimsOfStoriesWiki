@@ -29,15 +29,29 @@
 > | Appearance Count | 6 | 
 > | First Appearance | Dreams of Fame *1.24 - Admitting the Truth*
 
-**Jacob Scott** is a character in the second chapter of [[Dreams of Fame]]. He's the son of [[Travis Scott]] and [[Liberty Lee]], and the older brother of [[Clara Scott]].
+**Jacob Scott** is one of the protagonists of the second chapter of [[Dreams of Fame]]. He's the son of [[Travis Scott]] and [[Liberty Lee]], and the older brother of [[Clara Scott]].
 
 ## Profile
+> [!caption|right]
+> ![[S.1.24.2.png]] 
+> Liberty with little Jacob.
 
-<br style="clear:both; margin: 0; padding: 0" />
+In Jacob's earliest years, he was raised with love in the [[Presley House]], doted on by both [[Travis Scott]] and [[Liberty Lee]], as well as his grandmother, [[Giovanna Cardwell]]. When Jacob's sister [[Clara Scott|Clara]] was born just a year later, she demanded slightly more attention than him, but Jacob still received plenty of affection. 
+
+> [!caption|left]
+> ![[S.1.31.1.png]] 
+> Giovanna tells Jacob and Clara a story.
+
+Things began to shift for Jacob when Liberty had to leave for [[Sixam]]. He was left with just Travis and Giovanna, and the other people living in the house at that point had little interest in parenting. They ended up celebrating a birthday without Liberty, which became a core memory for both Jacob and Clara. Jacob thought that it was cool that she was exploring space, but he missed her dearly. He came to hate his aunt, [[Summer Holiday]], who forced her own hobbies upon both of them in Liberty's absence. On the other hand, Giovanna's stories kept him grounded, whether they were fictional or not. Summer's husband [[José Yépez]] and their neighbor [[Jo Kauffman]] also began to step in for Liberty, and Jacob felt surrounded by family.
 
 ## Personality
+Jacob is much quieter than his sister, [[Clara Scott|Clara]], and incredibly introspective as a result.
 
-<br style="clear:both; margin: 0; padding: 0" />
+## Relationships
+| | | | |
+| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+|<center>[![[Clara Portrait Gen 2.png]]](<Clara Scott>)<br>[[Clara Scott]]|<center>[![[Nash Portrait Gen 2.png]]](<Nash Holiday>)<br>[[Nash Holiday]]|<center>[![[Travis Portrait Gen 2.png]]](<Travis Scott>)<br>[[Travis Scott]]|<center>[![[José Portrait Gen 2.png]]](<José Yépez>)<br>[[José Yépez]]
+|<center>[![[Giovanna Portrait Gen 2.png]]](<Giovanna Cardwell>)<br>[[Giovanna Cardwell]]|<center>[![[Liberty Portrait Gen 2.png]]](<Liberty Lee>)<br>[[Liberty Lee]]|<center>[![[Summer Portrait Gen 2.png]]](<Summer Holiday>)<br>[[Summer Holiday]]|
 
 ## Appearances
 ##### [[Dreams of Fame]]
@@ -51,6 +65,11 @@
 | <center><font size=2>Bankrupt<br><font size=3>*Absent* | <center><font size=2>Cleaning Up<br><font size=3>*Absent* | <center><font size=2>A Wedding of Friends<br><font size=3>*Absent* | <center><font size=2>Admitting the Truth<br><font size=3>**Appears** | <center><font size=2>Escape!<br><font size=3>***Mentioned*** |
 | <center><font size=2>Sixam Life<br><font size=3>***Mentioned*** | <center><font size=2>The Search for Summer<br><font size=3>***Mentioned*** | <center><font size=2>Sylvan Glade<br><font size=3>***Mentioned*** | <center><font size=2>Proposal<br><font size=3>**Appears** | <center><font size=2>Back on Earth<br><font size=3>**Appears** |
 | <center><font size=2>Second Mother<br><font size=3>**Appears** | <center><font size=2>Sylvan Curse<br><font size=3>*Absent* | <center><font size=2>Final Sacrifice<br><font size=3>***Mentioned*** |  |  |
+
+###### Chapter 2: Super Villains and Pianists
+|                                                                       |     |     |     |     |
+| --------------------------------------------------------------------- | --- | --- | --- | --- |
+| <center><font size=2>Celebrity Funeral<br><font size=3>**Appears** |     |     |     |     |
 
 #### Cameo Appearances
 ###### [[Courage & Resolve]]: Chapter 1: Strength of Character

@@ -32,7 +32,7 @@
 Newton served as [[Bernard Escargot Shallot IV|Lord Bernard Escargot Shallot IV]] and [[Mimsy Alcon Shallot|Lady Mimsy Alcon Shallot]]'s personal gardener for several years. Bernard and Mimsy gave Newton room and board, while he was tasked with tending to the grounds of the [[Von Haunt Estate|Shallot Estate]]. He personally developed the hedge maze that the estate became so famous for.
 
 > [!caption|left]
-> ![[Short 1.4-1.png]] 
+> ![[Short 1.4.png]] 
 > Newton spends time with Mimsy.
 
 As the Shallot family's finances declined and Bernard grew increasingly unpleasant, Newton kept his ear to the ground in an attempt to help. He eventually heard of the Le Chien family, who had accumulated wealth and influence despite economic turmoil. He brought news of them to Mimsy, who invited them to dinner, eager to bend their ear.

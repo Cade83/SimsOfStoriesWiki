@@ -16,7 +16,6 @@
 - [[Willow Creek Police Station]]
 - [[Willow Creek Hospital]]
 - [[Willow Creek Courthouse]]
-- [[Wedding Park]]
 ### Businesses
 - [[Blue Velvet]]
 - [[Willow Creek Gym]]
@@ -43,6 +42,7 @@
 - [[Witch of the Willow’s Swamp]]
 ### Miscellaneous 
 - [[Lee Rocket Launch]]
+- [[Wedding Park]]
 - [[Giovanna's Husband's Grave]]
 - [[Sylvan Glade]]
 

@@ -31,6 +31,9 @@ Pepper’s Pub is a dimly bit bar in [[Britechester]]'s old town. It has a long 
 ## Appearances
 ##### [[Lies and Deceit]]
 ###### Chapter 1: No Love Lost
+| | | |      |  |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| <center><font size=2>Life Goes On<br><font size=3>*Absent*          | <center><font size=2>Drunken Murmurs<br><font size=3>*Absent* | <center><font size=2>Seminar<br><font size=3>*Absent* | <center><font size=2>An Evening of Lies<br><font size=3>**Appears** | <center><font size=2>Thin Walls, Thin Wallets<br><font size=3>*Absent*|
 
 #### Categories
 #Lies_and_Deceit_Locations #Nightlife #Restaurants #Generation_2_Locations

@@ -76,10 +76,12 @@ Regardless of her own personal struggles, Judith-Noelle maintains the facade of 
 |<center>[![[Tom Portrait Gen 2.png]]](<Tom Gruber>)<br>[[Tom Gruber]]| <center>[![[Spenser Portrait Gen 2.png]]](<Spenser Gruber>)<br>[[Spenser Gruber]]| <center>[![[Antwan Portrait Gen 2.png]]](<Antwan Gruber>)<br>[[Antwan Gruber]]| <center>[![[Daniel Portrait Gen 2.png]]](<Daniel Gruber>)<br>[[Daniel Gruber]]|
 | <center>[![[Priscilla Portrait Gen 2.png]]](<Priscilla Gruber>)<br>[[Priscilla Gruber]]| <center>[![[Gretchen Portrait Gen 2.png]]](<Gretchen Zhou>)<br>[[Gretchen Zhou]]| <center>[![[Cecil Portrait Gen 2.png]]](<Cecil Zhou>)<br>[[Cecil Zhou]]|
 
-
 ## Appearances
 ##### [[Lies and Deceit]]
 ###### Chapter 1: No Love Lost
+| | | |      |  |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| <center><font size=2>Life Goes On<br><font size=3>**Appears**       | <center><font size=2>Drunken Murmurs<br><font size=3>**Appears** | <center><font size=2>Seminar<br><font size=3>**Appears** | <center><font size=2>An Evening of Lies<br><font size=3>**Appears**| <center><font size=2>Thin Walls, Thin Wallets<br><font size=3>**Appears** |
 
 #### Cameo Appearances
 ###### [[Courage & Resolve]] Chapter 1: Strength of Character
