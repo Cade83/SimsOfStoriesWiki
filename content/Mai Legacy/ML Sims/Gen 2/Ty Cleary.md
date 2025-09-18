@@ -26,20 +26,36 @@
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Appearance Count | 4 | 
-> | First Appearance | Mai Legacy *1.27 - The Sister
+> | First Appearance | Mai Legacy *1.27 - The Sister*
 
 **Ty Cleary** is a character introduced in the first chapter of [[Mai Legacy]].  He's the husband of [[Jamie Mai]] and the father of [[Colette Cleary|Colette]].
 
 ## Profile
+Ty Cleary was born and raised in [[Oasis Springs]], working on his family [[Cleary Ranch|ranch]] from a young age. When he was a teenager, his parents established a working relationship with [[Daniela Mai|Daniela]] and [[Ed Mai]] where they exclusively supplied the Mai Resort and Spa with fresh produce, both wanting to support local businesses. Ty was tasked with transporting the produce, and during this time, he met [[Jamie Mai|Jamie]], Daniela and Ed's daughter. The two of them clicked and began to spend a lot of time together, a romance blossoming between them.
+
+A few years after Ty and Jamie graduated from high school, the two of them were wed. Jamie chose to move to the ranch with Ty, and was joined by her parents, whose resort had fallen on hard times. [[Colette Cleary|Colette]] was born a year after Jamie moved in with Ty. Ty and Jamie put Colette to work at an early age, having her help out around the ranch, assisting with the smaller tasks, just as Ty's parents had him do in his youth. 
+
+> [!caption|left]
+> ![[1.27.10.png]] 
+> Ty steps between an argument between Jamie and James.
+
+Jamie's long-long older brother, [[James Mai|James]], came back to town to see family and met Ty, Jamie, and Colette for the first time. Jamie had a long running dislike of James that stemmed from her childhood, and Ty did his best to step in and mediate when they truly came at each other. He gave James a tour of the ranch, and James and Jamie were able to become cordial enough to exchange contact information before James packed up and returned home to [[Windenburg]]. 
+
+> [!caption|right]
+> ![[M.1.29.18.png]] 
+> Ty tells off Colette.
+
+Unknown to Ty, Colette idolized James and was looking to emulate him by running away from home. After he had to reprimand Colette for slamming the backdoor on Jamie's behalf, Colette snapped and put her plan into action. She packed her things and headed off to Windenburg to join her uncle. The morning Ty and Jamie discovered that she was missing, Jamie immediately blamed James. Both swearing to bring her back home, Jamie began phoning all of James's family.
 
 ## Personality
+Ty is a very level-headed man. He loves [[Jamie Mai|Jamie]] and [[Colette Cleary|Colette]], his [[Cleary Ranch|ranch]], and the life that has been afforded to him. The day-to-day is pleasant to him, and he addresses any disruption in a quiet voice with logic and reason to return things to his ideal blissful normalcy. [[James Mai|James]] visiting was a huge disruption for his family, and Ty was pleased that he was able to mediate things between them.
 
-<br style="clear:both; margin: 0; padding: 0" />
+Ty has a good relationship with Colette, unlike Jamie. While Jamie has a tendency to be harsh with her, Ty always makes the time to sit down with Colette, reason with her, and attempt to educate her whenever she makes a mistake.
 
 ## Relationships
 | | | | |
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-|<center>[![[Jamie Portrait Gen 2.png]]](<Jamie Mai>)<br>[[Jamie Mai]]|<center>[![[Colette Portrait Gen 2.png]]](<Colette Cleary>)<br>[[Colette Cleary]]|<center>[![[Daniela Portrait Gen 2.png]]](<Daniela Mai>)<br>[[Daniela Mai]]|<center>[![[Ed Portrait Gen 2.png]]](<Ed Mai>)<br>[[Ed Mai]]|
+|<center>[![[Jamie Portrait Gen 2.png]]](<Jamie Mai>)<br>[[Jamie Mai]]|<center>[![[Colette Portrait Gen 2.png]]](<Colette Cleary.md>)<br>[[Colette Cleary]]|<center>[![[Daniela Portrait Gen 2.png]]](<Daniela Mai>)<br>[[Daniela Mai]]|<center>[![[Ed Portrait Gen 2.png]]](<Ed Mai>)<br>[[Ed Mai]]|
 |<center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]|
 
 ## Appearances

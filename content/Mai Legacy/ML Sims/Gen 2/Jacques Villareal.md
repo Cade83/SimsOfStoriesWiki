@@ -102,9 +102,12 @@ After Danna's disappearance, Jacques became increasingly erratic. He would do th
 | <center><font size=2>Oasis Springs<br><font size=3>*Absent*  | <center><font size=2>The Sister<br><font size=3>*Absent*| <center><font size=2>Memorial<br><font size=3>*Absent* | <center><font size=2>The Power of Words<br><font size=3>*Absent*| <center><font size=2>A Life Changing Decision<br><font size=3>*Absent* |
 | <center><font size=2>The End of a Generation<br><font size=3>***Mentioned***  |
 
-#### Cameo Appearances
-###### [[Reborn from the Ash]] Chapter 1: Ties Stronger than Blood
-- 1.3 - The Villareals
+##### [[Reborn from the Ash]]
+###### Chapter 1: Ties Stronger than Blood
+| | | | | |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| <center><font size=2>The Sanchez Family<br><font size=3>*Absent*           | <center><font size=2>An Heiress' Duty<br><font size=3>*Absent*| <center><font size=2>The Villareals<br><font size=3>**Appears** | <center><font size=2>Choosing a Different Path<br><font size=3>*Absent*| <center><font size=2>Ordinary World, Ordinary People<br><font size=3>*Absent* |
+| <center><font size=2>Jacqueline's Visit<br><font size=3>***Mentioned*** | <center><font size=2>The Renegades<br><font size=3>***Mentioned*** | <center><font size=2>Akira<br><font size=3>*Absent*|
 
 #### Categories
 #Mai_Legacy_Characters #Villareal_Family #Antagonistic_Characters #Generation_2_Characters

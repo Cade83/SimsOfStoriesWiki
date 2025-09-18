@@ -88,5 +88,10 @@ Despite her long years as an ambassador to humanity, Beatrice never get understo
 | <center><font size=2>Bankrupt<br><font size=3>*Absent*                | <center><font size=2>Cleaning Up<br><font size=3>**Appears**                | <center><font size=2>A Wedding of Friends<br><font size=3>**Appears** | <center><font size=2>Admitting the Truth<br><font size=3>*Absent*          | <center><font size=2>Escape!<br><font size=3>**Appears**               |
 | <center><font size=2>Sixam Life<br><font size=3>**Appears**           | <center><font size=2>The Search for Summer<br><font size=3>**Appears**      | <center><font size=2>Sylvan Glade<br><font size=3>*Absent*            | <center><font size=2>Proposal<br><font size=3>*Absent*                     | <center><font size=2>Back on Earth<br><font size=3>**Appears**         |
 | <center><font size=2>Second Mother<br><font size=3>**Appears**        | <center><font size=2>Sylvan Curse<br><font size=3>***Mentioned***           | <center><font size=2>Final Sacrifice<br><font size=3>**Appears**      |                                                                            |                                                                        |
+
+###### Chapter 2: Super Villains and Pianists
+|                                                                       |     |     |     |     |
+| --------------------------------------------------------------------- | --- | --- | --- | --- |
+| <center><font size=2>Celebrity Funeral<br><font size=3>***Mentioned***  |     |     |     |     |
 #### Categories
 #Dreams_of_Fame_Characters #Generation_1_Characters #Generation_2_Characters #Aliens

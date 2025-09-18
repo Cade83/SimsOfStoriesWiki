@@ -50,7 +50,7 @@ While Ed focused on his career as a painter, Daniela opened the Mai Resort and S
 
 With their egos inflated, Ed and Daniela began to believe that they could achieve anything, and they began to put that pressure on James. James, who was interested in painting due to his father, learned a lot from Ed. However, Ed telling James that his paintings would one day hang in [[Casbah Gallery]] scared him, and as the pressure from both Ed and Daniela continued to intensity, James eventually chose to run away from home.
 
-Ed and Daniela tried in vain to locate James, expending much of their fortune and influence in the process, but after a few years passed with no success, they chose to have [[Jamie Mai|Jamie]]. While raising Jamie, they did eventually locate James due to articles about his Legacy Family, but raising a new child in combination with managing the resort kept the pair of them in Oasis Springs. Once Jamie married [[Ty Cleary]], the two moved with her to [[Cleary Ranch]] due to their advanced ages and their resort having fallen on tough times. Ed passed away from cancer before ever reuniting with James.
+Ed and Daniela tried in vain to locate James, expending much of their fortune and influence in the process, but after a few years passed with no success, they chose to have [[Jamie Mai|Jamie]]. While raising Jamie, they did eventually locate James due to articles about his Legacy Family, but raising a new child in combination with managing the resort kept the pair of them in Oasis Springs. Once Jamie married [[Ty Cleary]], the two moved with her to [[Cleary Ranch]] due to their advanced ages, their resort having fallen on tough times, and Ed's paintings losing desirability due to the work of James and [[Giovanna Cardwell]]. Ed passed away from cancer before ever reuniting with James.
 
 #### Legacy
 > [!caption|left]
@@ -66,7 +66,7 @@ A rather soft spoken man, Ed was always one to let his wife [[Daniela Mai|Daniel
 | | | | |
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
 | <center>[![[Daniela Portrait Gen 2.png]]](<Daniela Mai>)<br>[[Daniela Mai]]|<center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]| <center>[![[Jamie Portrait Gen 2.png]]](<Jamie Mai>)<br>[[Jamie Mai]]| <center>[![[Ty Portrait Gen 2.png]]](<Ty Cleary>)<br>[[Ty Cleary]]|
-| <center>[![[Colette Portrait Gen 2.png]]](<Colette Cleary>)<br>[[Colette Cleary]]|<center>[![[Nancy Portrait Gen 1.png]]](<Nancy Landgraab>)<br>[[Nancy Landgraab]]|
+| <center>[![[Colette Portrait Gen 2.png]]](<Colette Cleary.md>)<br>[[Colette Cleary]]|<center>[![[Nancy Portrait Gen 1.png]]](<Nancy Landgraab>)<br>[[Nancy Landgraab]]|
 
 ## Appearances
 ##### [[Mai Legacy]]

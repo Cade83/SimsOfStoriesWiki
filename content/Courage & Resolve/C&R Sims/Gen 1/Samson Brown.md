@@ -96,6 +96,6 @@ As they fell on tough financial times, Samson developed a dependency on alcohol,
 ###### Chapter 2: Strength of Will
 |                                                                     |     |     |     |     |
 | ------------------------------------------------------------------- | --- | --- | --- | --- |
-| <center><font size=2>A Grave Conversation<br><font size=3>**Cameo** |     |     |     |     |
+| <center><font size=2>A Grave Conversation<br><font size=3>Cameo |     |     |     |     |
 #### Categories
 #Courage_and_Resolve_Characters #Brown_Family #Antagonistic_Characters #Generation_1_Characters

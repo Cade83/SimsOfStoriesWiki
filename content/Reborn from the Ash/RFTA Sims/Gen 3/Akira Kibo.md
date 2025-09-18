@@ -109,6 +109,10 @@ Akira is also a man who falls hard and fast when it comes to love. [[Susan Harpe
 
 ##### [[Reborn from the Ash]]
 ###### Chapter 1: Ties Stronger than Blood
+| | | | | |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| <center><font size=2>The Sanchez Family<br><font size=3>*Absent*           | <center><font size=2>An Heiress' Duty<br><font size=3>*Absent*| <center><font size=2>The Villareals<br><font size=3>*Absent* | <center><font size=2>Choosing a Different Path<br><font size=3>*Absent*| <center><font size=2>Ordinary World, Ordinary People<br><font size=3>*Absent* |
+| <center><font size=2>Jacqueline's Visit<br><font size=3>*Absent* | <center><font size=2>The Renegades<br><font size=3>*Absent* | <center><font size=2>Akira<br><font size=3>**Appears** |
 
 #### Cameo Appearances
 ###### [[Mai Legacy]] Generation 2: Leah
