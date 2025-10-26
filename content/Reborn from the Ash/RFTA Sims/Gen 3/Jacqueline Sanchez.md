@@ -32,6 +32,9 @@
 **Jacqueline Sanchez** is a character from the first chapter of [[Reborn from the Ash]].  She's married to [[Antonio Sanchez|Antonio]] and is the mother of [[Kiara Sanchez|Kiara]].
 
 ## Profile
+Jacqueline was born and raised in [[Selvadorada]]. From a young age, she felt as if she had little opportunity afforded to her in life, compounded by the fact that she disliked the idea of wearing herself down working, like her mother had. As a young woman, she began hanging around the town plaza in a red dress, her best item of clothing, to attract the attention of a wealthy suitor. Jacqueline was in luck, as one fateful day, she caught the eye of [[Antonio Sanchez|Antonio]], a Selvadoradan who had become fabulously wealthy in [[Windenburg]]. The two of them fell for each other fast, then he whisked her back to Windenburg with him. Jacqueline never looked back.
+
+Once in Windenburg, Antonio commissioned the [[Sanchez Mansion]], which was designed according to his and Jacqueline's every specification. Jacqueline gave birth to [[Kiara Sanchez|Kiara]] not long after they were able to move in.
 
 ## Personality
 

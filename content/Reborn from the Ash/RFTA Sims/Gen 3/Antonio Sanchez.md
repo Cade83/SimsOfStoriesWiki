@@ -20,7 +20,7 @@
 > | Birthplace |[[Selvadorada]]| 
 > | Lived In |[[Windenburg]]| 
 > | Home |[[Sanchez Mansion]]| 
-> | Career | Head of the Sanchez Family | 
+> | Career | Dock Worker<br>Head of the Sanchez Family | 
 > 
 > ##### Story Info
 > |  |  | 
@@ -32,6 +32,9 @@
 **Antonio Sanchez** is a character from he first chapter of [[Reborn from the Ash]].  He's the husband of [[Jacqueline Sanchez|Jacqueline]], the father of [[Kiara Sanchez|Kiara]], and singlehandedly brought about the family's fortune.
 
 ## Profile
+Antonio was born into poverty in [[Selvadorada]]. Unhappy with his situation, he started working as early as he could until he finally saved up enough to secure passage on a ship to [[Windenburg]]. Once there, Antonio took on a job loading shipments on and off ships in the harbor where he quickly recognized the company's inefficiency. He reorganized the division of labor at the harbor and drew up a business plan that made the shipping company both more efficient and profitable. Antonio's boss recommended his advice to a friend, and at this point, Antonio began to charge for his work, recognizing that he had a knack for business. He eventually realized that he could slyly organize things in a way where he could continue to profit, and from there, as his reputation grew, creating an increasing number of clients, Antonio's wealth skyrocketed.
+
+Shortly after becoming wealthy, Antonio returned to Selvadorada to make a significant investment in the community with his newfound wealth. While there, he ran into [[Jacqueline Sanchez|Jacqueline]] in the town plaza, and the two of them fell for each other hard and fast. She gleefully joined him on his return trip to Windenburg. Once back in Windenburg, Antonio commissioned the [[Sanchez Mansion]], and once it was complete, he and Jacqueline gave birth to [[Kiara Sanchez|Kiara]], who Antonio was determined to raise to inherit his business.
 
 ## Personality
 

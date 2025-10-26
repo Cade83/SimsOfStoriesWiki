@@ -52,7 +52,7 @@ Once James left, Colette angrily returned to her typical work on the ranch. Noth
 When Colette finally got to the [[Mai House]] in Windenburg, James had recently passed away. Too concerned with everything else going on to deal with Colette immediately, [[Susan Harper]], James's wife, took her in without argument. [[Jocelyn Dishman]], the wife of James's son [[Seth Mai|Seth]], was tasked with taking Colette shopping for clothes, and while out shopping with her, Colette felt loved for the first time.
 
 ## Personality
-While living at the [[Cleary Ranch]], Colette felt a great deal of frustration with her situation. Her relationship with [[Jamie Mai|Jamie]] was tenuous at best, [[Ty Cleary|Ty]] required too much of her, and she hated the weather and her job. [[James Mai|James]] became an idealized figure for her, an example of opportunity if she took the risk and ran. 
+While living at the [[Cleary Ranch]], Colette felt a great deal of frustration with her situation. Her relationship with [[Jamie Mai|Jamie]] was tenuous at best, [[Ty Cleary|Ty]] required too much of her, and she hated the weather and her job. She often felt as if she wasn't loved, and was appreciated for her work instead of her own self. [[James Mai|James]] became an idealized figure for Colette, an example of opportunity if she took the risk and ran, like he had. 
 
 ## Relationships
 | | | | |
