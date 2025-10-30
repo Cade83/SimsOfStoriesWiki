@@ -14,6 +14,7 @@
 - [[Laurent Windenburg Mansion]]
 - [[Villareal Estate]]
 - [[Le Chien House]]
+- [[Factory One]]
 
 ## Generation 2 Locations
 ### Public Locations
@@ -34,6 +35,7 @@
 ### Residences
 - [[Villareal Estate]]
 - [[Le Chien House]]
+- [[Factory One]]
 - [[Dishman House]]
 - [[Mai House]]
 ### Miscellaneous 

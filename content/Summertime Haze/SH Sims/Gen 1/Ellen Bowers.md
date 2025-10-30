@@ -18,7 +18,7 @@
 > | ---- | ---- | 
 > | Lived In |[[Newcrest]]<br>[[Willow Creek]]| 
 > | Home |[[Ellen's House]]| 
-> | Career | School Counselor | 
+> | Career | School Counselor<br>Librarian | 
 > 
 > ##### Story Info
 > |  |  | 
