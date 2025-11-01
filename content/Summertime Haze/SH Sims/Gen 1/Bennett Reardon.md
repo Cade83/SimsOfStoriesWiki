@@ -76,7 +76,7 @@ Bennett also sticks up for his friends, having stepped in as [[Henry Doyle|Henry
 ## Relationships
 | | | | | 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-| <center>[![[Jordan Portrait Gen 1.png]]](<Jordan Crespo>)<br>[[Jordan Crespo]]| <center>[![[Henry Portrait Gen 1.png]]](<Henry Doyle>)<br>[[Henry Doyle]]| <center>[![[Toby Portrait Gen 1.png]]](<Toby Baxter>)<br>[[Toby Baxter]]| <center>[![[Regan Portrait Gen 1.png]]](<Regan Reardon>)<br>[[Regan Reardon]]|
+| <center>[![[Jordan Portrait Gen 1.png]]](<Jordan Crespo>)<br>[[Jordan Crespo]]| <center>[![[Henry Portrait Gen 1.png]]](<Henry Doyle>)<br>[[Henry Doyle]]| <center>[![[Toby Portrait Gen 1.png]]](<Toby Baxter>)<br>[[Toby Baxter]]| <center>[![[Regan Portrait Gen 1.png]]](<Regan Reardon.md>)<br>[[Regan Reardon]]|
 | <center>[![[Alina Portrait Gen 1.png]]](<Alina Reardon>)<br>[[Alina Reardon]]|<center>[![[Layne Portrait Gen 1.png]]](<Layne Reardon>)<br>[[Layne Reardon]]| <center>[![[Hope Portrait Gen 1.png]]](<Hope Peck.md>)<br>[[Hope Peck]]|<center>[![[Paolo Portrait Gen 1.png]]](<Paolo Rocca.md>)<br>[[Paolo Rocca]]|
 
 ## Appearances
