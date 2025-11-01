@@ -11,7 +11,7 @@
 > | ---- | ---- | 
 > | Gender | Female | 
 > | Life State | Human |
-> | Generation | [[Second Generation]] |
+> | Generation | [[Third Generation]] |
 > | Relatives |[[James Mai]] (Father)<br>[[Susan Harper]] (Mother)<br>[[Seth Mai]] (Older Brother)<br>[[Maverick Holm]] (Husband)<br>[[Willow Holm]] (Daughter)
 > 
 > ##### Personal Information
@@ -40,7 +40,7 @@
 
 | | | | |
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-| <center>[![[Maverick Portrait Gen 2.png]]](<Maverick Holm>)<br>[[Maverick Holm]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai>)<br>[[Seth Mai]]|<center>[![[Susan Portrait Gen 2.png]]](<Susan Harper>)<br>[[Susan Harper]]| <center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]|
+| <center>[![[Maverick Portrait Gen 2.png]]](<Maverick Holm>)<br>[[Maverick Holm]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai.md>)<br>[[Seth Mai]]|<center>[![[Susan Portrait Gen 2.png]]](<Susan Harper>)<br>[[Susan Harper]]| <center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]|
 |<center>[![[Jocelyn Portrait Gen 2.png]]](<Jocelyn Dishman>)<br>[[Jocelyn Dishman]]|<center>[![[Aarohi Portrait Gen 2.png]]](<Aarohi Barclay.md>)<br>[[Aarohi Barclay]] |<center>[![[Akira Portrait Gen 2.png]]](<Akira Kibo>)<br>[[Akira Kibo]]| <center>[![[Salim Portrait Gen 2.png]]](<Salim Benali>)<br>[[Salim Benali]]|
 |<center>[![[Karen Portrait Gen 3.png]]](<Karen Galindo>)<br>[[Karen Galindo]]| 
 

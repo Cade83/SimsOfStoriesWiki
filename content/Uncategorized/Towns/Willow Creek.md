@@ -38,6 +38,7 @@
 - [[José's House]]
 - [[Beacuchamp House]]
 - [[Beatrice's Condo]]
+- [[Mallory and Owain’s]]
 - [[BFFs House]]
 - [[Witch of the Willow’s Swamp]]
 ### Miscellaneous 

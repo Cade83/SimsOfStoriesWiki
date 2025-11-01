@@ -11,7 +11,7 @@
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
-> | Generation | [[First Generation]] |
+> | Generation | [[Second Generation]] |
 > | Relatives | [[Toby Baxter]] (Father)<br>[[Hayley Baxter]] (Mother)<br>[[Jennifer Baxter]] (Older Sister)
 > 
 > ##### Personal Information

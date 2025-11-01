@@ -36,7 +36,7 @@
 **Jacques Villareal** is an antagonist in the first chapter of [[Mai Legacy]]. He's the head of the Villareal Family.
 
 ## Profile
-In his prime, Jacques was considered to be one of the most powerful men in [[Windenburg]]. The land investments he had made in his youth had paid off big time, and he was able to build up his childhood home into an estate for himself, his wife [[Danna Villareal|Danna]], and his oldest son, [[Hugo Villareal|Hugo]]. At around this time, he got into businesses discussions with a young [[Antonio Sanchez]], who had plans that utilized Jacques's land and could make the pair of them even wealthier. Jacques liked what Antonio was offering him, and the pair of them became businesses partners and friends.
+In his prime, Jacques was considered to be one of the most powerful men in [[Windenburg]]. The land investments he had made in his youth had paid off big time, and he was able to build up his childhood home into an estate for himself, his wife [[Danna Villareal|Danna]], and his oldest son, [[Hugo Villareal|Hugo]]. At around this time, he got into businesses discussions with a young [[Antonio Sanchez]], who had plans that utilized Jacques's land and connections in the art world and could make the pair of them even wealthier. Jacques liked what Antonio was offering him, and the pair of them became businesses partners and friends.
 
 > [!caption|left]
 > ![[K.1.3.39.png]] 
