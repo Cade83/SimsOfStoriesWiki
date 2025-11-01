@@ -42,7 +42,7 @@ Born into a wealthy family, Hayley attended high school in [[Oasis Springs]] whe
 > ![[C.1.9.7.png]] 
 > Hayley enjoys a family dinner.
 
-After high school, while Toby went to trade school, Hayley started a mommy blog and networked, and within a year, they were wed and had purchased a [[Baxter House|home]] in [[Willow Creek]] with their parents' money. With her connections, she got Toby a job at the high end [[Willow Creek Gym]] while she devoted herself to being a housewife, mother to [[Jennifer Baxter|Jennifer]] and [[Nathan Baxter|Nathan]], and a respected and devout member of her community and the [[First Church of Our Mother]]. Life settled into a routine, and Hayley was content.
+After high school, while Toby went to trade school, Hayley started a mommy blog and networked, and within a year, they were wed and had purchased a [[Baxter House|home]] in [[Willow Creek]] with their parents' money. With her connections, she got Toby a job at the high end [[Willow Creek Gym]] while she devoted herself to being a housewife, mother to [[Jennifer Baxter|Jennifer]] and [[Nathan Baxter|Nathan]], and a respected and devout member of her community and the [[First Church of Our Mother]]. While in the process of the move, Hayley found herself somewhat distanced from Reese due to previous arguments about Toby's desires, but life settled into a routine, and Hayley was content. Reese even dropped in for a meal from time to time, leaving their previous disagreements unspoken.
 
 > [!caption|right]
 > ![[C.1.11.9.png]] 

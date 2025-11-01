@@ -51,7 +51,7 @@ Unlike her [[Amelia Brown|mother]], Jamira grew up to be completely unafraid of 
 ## Relationships
 | | | | | 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-| <center>[![[Amelia Portrait Gen 1.png]]](<Amelia Brown>)<br>[[Amelia Brown]]| <center>[![[Cory Portrait Gen 2.png]]](<Cory Brown>)<br>[[Cory Brown]]| <center>[![[Sheena Portrait Gen 2.png]]](<Sheena Morrin>)<br>[[Sheena Morrin]]| <center>[![[Booker Portrait Gen 2.png]]](<Booker Aston>)<br>[[Booker Aston]]|
+| <center>[![[Amelia Portrait Gen 1.png]]](<Amelia Brown>)<br>[[Amelia Brown]]| <center>[![[Cory Portrait Gen 2.png]]](<Cory Brown.md>)<br>[[Cory Brown]]| <center>[![[Sheena Portrait Gen 2.png]]](<Sheena Morrin>)<br>[[Sheena Morrin]]| <center>[![[Booker Portrait Gen 2.png]]](<Booker Aston>)<br>[[Booker Aston]]|
 | <center>[![[Samson Portrait Gen 1.png]]](<Samson Brown>)<br>[[Samson Brown]]|
 
 ## Appearances

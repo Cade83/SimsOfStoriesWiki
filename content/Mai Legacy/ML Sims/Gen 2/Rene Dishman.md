@@ -61,7 +61,7 @@ Rene is a man of few words. It's rare for him to speak at all, but he's always l
 ## Relationships
 | | | | |
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-|<center>[![[Sara Portrait Gen 2.png]]](<Sara Dishman>)<br>[[Sara Dishman]]|<center>[![[Jocelyn Portrait Gen 2.png]]](<Jocelyn Dishman>)<br>[[Jocelyn Dishman]]|<center>[![[Ivan Portrait Gen 3.png]]](<Ivan Dishman>)<br>[[Ivan Dishman]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai>)<br>[[Seth Mai]] |
+|<center>[![[Sara Portrait Gen 2.png]]](<Sara Dishman>)<br>[[Sara Dishman]]|<center>[![[Jocelyn Portrait Gen 2.png]]](<Jocelyn Dishman>)<br>[[Jocelyn Dishman]]|<center>[![[Ivan Portrait Gen 3.png]]](<Ivan Dishman>)<br>[[Ivan Dishman]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai.md>)<br>[[Seth Mai]] |
 
 ## Appearances
 ##### [[Mai Legacy]]

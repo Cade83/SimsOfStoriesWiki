@@ -80,7 +80,7 @@ As someone who never really enjoyed confrontation, Amelia tends to keep her head
 ## Relationships
 | | | | | 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-|<center>[![[Samson Portrait Gen 1.png]]](<Samson Brown>)<br>[[Samson Brown]]| <center>[![[Jamira Portrait Gen 2.png]]](<Jamira Brown>)<br>[[Jamira Brown]]| <center>[![[Cory Portrait Gen 2.png]]](<Cory Brown>)<br>[[Cory Brown]]|<center>[![[Carter Portrait Gen 2.png]]](<Carter Reyes.md>)<br>[[Carter Reyes]]|
+|<center>[![[Samson Portrait Gen 1.png]]](<Samson Brown>)<br>[[Samson Brown]]| <center>[![[Jamira Portrait Gen 2.png]]](<Jamira Brown.md>)<br>[[Jamira Brown]]| <center>[![[Cory Portrait Gen 2.png]]](<Cory Brown.md>)<br>[[Cory Brown]]|<center>[![[Carter Portrait Gen 2.png]]](<Carter Reyes.md>)<br>[[Carter Reyes]]|
 | <center>[![[Jo Portrait Gen 1.png]]](<Jo Kauffman>)<br>[[Jo Kauffman]]| <center><font size=2.5>[![[Genevieve Portrait Gen 1.png]]](<Genevieve Beauchamp>)<br>[[Genevieve Beauchamp]]| <center>[![[Felix Portrait Gen 1.png]]](<Felix Beauchamp>)<br>[[Felix Beauchamp]]| <center>[![[Stefan Portrait Gen 1.png]]](<Stefan Barrens>)<br>[[Stefan Barrens]]|
 
 ## Trivia
