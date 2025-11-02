@@ -32,7 +32,7 @@
 > [!quote|author] Bronson threatening James and Susan with Hajar.
 > “Rosaline and I are both aware of why Hajar married Joaquin. Wealth, fame; both typical reasons for people who try to marry into legacy families. But that also means she’ll be motivated to keep it.”
 
-**Bronson Le Chien** is a character introduced the first chapter of [[Mai Legacy]]. He's the husband of [[Rosaline Le Chien|Rosaline]].
+**Bronson Le Chien** is a character introduced in the first chapter of [[Mai Legacy]]. He's the husband of [[Rosaline Le Chien|Rosaline]].
 
 ## Profile
 Bronson marrying [[Rosaline Le Chien]] was at one point the talk of all of [[Windenburg]]. He was a nobody, he didn't come from money, and Rosaline's family went back centuries. Never in all of that time had one of the Le Chien Legacy heirs ever chosen to marry someone of a lower social class, yet Rosaline fought for Bronson and won. The two of them faced some ridicule from other members of the social elite, but the majority of people found their love story to be inspiriting, and it ended up elevating the Le Chien family's level of influence.

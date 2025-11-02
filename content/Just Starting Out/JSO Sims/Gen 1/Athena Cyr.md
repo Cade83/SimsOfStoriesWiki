@@ -29,6 +29,7 @@
 **Athena Cyr** is a character introduced in the first chapter of [[Just Starting Out]].
 
 ## Profile
+Athena campaigned for the presidency, running on her political experience governor of [[Newcrest]],  making it as far as the semifinal debate.
 
 ## Personality
 

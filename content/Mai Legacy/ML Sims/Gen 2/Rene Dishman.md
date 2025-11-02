@@ -32,7 +32,7 @@
 > [!quote|author] Rene calling Jocelyn downstairs.
 > “Jocelyn? Everyone’s here, you can stop trying to make yourself look pretty."
 
-**Rene Dishman** is a character introduced the first chapter of [[Mai Legacy]]. He's the father of [[Jocelyn Dishman|Jocelyn]].
+**Rene Dishman** is a character introduced in the first chapter of [[Mai Legacy]]. He's the father of [[Jocelyn Dishman|Jocelyn]].
 
 ## Profile
 Rene and [[Sara Dishman|Sara]] lived a quiet few years together before Sara founded a wellness brand that she ran out of their house, which saw some early local success.
@@ -61,7 +61,7 @@ Rene is a man of few words. It's rare for him to speak at all, but he's always l
 ## Relationships
 | | | | |
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-|<center>[![[Sara Portrait Gen 2.png]]](<Sara Dishman>)<br>[[Sara Dishman]]|<center>[![[Jocelyn Portrait Gen 2.png]]](<Jocelyn Dishman>)<br>[[Jocelyn Dishman]]|<center>[![[Ivan Portrait Gen 3.png]]](<Ivan Dishman>)<br>[[Ivan Dishman]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai>)<br>[[Seth Mai]] |
+|<center>[![[Sara Portrait Gen 2.png]]](<Sara Dishman>)<br>[[Sara Dishman]]|<center>[![[Jocelyn Portrait Gen 2.png]]](<Jocelyn Dishman>)<br>[[Jocelyn Dishman]]|<center>[![[Ivan Portrait Gen 3.png]]](<Ivan Dishman>)<br>[[Ivan Dishman]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai.md>)<br>[[Seth Mai]] |
 
 ## Appearances
 ##### [[Mai Legacy]]

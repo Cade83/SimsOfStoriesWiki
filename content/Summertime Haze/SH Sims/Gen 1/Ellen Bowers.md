@@ -18,7 +18,7 @@
 > | ---- | ---- | 
 > | Lived In |[[Newcrest]]<br>[[Willow Creek]]| 
 > | Home |[[Ellen's House]]| 
-> | Career | School Counselor | 
+> | Career | School Counselor<br>Librarian | 
 > 
 > ##### Story Info
 > |  |  | 
@@ -82,7 +82,7 @@ Ellen is ultimately a very broken woman. The passing of her husband destroyed he
 | | | | | 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
 | <center>[![[Henry Portrait Gen 1.png]]](<Henry Doyle>)<br>[[Henry Doyle]]| <center>[![[Jaxon Portrait Gen 1.png]]](<Jaxon Kauker>)<br>[[Jaxon Kauker]]| <center>[![[Toby Portrait Gen 1.png]]](<Toby Baxter>)<br>[[Toby Baxter]]|<center>[![[Hayley Portrait Gen 1.png]]](<Hayley Baxter>)<br>[[Hayley Baxter]]|
-| <center>[![[Regan Portrait Gen 1.png]]](<Regan Reardon>)<br>[[Regan Reardon]]| <center>[![[Mallory Portrait Gen 1.png]]](<Mallory Fuchs>)<br>[[Mallory Fuchs]]| <center>[![[Owain Portrait Gen 1.png]]](<Owain Fitzpatrick>)<br>[[Owain Fitzpatrick]]|
+| <center>[![[Regan Portrait Gen 1.png]]](<Regan Reardon.md>)<br>[[Regan Reardon]]| <center>[![[Mallory Portrait Gen 1.png]]](<Mallory Fuchs>)<br>[[Mallory Fuchs]]| <center>[![[Owain Portrait Gen 1.png]]](<Owain Fitzpatrick>)<br>[[Owain Fitzpatrick]]|
 
 ## Trivia
 Ellen's name used to be [[Melody Roach]], and Melody's used to be Ellen Bowers. When doing my initial planning, I felt as if the name Melody felt ill-suited for Ellen's character, and perfect for a yoga instructor and therapist like Melody.

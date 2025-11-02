@@ -33,7 +33,7 @@
 > [!quote|author] Rosaline introducing herself.
 > “Hello, hello! I’m Sara Dishman."
 
-**Sara Dishman** is a character introduced the first chapter of [[Mai Legacy]]. She's the mother of [[Jocelyn Dishman|Jocelyn]].
+**Sara Dishman** is a character introduced in the first chapter of [[Mai Legacy]]. She's the mother of [[Jocelyn Dishman|Jocelyn]].
 
 ## Profile
 In her early adulthood, Sara founded a wellness brand that she ran out of the home she lived in with her husband, [[Rene Dishman|Rene]], which saw some early success.
@@ -63,7 +63,7 @@ Sara is an ever-friendly businesswoman who, as a result of her own success, alwa
 ## Relationships
 | | | | |
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-|<center>[![[Rene Portrait Gen 2.png]]](<Rene Dishman>)<br>[[Rene Dishman]]|<center>[![[Jocelyn Portrait Gen 2.png]]](<Jocelyn Dishman>)<br>[[Jocelyn Dishman]]|<center>[![[Ivan Portrait Gen 3.png]]](<Ivan Dishman>)<br>[[Ivan Dishman]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai>)<br>[[Seth Mai]] |
+|<center>[![[Rene Portrait Gen 2.png]]](<Rene Dishman>)<br>[[Rene Dishman]]|<center>[![[Jocelyn Portrait Gen 2.png]]](<Jocelyn Dishman>)<br>[[Jocelyn Dishman]]|<center>[![[Ivan Portrait Gen 3.png]]](<Ivan Dishman>)<br>[[Ivan Dishman]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai.md>)<br>[[Seth Mai]] |
 
 ## Appearances
 ##### [[Mai Legacy]]
