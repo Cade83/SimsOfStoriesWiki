@@ -92,7 +92,7 @@ Akira is also a man who falls hard and fast when it comes to love. [[Susan Harpe
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
 | <center>[![[Salim Portrait Gen 2.png]]](<Salim Benali>)<br>[[Salim Benali]]|<center>[![[Susan Portrait Gen 2.png]]](<Susan Harper>)<br>[[Susan Harper]]| <center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]|<center>[![[Jacques Portrait Gen 2.png]]](<Jacques Villareal>)<br>[[Jacques Villareal]] |
 |<center>[![[Penny Portrait Gen 2.png]]](<Penny Pizzazz>)<br>[[Penny Pizzazz]]| <center>[![[Eliza Portrait Gen 2.png]]](<Eliza Pancakes>)<br>[[Eliza Pancakes]]|<center>[![[Ulrike Portrait Gen 2.png]]](<Ulrike Faust>)<br>[[Ulrike Faust]]|<center>[![[Aarohi Portrait Gen 2.png]]](<Aarohi Barclay.md>)<br>[[Aarohi Barclay]] |
-|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai>)<br>[[Seth Mai]] |<center>[![[Leah Portrait Gen 2.png]]](<Leah Mai>)<br>[[Leah Mai]]| <center>[![[Kiara Portrait Gen 3.png]]](<Kiara Sanchez>)<br>[[Kiara Sanchez]]|
+|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai.md>)<br>[[Seth Mai]] |<center>[![[Leah Portrait Gen 2.png]]](<Leah Mai.md>)<br>[[Leah Mai]]| <center>[![[Kiara Portrait Gen 3.png]]](<Kiara Sanchez>)<br>[[Kiara Sanchez]]|
 
 ## Appearances
 ##### [[Mai Legacy]]

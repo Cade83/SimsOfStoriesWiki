@@ -43,7 +43,7 @@ When James actually came to visit his family, Colette felt as if her dreams were
 > ![[M.1.30.20.png]] 
 > Colette waits for the bus.
 
-Once James left, Colette angrily returned to her typical work on the ranch. Nothing ever changed for her, she felt trapped. In her rage, she slammed a door, which made Jamie yell at her and Ty have to reprimand her about slamming doors. Beyond fed up, Colette went to retrieve her phone and found a text from [[Leah Mai]], James's daughter, telling Colette that she had had support if she ran away. Colette started plotting her escape plan that very night, and soon enough, she was [[Oasis Springs Bustop|waiting to catch a bus]] that would kick off her journey to Windenburg.
+Once James left, Colette angrily returned to her typical work on the ranch. Nothing ever changed for her, she felt trapped. In her rage, she slammed a door, which made Jamie yell at her and Ty have to reprimand her about slamming doors. Beyond fed up, Colette went to retrieve her phone and found a text from [[Leah Mai]], James's daughter, telling Colette that she had her support if she ran away. Colette started plotting her escape plan that very night, and soon enough, she was [[Oasis Springs Bustop|waiting to catch a bus]] that would kick off her journey to Windenburg.
 
 > [!caption|left]
 > ![[M.2.1.15.png]] 
@@ -52,13 +52,13 @@ Once James left, Colette angrily returned to her typical work on the ranch. Noth
 When Colette finally got to the [[Mai House]] in Windenburg, James had recently passed away. Too concerned with everything else going on to deal with Colette immediately, [[Susan Harper]], James's wife, took her in without argument. [[Jocelyn Dishman]], the wife of James's son [[Seth Mai|Seth]], was tasked with taking Colette shopping for clothes, and while out shopping with her, Colette felt loved for the first time.
 
 ## Personality
-While living at the [[Cleary Ranch]], Colette felt a great deal of frustration with her situation. Her relationship with [[Jamie Mai|Jamie]] was tenuous at best, [[Ty Cleary|Ty]] required too much of her, and she hated the weather and her job. [[James Mai|James]] became an idealized figure for her, an example of opportunity if she took the risk and ran. 
+While living at the [[Cleary Ranch]], Colette felt a great deal of frustration with her situation. Her relationship with [[Jamie Mai|Jamie]] was tenuous at best, [[Ty Cleary|Ty]] required too much of her, and she hated the weather and her job. She often felt as if she wasn't loved, and was appreciated for her work instead of her own self. [[James Mai|James]] became an idealized figure for Colette, an example of opportunity if she took the risk and ran, like he had. 
 
 ## Relationships
 | | | | |
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
 |<center>[![[Ty Portrait Gen 2.png]]](<Ty Cleary>)<br>[[Ty Cleary]]|<center>[![[Jamie Portrait Gen 2.png]]](<Jamie Mai>)<br>[[Jamie Mai]]|<center>[![[Daniela Portrait Gen 2.png]]](<Daniela Mai>)<br>[[Daniela Mai]]|<center>[![[Ed Portrait Gen 2.png]]](<Ed Mai>)<br>[[Ed Mai]]|
-|<center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]|<center>[![[Jocelyn Portrait Gen 2.png]]](<Jocelyn Dishman>)<br>[[Jocelyn Dishman]]|<center>[![[Leah Portrait Gen 3.png]]](<Leah Mai>)<br>[[Leah Mai]]|<center>[![[Susan Portrait Gen 3.png]]](<Susan Harper>)<br>[[Susan Harper]]|
+|<center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]|<center>[![[Jocelyn Portrait Gen 2.png]]](<Jocelyn Dishman>)<br>[[Jocelyn Dishman]]|<center>[![[Leah Portrait Gen 3.png]]](<Leah Mai.md>)<br>[[Leah Mai]]|<center>[![[Susan Portrait Gen 3.png]]](<Susan Harper>)<br>[[Susan Harper]]|
 
 ## Appearances
 ##### [[Mai Legacy]]

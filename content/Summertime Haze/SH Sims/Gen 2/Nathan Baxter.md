@@ -11,7 +11,7 @@
 > | ---- | ---- | 
 > | Gender | Male | 
 > | Life State | Human |
-> | Generation | [[First Generation]] |
+> | Generation | [[Second Generation]] |
 > | Relatives | [[Toby Baxter]] (Father)<br>[[Hayley Baxter]] (Mother)<br>[[Jennifer Baxter]] (Older Sister)
 > 
 > ##### Personal Information
@@ -69,4 +69,4 @@ After [[Hayley Baxter|Hayley]]'s passing, a deep rage began to burn deep within 
 | <center><font size=2>The Bump in the Night<br><font size=3>*Absent*       | <center><font size=2>What Would SHE Want?<br><font size=3>**Appears** | <center><font size=2>The Nurse<br><font size=3>***Mentioned***            | <center><font size=2>A Time for Mourning<br><font size=3>**Appears** | <center><font size=2>About Time<br><font size=3>***Mentioned***             |
 | <center><font size=2>The Witch of the Willow<br><font size=3>**Appears**  | <center><font size=2>Reflecting<br><font size=3>***Mentioned***       |                                                                           |                                                                      |                                                                             |
 #### Categories
-#Summertime_Haze_Characters #Baxter_Family #Main_Characters #Generation_1_Characters
+#Summertime_Haze_Characters #Baxter_Family #Main_Characters #Generation_1_Characters #Generation_2_Characters

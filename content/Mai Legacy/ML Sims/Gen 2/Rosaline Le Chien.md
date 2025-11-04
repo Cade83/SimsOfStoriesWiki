@@ -32,7 +32,7 @@
 > [!quote|author] Rosaline threatening James and Susan.
 > “You know the Shallot family, correct? Probably not, I'm assuming. The last two owners tragically perished in a fire… a fire set by my Le Chien ancestors when the two legacy families grew too big for tiny Windenburg. Their legacy was so thoroughly scorched from the earth that they're now referred to as the Von Haunts. Don’t even think for a moment that we won’t do the same to you.”
 
-**Rosaline Le Chien** is a character introduced the first chapter of [[Mai Legacy]]. She's the heiress of the Le Chien Legacy at the start of the [[Second Generation]].
+**Rosaline Le Chien** is a character introduced in the first chapter of [[Mai Legacy]]. She's the heiress of the Le Chien Legacy at the start of the [[Second Generation]].
 
 ## Profile
 As the only daughter of a long-running Legacy Family, Rosaline was raised to be an heiress, which was a role she stepped into gracefully. Through television and radio appearances, magazine spreads, and event hosting, Rosaline came to command respect across all of [[Windenburg]]. She married [[Bronson Le Chien|Bronson]] in her mid 20s, which was an event that scandalized the nation, as Bronson didn't come from money, yet Rosaline persisted. As a result, the pair of them became the very picture of a successful romance.
