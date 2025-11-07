@@ -126,7 +126,7 @@ While James originally ran away to escape expectations, he ended up achieving ev
 ## Relationships
 | | | | |
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-|<center>[![[Susan Portrait Gen 2.png]]](<Samson Brown>)<br>[[Susan Harper]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai>)<br>[[Seth Mai]] |<center>[![[Leah Portrait Gen 2.png]]](<Leah Mai>)<br>[[Leah Mai]]|<center>[![[Akira Portrait Gen 2.png]]](<Akira Kibo.md>)<br>[[Akira Kibo]]|
+|<center>[![[Susan Portrait Gen 2.png]]](<Samson Brown>)<br>[[Susan Harper]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai.md>)<br>[[Seth Mai]] |<center>[![[Leah Portrait Gen 2.png]]](<Leah Mai.md>)<br>[[Leah Mai]]|<center>[![[Akira Portrait Gen 2.png]]](<Akira Kibo.md>)<br>[[Akira Kibo]]|
 | <center>[![[Salim Portrait Gen 2.png]]](<Salim Benali>)<br>[[Salim Benali]]|<center>[![[Aarohi Portrait Gen 2.png]]](<Aarohi Barclay.md>)<br>[[Aarohi Barclay]] | <center>[![[Victor Portrait Gen 2.png]]](<Victor Feng>)<br>[[Victor Feng]]|<center>[![[Lily Portrait Gen 2.png]]](<Lily Feng>)<br>[[Lily Feng]]
 |<center>[![[Joaquin Portrait Gen 2.png]]](<Joaquin Le Chien>)<br>[[Joaquin Le Chien]]|<center>[![[Hajar Portrait Gen 2.png]]](<Hajar Cresques>)<br>[[Hajar Cresques]]|<center>[![[Daniela Portrait Gen 2.png]]](<Daniela Mai>)<br>[[Daniela Mai]]|<center>[![[Ed Portrait Gen 2.png]]](<Ed Mai>)<br>[[Ed Mai]]|
 

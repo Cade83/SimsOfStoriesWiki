@@ -34,6 +34,8 @@
 ## Profile
 Nash was born shortly after [[Zoe Presley]]'s death and entered a world where everyone around him was in mourning, especially his mother, [[Summer Holiday|Summer]]. In addition, Zoe's old room became Nash's, so he grew up aware of the fact that his birth came at the expense of Zoe.
 
+Once he was an adult with a somewhat successful career as a DJ, Nash met with [[Antonio Sanchez]], a businessman famous for turning anything he invested in into a success.
+
 ## Personality
 
 <br style="clear:both; margin: 0; padding: 0" />
@@ -56,4 +58,4 @@ Nash was born shortly after [[Zoe Presley]]'s death and entered a world where ev
 - 1.1 - The Sanchez Family
 
 #### Categories
-#Dreams_of_Fame_Characters #Holiday_Family #Main_Characters #Generation_2_Characters
+#Dreams_of_Fame_Characters #Holiday_Family #Yépez_Family #Main_Characters #Generation_2_Characters

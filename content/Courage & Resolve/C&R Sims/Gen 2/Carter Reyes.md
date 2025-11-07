@@ -48,7 +48,7 @@ Carter has a very low opinion of himself. When he arrived in [[Willow Creek]], C
 ## Relationships
 | | | | | 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-| <center>[![[Rian Portrait Gen 2.png]]](<Rian Winstrate>)<br>[[Rian Winstrate]]| <center>[![[Amelia Portrait Gen 2.png]]](<Amelia Brown>)<br>[[Amelia Brown]]| <center>[![[Jamira Portrait Gen 2.png]]](<Jamira Brown>)<br>[[Jamira Brown]]| <center>[![[Cory Portrait Gen 2.png]]](<Cory Brown>)<br>[[Cory Brown]]|
+| <center>[![[Rian Portrait Gen 2.png]]](<Rian Winstrate>)<br>[[Rian Winstrate]]| <center>[![[Amelia Portrait Gen 2.png]]](<Amelia Brown>)<br>[[Amelia Brown]]| <center>[![[Jamira Portrait Gen 2.png]]](<Jamira Brown.md>)<br>[[Jamira Brown]]| <center>[![[Cory Portrait Gen 2.png]]](<Cory Brown.md>)<br>[[Cory Brown]]|
 
 ## Appearances
 ##### [[Courage & Resolve]]

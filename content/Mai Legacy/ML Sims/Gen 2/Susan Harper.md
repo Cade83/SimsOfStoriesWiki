@@ -44,7 +44,7 @@ Susan grew up in [[San Myshuno]]'s Fashion District where, at the insistence of 
 Once she graduated, Susan found herself back in the Fashion District where she rented an apartment of her own and began to compete in basketball tournaments and the womens soccer league for rent money, attracting the attention of [[Penny Pizzazz]], a rising star in the reporting world. While Susan and Penny became good friends, she chose not to spend much time with her parents from then on. Her bond with Akira, however, endured and they became more of friends than mentor and mentee once he turned 18. The two of them began to hit up bars, where Susan was introduced to Akira's friend [[Salim Benali]]. During this time, Susan also watched Akira meet [[Jacques Villareal]] and fall for him firsthand.
 
 > [!caption|right]
-> ![[1.2.4-v2.png]] 
+> ![[1.2.4 v2.png]] 
 > Susan meets James at karaoke night.
 
 Akira was soon wed to Jacques, but martial troubles meant that he moved back to the Fashion District where he rented an apartment in the same building as Susan. Having the same experiences, the two of them protested the unfair rent imposed on them by their landlord and continued to go out to bars and party. One night, Akira was busy, so Susan ended up going to [[Planet Honeypop]] by herself where she competed against [[James Mai]] in a karaoke competition. James impressed her, and after a chat, the two exchanged contact info.
@@ -113,7 +113,7 @@ Susan enjoys poking a bit of fun at others, especially those she loves, making s
 ## Relationships
 | | | | |
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-| <center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai>)<br>[[Seth Mai]] |<center>[![[Leah Portrait Gen 2.png]]](<Leah Mai>)<br>[[Leah Mai]]| <center>[![[Akira Portrait Gen 2.png]]](<Akira Kibo.md>)<br>[[Akira Kibo]]|
+| <center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai.md>)<br>[[Seth Mai]] |<center>[![[Leah Portrait Gen 2.png]]](<Leah Mai.md>)<br>[[Leah Mai]]| <center>[![[Akira Portrait Gen 2.png]]](<Akira Kibo.md>)<br>[[Akira Kibo]]|
 |<center>[![[Penny Portrait Gen 2.png]]](<Penny Pizzazz>)<br>[[Penny Pizzazz]]| <center>[![[Eliza Portrait Gen 2.png]]](<Eliza Pancakes>)<br>[[Eliza Pancakes]]| <center>[![[Salim Portrait Gen 2.png]]](<Salim Benali>)<br>[[Salim Benali]]| <center>[![[Jacques Portrait Gen 2.png]]](<Jacques Villareal>)<br>[[Jacques Villareal]]
 |<center>[![[Bob Portrait Gen 2.png]]](<Bob Pancakes>)<br>[[Bob Pancakes]]|<center>[![[Aarohi Portrait Gen 2.png]]](<Aarohi Barclay.md>)<br>[[Aarohi Barclay]] |<center>[![[Lily Portrait Gen 2.png]]](<Lily Feng>)<br>[[Lily Feng]]|<center>[![[Hajar Portrait Gen 2.png]]](<Hajar Cresques>)<br>[[Hajar Cresques]]|
 

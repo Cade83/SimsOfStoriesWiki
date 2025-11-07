@@ -22,7 +22,7 @@ Courage & Resolve is the third occurring Sims Story, featuring the [[Amelia Brow
 ##### Characters
 | | | | | 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-| <center>[![[Amelia Portrait Gen 1.png]]](<Amelia Brown>)<br>[[Amelia Brown]]|<center>[![[Samson Portrait Gen 1.png]]](<Samson Brown>)<br>[[Samson Brown]]| <center>[![[Jamira Portrait Gen 1.png]]](<Jamira Brown>)<br>[[Jamira Brown]]| <center>[![[Cory Portrait Gen 1.png]]](<Cory Brown>)<br>[[Cory Brown]]|
+| <center>[![[Amelia Portrait Gen 1.png]]](<Amelia Brown>)<br>[[Amelia Brown]]|<center>[![[Samson Portrait Gen 1.png]]](<Samson Brown>)<br>[[Samson Brown]]| <center>[![[Jamira Portrait Gen 1.png]]](<Jamira Brown.md>)<br>[[Jamira Brown]]| <center>[![[Cory Portrait Gen 1.png]]](<Cory Brown.md>)<br>[[Cory Brown]]|
 | <center>[![[Felix Portrait Gen 1.png]]](<Felix Beauchamp>)<br>[[Felix Beauchamp]]| <center><font size=2.5>[![[Genevieve Portrait Gen 1.png]]](<Genevieve Beauchamp>)<br>[[Genevieve Beauchamp]]| <center>[![[Jo Portrait Gen 1.png]]](<Jo Kauffman>)<br>[[Jo Kauffman]]| <center>[![[Stefan Portrait Gen 1.png]]](<Stefan Barrens>)<br>[[Stefan Barrens]]|
 
 ###### Minor Characters and Major Cameos
@@ -38,7 +38,7 @@ Courage & Resolve is the third occurring Sims Story, featuring the [[Amelia Brow
 ##### Characters
 | | | | | 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-| <center>[![[Amelia Portrait Gen 2.png]]](<Amelia Brown>)<br>[[Amelia Brown]]| <center>[![[Jamira Portrait Gen 2.png]]](<Jamira Brown>)<br>[[Jamira Brown]]| <center>[![[Cory Portrait Gen 2.png]]](<Cory Brown>)<br>[[Cory Brown]]| <center>[![[Carter Portrait Gen 2.png]]](<Carter Reyes.md>)<br>[[Carter Reyes]]|
+| <center>[![[Amelia Portrait Gen 2.png]]](<Amelia Brown>)<br>[[Amelia Brown]]| <center>[![[Jamira Portrait Gen 2.png]]](<Jamira Brown.md>)<br>[[Jamira Brown]]| <center>[![[Cory Portrait Gen 2.png]]](<Cory Brown.md>)<br>[[Cory Brown]]| <center>[![[Carter Portrait Gen 2.png]]](<Carter Reyes.md>)<br>[[Carter Reyes]]|
 | <center>[![[Booker Portrait Gen 2.png]]](<Booker Aston>)<br>[[Booker Aston]]| <center>[![[Sheena Portrait Gen 2.png]]](<Sheena Morrin>)<br>[[Sheena Morrin]]| <center>[![[Connor Portrait Gen 2.png]]](<Connor Beauchamp>)<br>[[Connor Beauchamp]]| <center>[![[Elise Portrait Gen 2.png]]](<Elise Beauchamp>)<br>[[Elise Beauchamp]]|
 | <center>[![[Timothy Portrait Gen 2.png]]](<Timothy Winstrate>)<br>[[Timothy Winstrate]]| <center>[![[Halcyon Portrait Gen 2.png]]](<Halcyon Winstrate>)<br>[[Halcyon Winstrate]]| <center>[![[Rian Portrait Gen 2.png]]](<Rian Winstrate>)<br>[[Rian Winstrate]]| <center>[![[Stefan Portrait Gen 2.png]]](<Stefan Barrens>)<br>[[Stefan Barrens]]|
 | <center>[![[Antony Portrait Gen 2.png]]](<​Antony Jeffers>)<br>[[Antony Jeffers]]| <center>[![[Reese Portrait Gen 2.png]]](<Reese Inda.md>)<br>[[Reese Inda]]| <center>[![[Cruz Portrait Gen 2.png]]](<Cruz Elmore>)<br>[[Cruz Elmore]]| <center>[![[Nestor Portrait Gen 2.png]]](<Nestor Abel>)<br>[[Nestor Abel]]|

@@ -12,7 +12,7 @@
 > | Gender | Male | 
 > | Life State | Human |
 > | Generation | [[First Generation]] |
-> | Relatives | [[Sara Dishman]] (Wife)<br>[[Jocelyn Dishman]] (Daughter)<br>[[Ivan Dishman]] (Son)
+> | Relatives | [[Sara Dishman]] (Wife)<br>[[Jocelyn Dishman]] (Adoptive Daughter)<br>[[Ivan Dishman]] (Adoptive Son)
 > 
 > ##### Personal Information
 > |  |  | 
@@ -32,7 +32,7 @@
 > [!quote|author] Rene calling Jocelyn downstairs.
 > “Jocelyn? Everyone’s here, you can stop trying to make yourself look pretty."
 
-**Rene Dishman** is a character introduced the first chapter of [[Mai Legacy]]. He's the father of [[Jocelyn Dishman|Jocelyn]].
+**Rene Dishman** is a character introduced in the first chapter of [[Mai Legacy]]. He's the father of [[Jocelyn Dishman|Jocelyn]].
 
 ## Profile
 Rene and [[Sara Dishman|Sara]] lived a quiet few years together before Sara founded a wellness brand that she ran out of their house, which saw some early local success.
@@ -47,7 +47,7 @@ As Sara's business went from its initial success to a juggernaut that shipped in
 > ![[1.19.11.png]] 
 > Rene and Sara meet [[James Mai]] and [[Susan Harper]].
 
-When Sara chose to sell her company and retire early, Rene was forced to follow the same career trajectory, and both became parents full-time. Jocelyn and Ivan fought a lot, and neither Rene or Sara were sure of how to handle that. While Sara gave up rather quickly, Rene always offered his guidance, even if it wasn't ever effective. When Jocelyn brought [[Seth Mai]] home, both Rene and Sara were overjoyed, and asked to host his family with eagerness.
+When Sara chose to sell her company and retire early, Rene was forced to follow the same career trajectory, and both became parents full-time. Jocelyn and Ivan fought a lot, and neither Rene or Sara were sure of how to handle that. While Sara gave up rather quickly, Rene always offered his guidance, even if it wasn't ever effective. When Jocelyn started hanging out with [[Seth Mai]], both Rene and Sara were overjoyed, and nothing she could say could convince them they weren't dating. They asked to host Seth's family with eagerness, and were pleased to hear the news that they were dating.
 
 > [!caption|left]
 > ![[1.21.16.png]] 
@@ -61,7 +61,7 @@ Rene is a man of few words. It's rare for him to speak at all, but he's always l
 ## Relationships
 | | | | |
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-|<center>[![[Sara Portrait Gen 2.png]]](<Sara Dishman>)<br>[[Sara Dishman]]|<center>[![[Jocelyn Portrait Gen 2.png]]](<Jocelyn Dishman>)<br>[[Jocelyn Dishman]]|<center>[![[Ivan Portrait Gen 3.png]]](<Ivan Dishman>)<br>[[Ivan Dishman]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai>)<br>[[Seth Mai]] |
+|<center>[![[Sara Portrait Gen 2.png]]](<Sara Dishman>)<br>[[Sara Dishman]]|<center>[![[Jocelyn Portrait Gen 2.png]]](<Jocelyn Dishman.md>)<br>[[Jocelyn Dishman]]|<center>[![[Ivan Portrait Gen 3.png]]](<Ivan Dishman>)<br>[[Ivan Dishman]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai.md>)<br>[[Seth Mai]] |
 
 ## Appearances
 ##### [[Mai Legacy]]

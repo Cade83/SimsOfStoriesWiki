@@ -72,4 +72,4 @@ Ty has a good relationship with Colette, unlike Jamie. While Jamie has a tendenc
 | <center><font size=2>The End of a Generation<br><font size=3>*Absent*  |
 
 #### Categories
-#Mai_Legacy_Characters #Mai_Family #Cleary_Family #Main_Characters #Generation_2_Characters
+#Mai_Legacy_Characters #Mai_Family #Cleary_Family #Main_Characters #Generation_2_Characters #Generation_3_Characters

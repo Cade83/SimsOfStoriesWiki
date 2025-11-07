@@ -22,4 +22,4 @@
 - [[Maverick’s Apartment]]
 ### Miscellaneous 
 - [[Feng Cellar]]
-- [[Afternoon Tea Set]]
+- [[The Afternoon Tea]]
