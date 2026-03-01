@@ -36,13 +36,13 @@
 **Jacques Villareal** is an antagonist in the first chapter of [[Mai Legacy]]. He's the head of the Villareal Family.
 
 ## Profile
-In his prime, Jacques was considered to be one of the most powerful men in [[Windenburg]]. The land investments he had made in his youth had paid off big time, and he was able to build up his childhood home into an estate for himself, his wife [[Danna Villareal|Danna]], and his oldest son, [[Hugo Villareal|Hugo]]. At around this time, he got into businesses discussions with a young [[Antonio Sanchez]], who had plans that utilized Jacques's land and could make the pair of them even wealthier. Jacques liked what Antonio was offering him, and the pair of them became businesses partners and friends.
+In his prime, Jacques was considered to be one of the most powerful men in [[Windenburg]]. The land investments he had made in his youth had paid off big time, and he was able to build up his childhood home into an estate for himself, his wife [[Danna Villareal|Danna]], and his oldest son, [[Hugo Villareal|Hugo]]. At around this time, he got into businesses discussions with a young [[Antonio Sanchez]], who had plans that utilized Jacques's land and connections in the art world and could make the pair of them even wealthier. Jacques liked what Antonio was offering him, and the pair of them became businesses partners and friends.
 
 > [!caption|left]
 > ![[K.1.3.39.png]] 
 > Jacques meets with Hugo and Luna, excluding Max.
 
-Jacques's next two child, [[Luna Villareal|Luna]], got to enjoy all of the privilege of growing up wealthy without any of the consequences, unlike Hugo, who Jacques has begun to train to take over for him on Antonio's recommendation. He kept Luna in mind as a distant second choice, however, as his youngest child, [[Max Villareal|Max]], was unpleasant and would almost certainly mishandle things. This led to Max and Danna feeling rather excluded, as Jacques would rarely ever clue either of them in on what he was thinking.
+Jacques's next child, [[Luna Villareal|Luna]], got to enjoy all of the privilege of growing up wealthy without any of the consequences, unlike Hugo, who Jacques has begun to train to take over for him on Antonio's recommendation. He kept Luna in mind as a distant second choice, however, as his youngest child, [[Max Villareal|Max]], was unpleasant and would almost certainly mishandle things. This led to Max and Danna feeling rather excluded, as Jacques would rarely ever clue either of them in on what he was thinking.
 
 > [!caption|right]
 > ![[1.9.3 v2.png]] 

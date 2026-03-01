@@ -12,7 +12,7 @@
 > | Gender | Female | 
 > | Life State | Human |
 > | Generation | [[First Generation]] |
-> | Relatives | [[Rene Dishman]] (Husband)<br>[[Jocelyn Dishman]] (Daughter)<br>[[Ivan Dishman]] (Son)
+> | Relatives | [[Rene Dishman]] (Husband)<br>[[Jocelyn Dishman]] (Adoptive Daughter)<br>[[Ivan Dishman]] (Adoptive Son)
 > 
 > ##### Personal Information
 > |  |  | 
@@ -33,7 +33,7 @@
 > [!quote|author] Rosaline introducing herself.
 > “Hello, hello! I’m Sara Dishman."
 
-**Sara Dishman** is a character introduced the first chapter of [[Mai Legacy]]. She's the mother of [[Jocelyn Dishman|Jocelyn]].
+**Sara Dishman** is a character introduced in the first chapter of [[Mai Legacy]]. She's the mother of [[Jocelyn Dishman|Jocelyn]].
 
 ## Profile
 In her early adulthood, Sara founded a wellness brand that she ran out of the home she lived in with her husband, [[Rene Dishman|Rene]], which saw some early success.
@@ -47,7 +47,7 @@ As her business went from small time local success to a juggernaut that shipped 
 > ![[1.19.16.png]] 
 > Sara chides Jocelyn.
 
-Sara retired early after she sold her company, wanting to focus on being a mom full-time. She had some difficulties as a parent, as it was rare for Jocelyn and Ivan to get along, resulting in her ultimately choosing to leave the two of them to their own devices when they started arguing. When Jocelyn brought [[Seth Mai]] home, both Sara and Rene were overjoyed, and asked to host his family with eagerness.
+Sara retired early after she sold her company, wanting to focus on being a mom full-time. She had some difficulties as a parent, as it was rare for Jocelyn and Ivan to get along, resulting in her ultimately choosing to leave the two of them to their own devices when they started arguing. When Jocelyn started hanging out with [[Seth Mai]], both Sara and Rene were overjoyed, and nothing she could say could convince them they weren't dating. They asked to host Seth's family with eagerness, and were pleased to hear the news that they were dating.
 
 > [!caption|left]
 > ![[1.21.18.png]] 
@@ -55,15 +55,13 @@ Sara retired early after she sold her company, wanting to focus on being a mom f
 
 Her growing proximity to the Mai Family, however, ultimately proved to be her undoing. A month after Jocelyn's marriage to Seth, [[Hajar Cresques]], an enemy of the Mai Family,  chose to set the [[Dishman House]] to get back at the Mais. Sara and Rene ensured that Ivan escaped, but were unable to survive themselves.
 
-<br style="clear:both; margin: 0; padding: 0" />
-
 ## Personality
 Sara is an ever-friendly businesswoman who, as a result of her own success, always wants to give back to others. She did this through seminars, and later through the adoption of [[Jocelyn Dishman|Jocelyn]] and [[Ivan Dishman|Ivan]]. While Sara would be the first to admit that motherhood ultimately wasn't in her, as she wasn't able to properly mediate or deal with their arguments and soon gave up on it, but she was always willing to do anything she could for them.
 
 ## Relationships
 | | | | |
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-|<center>[![[Rene Portrait Gen 2.png]]](<Rene Dishman>)<br>[[Rene Dishman]]|<center>[![[Jocelyn Portrait Gen 2.png]]](<Jocelyn Dishman>)<br>[[Jocelyn Dishman]]|<center>[![[Ivan Portrait Gen 3.png]]](<Ivan Dishman>)<br>[[Ivan Dishman]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai>)<br>[[Seth Mai]] |
+|<center>[![[Rene Portrait Gen 2.png]]](<Rene Dishman>)<br>[[Rene Dishman]]|<center>[![[Jocelyn Portrait Gen 2.png]]](<Jocelyn Dishman.md>)<br>[[Jocelyn Dishman]]|<center>[![[Ivan Portrait Gen 3.png]]](<Ivan Dishman>)<br>[[Ivan Dishman]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai.md>)<br>[[Seth Mai]] |
 
 ## Appearances
 ##### [[Mai Legacy]]

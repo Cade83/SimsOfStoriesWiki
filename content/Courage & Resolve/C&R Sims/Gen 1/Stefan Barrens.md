@@ -1,6 +1,6 @@
 > [!infobox]+ Collapsible Infobox
 > # Stefan Barrens
-> ![[Stefan Gen 1.png]] 
+> ![[Stefan Barrens.gif]] 
 > ###### Names 
 > |  |  | 
 > | ---- | ---- | 

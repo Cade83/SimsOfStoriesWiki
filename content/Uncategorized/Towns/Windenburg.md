@@ -14,6 +14,7 @@
 - [[Laurent Windenburg Mansion]]
 - [[Villareal Estate]]
 - [[Le Chien House]]
+- [[Factory One]]
 
 ## Generation 2 Locations
 ### Public Locations
@@ -29,16 +30,18 @@
 - [[Harbor Quarter Gym]]
 - [[South Square Coffee]]
 - [[Discothèque Pan Europa]]
-- [[La Café de la Pain]]
+- [[Le Café de la Pain]]
 - [[Summer's Restaurant]]
 ### Residences
 - [[Villareal Estate]]
 - [[Le Chien House]]
+- [[Factory One]]
 - [[Dishman House]]
 - [[Mai House]]
 ### Miscellaneous 
 - [[Villareal Mausoleum]]
 - [[Mai Cemetery]]
+- [[Forest Clearing]]
 
 ## Generation 3 Locations
 ### Businesses

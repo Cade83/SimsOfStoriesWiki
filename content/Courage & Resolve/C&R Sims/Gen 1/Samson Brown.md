@@ -81,7 +81,7 @@ As they fell on tough financial times, Samson developed a dependency on alcohol,
 ## Relationships
 | | | | | 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-| <center>[![[Amelia Portrait Gen 1.png]]](<Amelia Brown>)<br>[[Amelia Brown]]| <center>[![[Stefan Portrait Gen 1.png]]](<Stefan Barrens>)<br>[[Stefan Barrens]]| <center>[![[Jamira Portrait Gen 1.png]]](<Jamira Brown>)<br>[[Jamira Brown]]| <center>[![[Cory Portrait Gen 1.png]]](<Cory Brown>)<br>[[Cory Brown]]|
+| <center>[![[Amelia Portrait Gen 1.png]]](<Amelia Brown>)<br>[[Amelia Brown]]| <center>[![[Stefan Portrait Gen 1.png]]](<Stefan Barrens>)<br>[[Stefan Barrens]]| <center>[![[Jamira Portrait Gen 1.png]]](<Jamira Brown.md>)<br>[[Jamira Brown]]| <center>[![[Cory Portrait Gen 1.png]]](<Cory Brown.md>)<br>[[Cory Brown]]|
 | <center>[![[Johnny Portrait Gen 2.png]]](<Johnny Zest>)<br>[[Johnny Zest]]|
 
 ## Appearances

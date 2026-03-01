@@ -66,7 +66,7 @@ Aarohi has a fear of loneliness. She clung onto [[Joe Barclay|Joe]] when he ente
 | | | | |
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
 | <center>[![[Joe Portrait Gen 2.png]]](<Joe Barclay>)<br>[[Joe Barclay]]|<center>[![[Teala Portrait Gen 4.png]]](<Teala Barclay>)<br>[[Teala Barclay]]|<center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]|<center>[![[Susan Portrait Gen 2.png]]](<Susan Harper>)<br>[[Susan Harper]]|
-| <center>[![[Victor Portrait Gen 2.png]]](<Victor Feng>)<br>[[Victor Feng]]|<center>[![[Lily Portrait Gen 2.png]]](<Lily Feng>)<br>[[Lily Feng]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai>)<br>[[Seth Mai]] |<center>[![[Leah Portrait Gen 2.png]]](<Leah Mai>)<br>[[Leah Mai]]
+| <center>[![[Victor Portrait Gen 2.png]]](<Victor Feng>)<br>[[Victor Feng]]|<center>[![[Lily Portrait Gen 2.png]]](<Lily Feng>)<br>[[Lily Feng]]|<center>[![[Seth Portrait Gen 2.png]]](<Seth Mai.md>)<br>[[Seth Mai]] |<center>[![[Leah Portrait Gen 2.png]]](<Leah Mai.md>)<br>[[Leah Mai]]
 |<center>[![[Akira Portrait Gen 2.png]]](<Akira Kibo.md>)<br>[[Akira Kibo]]| <center>[![[Salim Portrait Gen 2.png]]](<Salim Benali>)<br>[[Salim Benali]]| <center>[![[Hajar Portrait Gen 2.png]]](<Hajar Cresques>)<br>[[Hajar Cresques]]| <center>[![[Rebekah Portrait Gen 4.png]]](<Rebekah Gossett.md>)<br>[[Rebekah Gossett]]|
 
 ## Appearances

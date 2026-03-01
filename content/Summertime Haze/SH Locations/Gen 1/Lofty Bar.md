@@ -18,7 +18,7 @@
 The **Lofty Bar** is a bar in [[Willow Creek]] that appears in [[Summertime Haze]] and [[Dreams of Fame]].
 
 ## Profile
-The Lofty Bar is a high-end bar that sits on the top floor of one of the tallest buildings in [[Willow Creek]]. It regularly features renowned chefs and mixologists, and offers the top caterers in the area lucrative contracts for their residency. One of these top caterers was [[Hope Peck]], who ensured that her friend and former rival [[Jordan Crespo]] worked alongside her on her contracts.
+The Lofty Bar is a high-end bar that sits on the top floor of one of the tallest buildings in [[Willow Creek]]. It regularly features renowned chefs and mixologists, and offers the top caterers in the area lucrative residencies . For a time, one of these top caterers was [[Hope Peck]], who ensured that her friend and former rival [[Jordan Crespo]] worked alongside her as her sous chef.
 
 [[José Yépez]] took [[Summer Holiday]] to the Lofty Bar on the night he first proposed to her.
 

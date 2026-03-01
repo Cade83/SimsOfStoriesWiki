@@ -53,7 +53,7 @@ Cory also has a deep interest in his own family history, and how it relates to h
 ## Relationships
 | | | | | 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-| <center>[![[Amelia Portrait Gen 1.png]]](<Amelia Brown>)<br>[[Amelia Brown]]| <center>[![[Jamira Portrait Gen 2.png]]](<Jamira Brown>)<br>[[Jamira Brown]]| <center>[![[Booker Portrait Gen 2.png]]](<Booker Aston>)<br>[[Booker Aston]]| <center>[![[Sheena Portrait Gen 2.png]]](<Sheena Morrin>)<br>[[Sheena Morrin]]|
+| <center>[![[Amelia Portrait Gen 1.png]]](<Amelia Brown>)<br>[[Amelia Brown]]| <center>[![[Jamira Portrait Gen 2.png]]](<Jamira Brown.md>)<br>[[Jamira Brown]]| <center>[![[Booker Portrait Gen 2.png]]](<Booker Aston>)<br>[[Booker Aston]]| <center>[![[Sheena Portrait Gen 2.png]]](<Sheena Morrin>)<br>[[Sheena Morrin]]|
 | <center>[![[Samson Portrait Gen 1.png]]](<Samson Brown>)<br>[[Samson Brown]]|
 
 ## Appearances
