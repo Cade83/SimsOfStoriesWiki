@@ -45,7 +45,7 @@ As Jacqueline's personal servant, Jinelle was free to speak her mind, and anyone
 > ![[K.1.8.3.png]] 
 > Jinelle welcomes Josh to the Sanchez Mansion.
 
-One of the tasks Jacqueline approved of involved the capture of [[Josh Marks]]. Jinelle was supposed to be more involved, but she ended up merely assisting Ivailo with welcoming Josh to the mansion, infuriating Jacqueline. For the first time ever, Jacqueline requested that Jinelle keep a secret from Antonio, which Jinelle agreed to without question.
+One of Antonio's tasks Jacqueline approved of involved Jinelle playing a role in swaying [[Josh Marks]] into considering marrying Kiara. Jinelle was supposed to be more involved in getting Josh to the Sanchez Mansion for a meeting, but she ended up merely assisting Ivailo with welcoming Josh to the mansion, infuriating Jacqueline. For the first time ever, Jacqueline requested that Jinelle keep a secret from Antonio, which Jinelle agreed to without question.
 
 ## Personality
 Jinelle approaches the entirety of life with a great deal of exasperation. There's never a task she doesn't see as pointless or a waste of time, and with [[Jacqueline Sanchez|Jacqueline]]'s protection, she makes those thoughts known. Jinelle lacks any filter and will unabashedly speak her mind. Despite her distaste for labor, Jinelle has a great deal of respect for Jacqueline and is willing to set aside her reservations to do what she asks, even if she complains along the way.

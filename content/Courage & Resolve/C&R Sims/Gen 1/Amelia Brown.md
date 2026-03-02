@@ -1,6 +1,6 @@
 > [!infobox]+ Collapsible Infobox
 > # Amelia Brown
-> ![[Amelia Brown.gif]] 
+> ![[Amelia Gen 1 V3.png]] 
 > ###### Names 
 > |   |   | 
 > | ---- | ---- | 

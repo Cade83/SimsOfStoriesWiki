@@ -38,7 +38,25 @@ Jacqueline was born and raised in [[Selvadorada]]. From a young age, she felt as
 > ![[K.1.3.28.png]] 
 > Jacqueline struts around the mansion grounds with Kiara.
 
-Once in Windenburg, Antonio commissioned the [[Sanchez Mansion]], which was designed according to his and Jacqueline's every specification. Jacqueline gave birth to [[Kiara Sanchez|Kiara]] not long after they were able to move in. Antonio gave Jacqueline everything she could possibly want in life, from fabulous clothes, designer furniture, to even her own wing of the house. Jacqueline got to attend galas and fashion shows, one of these being where she met and recruited [[Jinelle Foster]], who she connected with quickly. While Antonio was often busy with work, Jacqueline dedicated herself to being a mother to Kiara, dressing her in the same fabulous clothes as her, reading to her, and roaming the grounds of the mansion with her. As Kiara grew up, she distanced herself from Jacqueline, which wounded her greatly. It never stopped her from trying, however.
+Once in Windenburg, Antonio commissioned the [[Sanchez Mansion]], which was designed according to his and Jacqueline's every specification. Jacqueline gave birth to [[Kiara Sanchez|Kiara]] not long after they were able to move in. Antonio gave Jacqueline everything she could possibly want in life, from fabulous clothes, designer furniture, to even her own wing of the house. Jacqueline got to attend galas and fashion shows, one of these being where she met and recruited [[Jinelle Foster]], who she connected with quickly. While Antonio was often busy with work, Jacqueline dedicated herself to being a mother to Kiara, dressing her in the same fabulous clothes as her, reading to her, and roaming the grounds of the mansion with her. 
+
+> [!caption|right]
+> ![[K.1.2.7.png]] 
+> Jacqueline tries to connect with Kiara.
+
+As Kiara grew up, she distanced herself from Jacqueline, which wounded her greatly. It never stopped Jacqueline from trying to reconnect with her, however. She tried to understand Kiara's interests, but her secondary goal of ensuring that Kiara grew up to a proper socialite like she was resulted in her giving regular criticism of Kiara's mannerisms and life choices. Their conversations typically ended in raised voices, and if things got bad enough, Jacqueline would arrange things like dinners with Kiara's long time friend, [[Luna Villareal]], but she'd keep the fact that she'd put it together quiet, as she knew Kiara wouldn't go if she knew.
+
+> [!caption|left]
+> ![[K.1.6.20.png]] 
+> Jacqueline asks Antonio to share his plan.
+
+When Kiara announced that she was moving out at a family dinner, Jacqueline was utterly distraught. She sealed herself and Jinelle in her wing of the house until Kiara left, unable to face the daughter who she felt had betrayed her. Regardless, it wasn't in her nature to give up. She took Jinelle and visited Kiara at her [[Kiara's House|home]], carrying a painting of the two of them as a gift. Things went poorly, but Jacqueline easily pieced together the fact that Antonio was providing significant financial support. She confronted Antonio, and he clued her into his plan to find Kiara a spouse they could control. Jacqueline was intrigued.
+
+> [!caption|right]
+> ![[K.1.8.38.png]] 
+> Jacqueline tells Jinelle to keep what Josh told them secret.
+
+The first suitor Jacqueline and Antonio identified was an architect named [[Josh Marks]]. They informed him of what they wanted out of him, then Jacqueline and Jinelle handled his makeover. In discussions with Josh, Jacqueline discovered that Antonio was doing a lot more behind her back by involving the [[Renegades]]. Furious, she instructed Jinelle to keep the fact that she knew the truth secret.
 
 ## Personality
 Jacqueline has a taste for the finer things in life. She wears exclusively designer, hired one of the most renowned interior designers to do her wing of the mansion with the most expensive furniture on the market, and refuses to wear the same outfit more than once. As a [[Windenburg]] socialite, Jacqueline regularly hosts lavish parties and is the most public facing member of her family, typically being the one to talk to press.

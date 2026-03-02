@@ -40,6 +40,18 @@ Antonio was born into poverty in [[Selvadorada]]. Unhappy with his situation, he
 
 Shortly after becoming wealthy, Antonio left things to Ivailo and returned to Selvadorada to make a significant investment in the community with his newfound wealth. While there, he ran into [[Jacqueline Sanchez|Jacqueline]] in the town plaza, and the two of them fell for each other hard and fast. She gleefully joined him on his return trip to Windenburg. Once back in Windenburg, Antonio commissioned the [[Sanchez Mansion]], and once it was complete, Ivailo stepped into the role of head servant, then Antonio and Jacqueline gave birth to [[Kiara Sanchez|Kiara]], who Antonio was determined to raise to inherit his business. He trained her throughout her childhood, and once Kiara was an adult, he started to test her by involving her in real life business scenarios to see where her head was at.
 
+> [!caption|right]
+> ![[K.1.5.3.png]] 
+> Antonio sends Kiara off to her new life.
+
+While it began in her teenage years, Kiara continued to lash out at her parent's efforts to raise her the way they saw fit. It began with her attempting to run away with [[Luna Villareal]], small escapes out into the city, and eventually, Kiara standing up at dinner and declaring that she was moving out. Antonio was unfazed. He wrested control of the conversation from Kiara, told her it would be good experience for her, and even bought her a [[Kiara's House|house]] and provided her with starting funds, despite Kiara's insistence that she didn't want it. He then moved into the next stage of his plan- requiring that Kiara's personal servant, [[Lyric Jarrel]], keep an eye on her and make regular reports back. Lyric switched out with Ivailo on occasion to keep her honest, as Antonio knew she'd grown close to his daughter.
+
+> [!caption|left]
+> ![[K.1.7.12.png]] 
+> Antonio meets with Max and the Renegades.
+
+For the next part of his plan to bring Kiara back, he clued in Jacqueline. The two of them would find Kiara the perfect man, and ensure that he was a man they could manipulate. Antonio and Jacqueline located ideal suitors themselves. In order to make contact, Antonio made a deal with [[Max Villareal]] and the [[Renegades]], a rag-tag group of nobodies Max led. The Renegades were told to encourage the suitors to meet Antonio and Jacqueline for a discussion at the Sanchez Mansion through any means necessary.
+
 ## Personality
 A very firm and commanding man, Antonio knows how to control the flow of any conversation so by the end of it, he's the one who comes out on top. It's a skill that has served him well professionally, as he's able to convince others of his viewpoints and silence any dissenting opinions through either force or platitudes. It's how he established his original relationship with [[Jacques Villareal|Jacques]] and his later partnership with [[Max Villareal|Max]] and the [[Renegades]]. He's also skilled at identifying other's vulnerabilities, which he exploits for loyalty, such as what was done with [[Ivailo Rodrigues|Ivailo]].
 
