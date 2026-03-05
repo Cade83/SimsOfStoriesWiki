@@ -33,7 +33,7 @@
 **Danna Villareal** is a character mentioned in the first chapter of [[Reborn from the Ash]]. She's the wife of [[Jacques Villareal|Jacques]].
 
 ## Profile
-Danna married [[Jacques Villareal|Jacques]] long before he was one of the wealthiest men in [[Windenburg]], but that doesn't mean she disliked money. Far from it. She celebrated Jacques's financial success, and her joy in his success likely played a large role in Jacques continuing to invest in property and eventually working with [[Antonio Sanchez]]. The pair of them gave birth to [[Hugo Villareal|Hugo]], then moved expanded Jacques's childhood home into the [[Villareal Estate]], where [[Luna Villareal|Luna]] and [[Max Villareal|Max]] were born.
+Danna married [[Jacques Villareal|Jacques]] long before he was one of the wealthiest men in [[Windenburg]], but that doesn't mean she disliked money. Far from it. She celebrated Jacques's financial success, and her joy in his success likely played a large role in Jacques continuing to invest in property and eventually working with [[Antonio Sanchez]]. The pair of them gave birth to [[Hugo Villareal|Hugo]], then expanded Jacques's childhood home into the [[Villareal Estate]], where [[Luna Villareal|Luna]] and [[Max Villareal|Max]] were born.
 
 > [!caption|left]
 > ![[K.1.3.40.png]] 
@@ -49,7 +49,7 @@ Danna loves fine things and money, but she also has a great deal of love for [[J
 ## Relationships
 | | | | |
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-| <center>[![[Jacques Portrait Gen 2.png]]](<Jacques Villareal>)<br>[[Jacques Villareal]]| <center>[![[Max Portrait Gen 3.png]]](<Max Villareal>)<br>[[Max Villareal]]| <center>[![[Luna Portrait Gen 3.png]]](<Luna Villareal>)<br>[[Luna Villareal]]|<center>[![[Hugo Portrait Gen 3.png]]](<Hugo Villareal>)<br>[[Hugo Villareal]]|
+| <center>[![[Jacques Portrait Gen 2.png]]](<Jacques Villareal>)<br>[[Jacques Villareal]]| <center>[![[Max Portrait Gen 3.png]]](<Max Villareal.md>)<br>[[Max Villareal]]| <center>[![[Luna Portrait Gen 3.png]]](<Luna Villareal.md>)<br>[[Luna Villareal]]|<center>[![[Hugo Portrait Gen 3.png]]](<Hugo Villareal.md>)<br>[[Hugo Villareal]]|
 
 ## Appearances
 ##### [[Reborn from the Ash]]

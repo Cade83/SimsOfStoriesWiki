@@ -42,7 +42,7 @@ In his prime, Jacques was considered to be one of the most powerful men in [[Win
 > ![[K.1.3.39.png]] 
 > Jacques meets with Hugo and Luna, excluding Max.
 
-Jacques's next child, [[Luna Villareal|Luna]], got to enjoy all of the privilege of growing up wealthy without any of the consequences, unlike Hugo, who Jacques has begun to train to take over for him on Antonio's recommendation. He kept Luna in mind as a distant second choice, however, as his youngest child, [[Max Villareal|Max]], was unpleasant and would almost certainly mishandle things. This led to Max and Danna feeling rather excluded, as Jacques would rarely ever clue either of them in on what he was thinking.
+Jacques's next child, [[Luna Villareal|Luna]], got to enjoy all of the privilege of growing up wealthy without any of the consequences, unlike Hugo, who Jacques has begun to train to take over for him on Antonio's recommendation. He kept Luna in mind as a distant second choice and taught her some things, however, as his youngest child, [[Max Villareal|Max]], was unpleasant and would almost certainly mishandle things. This led to Max and Danna feeling rather excluded, as Jacques would rarely ever clue either of them in on what he was thinking.
 
 > [!caption|right]
 > ![[1.9.3 v2.png]] 
@@ -85,7 +85,7 @@ After Danna's disappearance, Jacques became increasingly erratic. He would do th
 ## Relationships
 | | | | |
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-|<center>[![[Hugo Portrait Gen 3.png]]](<Hugo Villareal>)<br>[[Hugo Villareal]]| <center>[![[Luna Portrait Gen 3.png]]](<Luna Villareal>)<br>[[Luna Villareal]]| <center>[![[Max Portrait Gen 3.png]]](<Max Villareal>)<br>[[Max Villareal]]| <center>[![[Danna Portrait Gen 2.png]]](<Danna Villareal>)<br>[[Danna Villareal]]|
+|<center>[![[Hugo Portrait Gen 3.png]]](<Hugo Villareal.md>)<br>[[Hugo Villareal]]| <center>[![[Luna Portrait Gen 3.png]]](<Luna Villareal.md>)<br>[[Luna Villareal]]| <center>[![[Max Portrait Gen 3.png]]](<Max Villareal.md>)<br>[[Max Villareal]]| <center>[![[Danna Portrait Gen 2.png]]](<Danna Villareal>)<br>[[Danna Villareal]]|
 |<center>[![[Akira Portrait Gen 2.png]]](<Akira Kibo.md>)<br>[[Akira Kibo]]|<center>[![[Antonio Portrait Gen 3.png]]](<Antonio Sanchez>)<br>[[Antonio Sanchez]]|<center>[![[Jacqueline Portrait Gen 3.png]]](<Jacqueline Sanchez>)<br>[[Jacqueline Sanchez]]|<center>[![[Susan Portrait Gen 2.png]]](<Susan Harper>)<br>[[Susan Harper]]|
 | <center>[![[Ulrike Portrait Gen 2.png]]](<Ulrike Faust>)<br>[[Ulrike Faust]]| <center>[![[Eliza Portrait Gen 2.png]]](<Eliza Pancakes>)<br>[[Eliza Pancakes]]| <center>[![[James Portrait Gen 2.png]]](<James Mai>)<br>[[James Mai]]| <center>[![[Salim Portrait Gen 2.png]]](<Salim Benali>)<br>[[Salim Benali]]|
 

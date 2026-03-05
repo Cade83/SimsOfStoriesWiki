@@ -67,7 +67,7 @@ Jacqueline loves both [[Antonio Sanchez|Antonio]] and [[Kiara Sanchez|Kiara]] de
 | | | | | 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
 |<center>[![[Antonio Portrait Gen 3.png]]](<Antonio Sanchez>)<br>[[Antonio Sanchez]]| <center>[![[Kiara Portrait Gen 3.png]]](<Kiara Sanchez>)<br>[[Kiara Sanchez]]| <center>[![[Jinelle Portrait Gen 3.png]]](<Jinelle Foster>)<br>[[Jinelle Foster]]| <center>[![[Lyric Portrait Gen 3.png]]](<Lyric Jarrel>)<br>[[Lyric Jarrel]]|
-|<center>[![[Ivailo Portrait Gen 3.png]]](<Ivailo Rodrigues.md>)<br>[[Ivailo Rodrigues]]|
+|<center>[![[Ivailo Portrait Gen 3.png]]](<Ivailo Rodrigues.md>)<br>[[Ivailo Rodrigues]]|<center>[![[Jacques Portrait Gen 2.png]]](<Jacques Villareal>)<br>[[Jacques Villareal]]|
 
 ## Appearances
 ##### [[Reborn from the Ash]]

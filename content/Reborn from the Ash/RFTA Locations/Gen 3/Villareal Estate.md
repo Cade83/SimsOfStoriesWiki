@@ -33,7 +33,7 @@ After Jacques's passing, Hugo struggled with the upkeep, and the house began to 
 - [[Akira Kibo]]
 - [[Antonio Sanchez]]
 - [[Kiara Sanchez]]
-- [[Morgan Fryes]]
+- [[Morgan Fyres]]
 - [[Ulrike Faust]]
 - [[Ivan Dishman]]
 

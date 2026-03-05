@@ -38,7 +38,7 @@ Antonio was born into poverty in [[Selvadorada]]. Unhappy with his situation, he
 > ![[K.1.1.11.png]] 
 > Antonio tests Kiara.
 
-Shortly after becoming wealthy, Antonio left things to Ivailo and returned to Selvadorada to make a significant investment in the community with his newfound wealth. While there, he ran into [[Jacqueline Sanchez|Jacqueline]] in the town plaza, and the two of them fell for each other hard and fast. She gleefully joined him on his return trip to Windenburg. Once back in Windenburg, Antonio commissioned the [[Sanchez Mansion]], and once it was complete, Ivailo stepped into the role of head servant, then Antonio and Jacqueline gave birth to [[Kiara Sanchez|Kiara]], who Antonio was determined to raise to inherit his business. He trained her throughout her childhood, and once Kiara was an adult, he started to test her by involving her in real life business scenarios to see where her head was at.
+Now with enough money to consider himself wealthy, Antonio temporarily left things to Ivailo and returned to Selvadorada to make a significant investment in the community with his newfound wealth. While there, he ran into [[Jacqueline Sanchez|Jacqueline]] in the town plaza, and the two of them fell for each other hard and fast. She gleefully joined him on his return trip to Windenburg. Once back in Windenburg, Antonio commissioned the [[Sanchez Mansion]], and once it was complete, Ivailo stepped into the role of head servant, then Antonio and Jacqueline gave birth to [[Kiara Sanchez|Kiara]], who Antonio was determined to raise to inherit his business. He trained her throughout her childhood, and once Kiara was an adult, he started to test her by involving her in real life business scenarios to see where her head was at. 
 
 > [!caption|right]
 > ![[K.1.5.3.png]] 
@@ -60,9 +60,9 @@ Despite his apparent unapproachability, Antonio has a great deal of love for [[J
 ## Relationships
 | | | | | 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-| <center>[![[Jacqueline Portrait Gen 3.png]]](<Jacqueline Sanchez>)<br>[[Jacqueline Sanchez]]| <center>[![[Kiara Portrait Gen 3.png]]](<Kiara Sanchez>)<br>[[Kiara Sanchez]]| <center>[![[Ivailo Portrait Gen 3.png]]](<Ivailo Rodrigues.md>)<br>[[Ivailo Rodrigues]]| <center>[![[Hugo Portrait Gen 3.png]]](<Hugo Villareal>)<br>[[Hugo Villareal]]|
-| <center>[![[Jacques Portrait Gen 2.png]]](<Jacques Villareal>)<br>[[Jacques Villareal]]| <center>[![[Max Portrait Gen 3.png]]](<Max Villareal>)<br>[[Max Villareal]]| <center>[![[Morgan Portrait Gen 3.png]]](<Morgan Fryes>)<br>[[Morgan Fryes]]| <center>[![[Lyric Portrait Gen 3.png]]](<Lyric Jarrel>)<br>[[Lyric Jarrel]]|
-| <center>[![[Jinelle Portrait Gen 3.png]]](<Jinelle Foster>)<br>[[Jinelle Foster]]|<center>[![[Luna Portrait Gen 3.png]]](<Luna Villareal>)<br>[[Luna Villareal]]|
+| <center>[![[Jacqueline Portrait Gen 3.png]]](<Jacqueline Sanchez>)<br>[[Jacqueline Sanchez]]| <center>[![[Kiara Portrait Gen 3.png]]](<Kiara Sanchez>)<br>[[Kiara Sanchez]]| <center>[![[Ivailo Portrait Gen 3.png]]](<Ivailo Rodrigues.md>)<br>[[Ivailo Rodrigues]]| <center>[![[Hugo Portrait Gen 3.png]]](<Hugo Villareal.md>)<br>[[Hugo Villareal]]|
+| <center>[![[Jacques Portrait Gen 2.png]]](<Jacques Villareal>)<br>[[Jacques Villareal]]| <center>[![[Lyric Portrait Gen 3.png]]](<Lyric Jarrel>)<br>[[Lyric Jarrel]]| <center>[![[Max Portrait Gen 3.png]]](<Max Villareal.md>)<br>[[Max Villareal]]| <center>[![[Morgan Portrait Gen 3.png]]](<Morgan Fyres>)<br>[[Morgan Fyres]]|
+| <center>[![[Jinelle Portrait Gen 3.png]]](<Jinelle Foster>)<br>[[Jinelle Foster]]|
 
 ## Appearances
 ##### [[Reborn from the Ash]]

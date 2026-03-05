@@ -51,7 +51,7 @@ Ivailo is entirely dedicated to [[Antonio Sanchez|Antonio]]. He views himself as
 | | | | | 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
 |<center>[![[Antonio Portrait Gen 3.png]]](<Antonio Sanchez>)<br>[[Antonio Sanchez]]| <center>[![[Jacqueline Portrait Gen 3.png]]](<Jacqueline Sanchez>)<br>[[Jacqueline Sanchez]]| <center>[![[Kiara Portrait Gen 3.png]]](<Kiara Sanchez>)<br>[[Kiara Sanchez]]| <center>[![[Jinelle Portrait Gen 3.png]]](<Jinelle Foster>)<br>[[Jinelle Foster]]|
-| <center>[![[Lyric Portrait Gen 3.png]]](<Lyric Jarrel>)<br>[[Lyric Jarrel]]| <center>[![[Hugo Portrait Gen 3.png]]](<Hugo Villareal>)<br>[[Hugo Villareal]]|
+| <center>[![[Lyric Portrait Gen 3.png]]](<Lyric Jarrel>)<br>[[Lyric Jarrel]]| <center>[![[Hugo Portrait Gen 3.png]]](<Hugo Villareal.md>)<br>[[Hugo Villareal]]|
 
 ## Appearances
 ##### [[Reborn from the Ash]]

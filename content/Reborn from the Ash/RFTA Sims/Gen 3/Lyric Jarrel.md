@@ -53,7 +53,7 @@ Over her time with the Sanchez family, Lyric developed a closeness to Kiara, com
 | | | | | 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
 | <center>[![[Kiara Portrait Gen 3.png]]](<Kiara Sanchez>)<br>[[Kiara Sanchez]]|<center>[![[Antonio Portrait Gen 3.png]]](<Antonio Sanchez>)<br>[[Antonio Sanchez]]| <center>[![[Jacqueline Portrait Gen 3.png]]](<Jacqueline Sanchez>)<br>[[Jacqueline Sanchez]]| <center>[![[Jinelle Portrait Gen 3.png]]](<Jinelle Foster>)<br>[[Jinelle Foster]]|
-|<center>[![[Ivailo Portrait Gen 3.png]]](<Ivailo Rodrigues.md>)<br>[[Ivailo Rodrigues]]| <center>[![[Luna Portrait Gen 3.png]]](<Luna Villareal>)<br>[[Luna Villareal]]|
+|<center>[![[Ivailo Portrait Gen 3.png]]](<Ivailo Rodrigues.md>)<br>[[Ivailo Rodrigues]]| <center>[![[Luna Portrait Gen 3.png]]](<Luna Villareal.md>)<br>[[Luna Villareal]]|
 
 ## Appearances
 ##### [[Reborn from the Ash]]

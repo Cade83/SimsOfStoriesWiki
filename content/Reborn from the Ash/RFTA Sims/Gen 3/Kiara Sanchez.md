@@ -41,7 +41,7 @@ Born into wealth and privilege, Kiara was raised to inherit the Sanchez family f
 > ![[K.1.3.15.png]] 
 > Max catches Kiara and Luna.
 
-When she was a teenager, Antonio entered a business partnership with the Villareal family. He allowed Kiara to spend time at the [[Villareal Estate]] where she became fast friends with [[Luna Villareal]], who was around the same age. They bonded over their growing distaste for their respective families and fears that if they stayed, they'd become just like their parents. The two of them eventually tried to run away, but they were caught and ratted out by Luna's little brother, [[Max Villareal|Max]]. Kiara's freedom to visit the Villareal Estate was significantly more limited from that day forward.
+Antonio had a long-running business partnership with the Villareal family. When he went to the [[Villareal Estate]] for meetings and social calls, he occasionally brought Kiara along with him. Over the course of many trips to the estate, Kiara became good friends with [[Luna Villareal]], who was around the same age as her. They bonded over their growing distaste for their respective families and fears that if they stayed, they'd become just like their parents. The two of them eventually tried to run away, but they were caught and ratted out by Luna's little brother, [[Max Villareal|Max]]. Kiara's freedom to visit the Villareal Estate was significantly more limited from that day forward.
 
 > [!caption|right]
 > ![[K.1.4.16.png]] 
@@ -63,7 +63,7 @@ Luckily, Kiara does have some degree of awareness of her privilege. She doesn't 
 ## Relationships
 | | | | | 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-|<center>[![[Antonio Portrait Gen 3.png]]](<Antonio Sanchez>)<br>[[Antonio Sanchez]]| <center>[![[Jacqueline Portrait Gen 3.png]]](<Jacqueline Sanchez>)<br>[[Jacqueline Sanchez]]|<center>[![[Lyric Portrait Gen 3.png]]](<Lyric Jarrel>)<br>[[Lyric Jarrel]]| <center>[![[Luna Portrait Gen 3.png]]](<Luna Villareal>)<br>[[Luna Villareal]]|
+|<center>[![[Antonio Portrait Gen 3.png]]](<Antonio Sanchez>)<br>[[Antonio Sanchez]]| <center>[![[Jacqueline Portrait Gen 3.png]]](<Jacqueline Sanchez>)<br>[[Jacqueline Sanchez]]|<center>[![[Lyric Portrait Gen 3.png]]](<Lyric Jarrel>)<br>[[Lyric Jarrel]]| <center>[![[Luna Portrait Gen 3.png]]](<Luna Villareal.md>)<br>[[Luna Villareal]]|
 | <center>[![[Libby Portrait Gen 3.png]]](<Libby Honeycutt>)<br>[[Libby Honeycutt]]| <center>[![[Houda Portrait Gen 3.png]]](<Houda Choukri>)<br>[[Houda Choukri]]| <center>[![[Fatima Portrait Gen 3.png]]](<Fatima Mansouri>)<br>[[Fatima Mansouri]]| <center>[![[Akira Portrait Gen 3.png]]](<Akira Kibo.md>)<br>[[Akira Kibo]]| 
 
 ## Appearances
