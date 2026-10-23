@@ -26,7 +26,8 @@
 > |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
-> | Appearance Count | 26 | 
+> | Other Appearances | [[Reborn from the Ash]] | 
+> | Appearance Count | 27 | 
 > | First Appearance | Mai Legacy *1.2 - Karaoke Cash*
 
 > [!quote|author] Susan eulogizing James.
@@ -135,6 +136,10 @@ Susan enjoys poking a bit of fun at others, especially those she loves, making s
 |                                                                       |     |     |     |     |
 | --------------------------------------------------------------------- | --- | --- | --- | --- |
 | <center><font size=2>A New Heir<br><font size=3>**Appears** |     |     |     |     |
+
+#### Cameo Appearances
+###### [[Reborn from the Ash]] Chapter 1: Ties Stronger than Blood
+- 1.9 - A Man's History
 
 #### Categories
 #Mai_Legacy_Characters #Mai_Family #Main_Characters #Generation_2_Characters #Generation_3_Characters

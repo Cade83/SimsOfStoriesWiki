@@ -26,7 +26,7 @@
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
 > | Other Appearances | [[Reborn from the Ash]] | 
-> | Appearance Count | 4 | 
+> | Appearance Count | 5 | 
 > | First Appearance | Reborn from the Ash *1.3 - The Villareals*
 > | Final Appearance | Mai Legacy *1.9 - The Horrible Solution*
 
@@ -48,21 +48,27 @@ Jacques's next child, [[Luna Villareal|Luna]], got to enjoy all of the privilege
 > ![[1.9.3 v2.png]] 
 > Akira grinds on Jacques.
 
-After Danna disappeared under mysterious circumstances, Jacques thew himself back out into the world. He began to work with [[Ulrike Faust]], a renowned art curator, sourcing her valuable items for a cost, and she would find him paintings that fit his taste in return. Oddest of all was that Jacques started clubbing. It was while he was clubbing that he met [[Akira Kibo]], [[Susan Harper]], and [[Eliza Pancakes]]. He ran into Akira multiple times, and the two struck up a rapport.
+After Danna disappeared under mysterious circumstances, Jacques thew himself back out into the world. He began to work with [[Ulrike Faust]], a renowned art curator, sourcing her valuable items for a cost, and she would find him paintings that fit his taste in return. Jacques later introduced Ulrike to Antonio, and she became a valuable figure in their business proceedings. Oddest of all was that Jacques started clubbing. It was while he was clubbing that he met [[Akira Kibo]], [[Susan Harper]], and [[Eliza Pancakes]]. He ran into Akira multiple times, and the two struck up a rapport.
 
 > [!caption|left]
+> ![[K.1.9.23.png]] 
+> Jacques negotiates with Antonio.
+
+Jacques fell hard and fast for Akira, and began to believe that he would be a better fit for his eventual successor than any of his children. He went to negotiate with Antonio, bringing Akira along with him, hoping he'd impress Antonio. Akira, much to Jacques's frustration, wandered off in the [[Sanchez Mansion]] to somewhere he shouldn't have and irritated Antonio's wife, [[Jacqueline Sanchez|Jacqueline]], allowing Antonio to argue that Akira lacked maturity, business acumen, and was ultimately untrustworthy, striking down the possibility of Jacques ever bringing in Akira.
+
+> [!caption|right]
 > ![[1.4.6 v2.png]] 
 > Jacques throws Akira out for the day.
 
-Jacques and Akira eventually wed in a ceremony that was met with nationwide scorn, many believing it to be too soon after Danna's passing or simply inappropriate given Akira was barely of age. The media eventually wrote off Akira as a gold digger, and moved on, leaving the two of them to struggle with a difficult relationship. Jacques was constantly struck by pangs of jealousy over Akira's close male friends, leading to conflict with [[Salim Benali]], and later, [[James Mai]]. There were even times he didn't like Akira at all, and wanted him far away from him, so he paid for an apartment in [[San Myshuno]] for him.
+Regardless of Jacques's failure to bring Akira in on his business, he and Akira eventually wed in a ceremony that was met with nationwide scorn, many believing it to be too soon after Danna's passing or simply inappropriate given Akira was barely of age. The media eventually wrote off Akira as a gold digger, and moved on. Throughout their marriage, their relationship became increasingly difficult. Jacques was constantly struck by pangs of jealousy over Akira's close male friends, leading to conflict with [[Salim Benali]], and later, [[James Mai]]. Antonio had also placed seeds of doubt in his mind about Akira's trustworthiness. There were even times he didn't like Akira at all, and wanted him far away from him, so he paid for an apartment in [[San Myshuno]] for him.
 
-> [!caption|right]
+> [!caption|left]
 > ![[1.6.5 v2.png]] 
 > James meets with Jacques and Akira.
 
 Things got really ugly between Jacques and James, especially once Jacques requested to meet James and James stood up for Akira. Swearing his vengeance on James, Jacques later attempted to steal James's legacy armor, knowing that doing so would end the legacy due to his friendship with [[Victor Feng|Victor]] and [[Lily Feng]]. What Jacques didn't count on, however, was that James would be so poor that he wouldn't have a rear exit. His arrest was widely publicized.
 
-> [!caption|left]
+> [!caption|right]
 > ![[1.9.1 v2.png]] 
 > Akira sits at Jacques's bedside.
 
@@ -73,14 +79,14 @@ Jacques was unable to continue to antagonize James, as his health continued to d
 > ![[1.9.11 v2.png]] 
 > Jacques's funeral.
 
-Jacques's funeral was held in the [[Villareal Mausoleum]], and was attended by his family, friends, and the media. He was mourned by only a select few, but his passing rocked Windenburg. Hugo took over his business ventures with Antonio for him, and did his best to manage the workload Jacques had been dealing with for years.
+Jacques's funeral was held in the [[Villareal Mausoleum]], and was attended by his family, friends, and the media. He was mourned by only a select few, but his passing rocked Windenburg. In his absence, Akira stepped in for a time to ensure each of his children landed on their feet. Hugo took over his business ventures with Antonio for him, and did his best to manage the workload Jacques had been dealing with for years.
 
 Privately, Luna and Max were glad he was gone, which was something they would admit to each other many years later. 
 
 ## Personality
-Jacques dedicated his life to the pursuit of wealth. So much so that he lost himself in it. While it initially began with him wanting the best for his family, he lost his ability to connect with [[Danna Villareal|Danna]], and [[Hugo Villareal|Hugo]] became more of an employee to him than a son with his own dreams and passions. [[Luna Villareal|Luna]] and [[Max Villareal|Max]] would later recognize that they were lucky to not have been old enough for Jacques to do the same to him.
+Jacques dedicated his life to the pursuit of wealth. So much so that he lost himself in it. While it initially began with him wanting the best for his family, he lost his ability to connect with [[Danna Villareal|Danna]], and [[Hugo Villareal|Hugo]] became more of an employee to him than a son with his own dreams and passions. [[Luna Villareal|Luna]] and [[Max Villareal|Max]] would later recognize that they were lucky to not have been old enough for Jacques to do the same to them.
 
-After Danna's disappearance, Jacques became increasingly erratic. He would do things completely outside of his character entirely for the sake of doing them, and his relationship with [[Akira Kibo|Akira]] and the fits of jealousy he'd have over him baffled even the oldest of his friends. His treatment of Akira was also hard to predict, as while it was clear he loved him, there were times where he yelled at him until he left the premises. Whether or not that came from a place of fear stemming from Danna's fate, or was a sudden dislike of Akira is hard to say.
+After Danna's disappearance, Jacques became increasingly erratic. He would do things completely outside of his character entirely for the sake of doing them, and his relationship with [[Akira Kibo|Akira]] and the fits of jealousy and doubt he'd have over him baffled even the oldest of his friends. His treatment of Akira was also hard to predict, as while it was clear he loved him, there were times where he yelled at him until he left the premises. Whether or not that came from a place of fear stemming from Danna's fate, Antonio's doubt in Akira, or was merely a sudden dislike of Akira is hard to say.
 
 ## Relationships
 | | | | |
@@ -107,7 +113,7 @@ After Danna's disappearance, Jacques became increasingly erratic. He would do th
 | | | | | |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | <center><font size=2>The Sanchez Family<br><font size=3>*Absent*           | <center><font size=2>An Heiress' Duty<br><font size=3>*Absent*| <center><font size=2>The Villareals<br><font size=3>**Appears** | <center><font size=2>Choosing a Different Path<br><font size=3>*Absent*| <center><font size=2>Ordinary World, Ordinary People<br><font size=3>*Absent* |
-| <center><font size=2>Jacqueline's Visit<br><font size=3>***Mentioned*** | <center><font size=2>The Renegades<br><font size=3>***Mentioned*** | <center><font size=2>Akira<br><font size=3>*Absent*|
+| <center><font size=2>Jacqueline's Visit<br><font size=3>***Mentioned*** | <center><font size=2>The Renegades<br><font size=3>***Mentioned*** | <center><font size=2>Akira<br><font size=3>*Absent*| <center><font size=2>A Man's History<br><font size=3>**Appears**  |
 
 #### Categories
-#Mai_Legacy_Characters #Villareal_Family #Antagonistic_Characters #Generation_2_Characters
+#Mai_Legacy_Characters #Reborn_from_the_Ash_Characters #Villareal_Family #Antagonistic_Characters #Generation_2_Characters

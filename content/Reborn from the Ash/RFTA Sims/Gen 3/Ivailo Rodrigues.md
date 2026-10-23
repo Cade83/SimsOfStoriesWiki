@@ -24,7 +24,7 @@
 > |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
-> | Appearance Count | 5 | 
+> | Appearance Count | 6 | 
 > | First Appearance | Reborn from the Ash *1.2 - An Heiress's Duty*
 
 **Ivailo Rodrigues** is a character introduced in the first chapter of [[Reborn from the Ash]]. He's dedicated his life to [[Antonio Sanchez]].
@@ -59,7 +59,7 @@ Ivailo is entirely dedicated to [[Antonio Sanchez|Antonio]]. He views himself as
 | | | | | |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | <center><font size=2>The Sanchez Family<br><font size=3>*Absent*           | <center><font size=2>An Heiress' Duty<br><font size=3>**Appears**| <center><font size=2>The Villareals<br><font size=3>***Mentioned***| <center><font size=2>Choosing a Different Path<br><font size=3>*Absent*| <center><font size=2>Ordinary World, Ordinary People<br><font size=3>**Appears** |
-| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>**Appears** | <center><font size=2>Akira<br><font size=3>**Appears**|
+| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>**Appears** | <center><font size=2>Akira<br><font size=3>**Appears**|<center><font size=2>A Man's History<br><font size=3>**Appears**  | 
 
 #### Categories
 #Reborn_from_the_Ash_Characters #Main_Characters #Antagonistic_Characters #Generation_3_Characters

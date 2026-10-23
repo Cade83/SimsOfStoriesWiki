@@ -26,7 +26,7 @@
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
 > | Other Appearances | [[Mai Legacy]] | 
-> | Appearance Count | 5 | 
+> | Appearance Count | 6 | 
 > | First Appearance | Mai Legacy *1.9 - The Horrible Solution*
 
 **Luna Villareal** is a character in the first chapter of [[Reborn from the Ash]]. She's the daughter of [[Jacques Villareal|Jacques]] and a longtime friend of [[Kiara Sanchez]].
@@ -55,7 +55,7 @@ Unlike her actual family, Luna bonded with [[Kiara Sanchez|Kiara]] easily. They 
 | | | | | 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
 |<center>[![[Kiara Portrait Gen 3.png]]](<Kiara Sanchez>)<br>[[Kiara Sanchez]]| <center>[![[Max Portrait Gen 3.png]]](<Max Villareal.md>)<br>[[Max Villareal]]| <center>[![[Hugo Portrait Gen 3.png]]](<Hugo Villareal.md>)<br>[[Hugo Villareal]]| <center>[![[Danna Portrait Gen 2.png]]](<Danna Villareal>)<br>[[Danna Villareal]]|
-|<center>[![[Jacques Portrait Gen 2.png]]](<Jacques Villareal>)<br>[[Jacques Villareal]]|
+|<center>[![[Jacques Portrait Gen 2.png]]](<Jacques Villareal>)<br>[[Jacques Villareal]]|<center>[![[Lyric Portrait Gen 3.png]]](<Lyric Jarrel>)<br>[[Lyric Jarrel]]|<center>[![[Akira Portrait Gen 2.png]]](<Akira Kibo>)<br>[[Akira Kibo]]|
 
 ## Appearances
 ##### [[Reborn from the Ash]]
@@ -63,7 +63,7 @@ Unlike her actual family, Luna bonded with [[Kiara Sanchez|Kiara]] easily. They 
 | | | | | |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | <center><font size=2>The Sanchez Family<br><font size=3>**Appears** | <center><font size=2>An Heiress' Duty<br><font size=3>*Absent* | <center><font size=2>The Villareals<br><font size=3>**Appears**| <center><font size=2>Choosing a Different Path<br><font size=3>***Mentioned***| <center><font size=2>Ordinary World, Ordinary People<br><font size=3>*Absent*|
-| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>**Appears** | <center><font size=2>Akira<br><font size=3>*Absent*|
+| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>**Appears** | <center><font size=2>Akira<br><font size=3>*Absent*|<center><font size=2>A Man's History<br><font size=3>**Appears**  | 
 
 #### Cameo Appearances
 ###### [[Mai Legacy]] Generation 1: James

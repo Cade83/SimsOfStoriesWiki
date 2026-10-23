@@ -26,7 +26,7 @@
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
 > | Other Appearances | [[Mai Legacy]] | 
-> | Appearance Count | 3 | 
+> | Appearance Count | 4 | 
 > | First Appearance | Mai Legacy *1.9 - The Horrible Solution*
 
 **Hugo Villareal** is a character in the first chapter of [[Reborn from the Ash]]. He inherited the business of his father, [[Jacques Villareal|Jacques]], and carries it on in his stead.
@@ -47,7 +47,7 @@ Hugo feels deeply inadequate and ill-suited for the life he was given. He allowe
 | | | | | 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
 | <center>[![[Jacques Portrait Gen 2.png]]](<Jacques Villareal>)<br>[[Jacques Villareal]]|<center>[![[Antonio Portrait Gen 3.png]]](<Antonio Sanchez>)<br>[[Antonio Sanchez]]| <center>[![[Luna Portrait Gen 3.png]]](<Luna Villareal>)<br>[[Luna Villareal]]| <center>[![[Max Portrait Gen 3.png]]](<Max Villareal.md>)<br>[[Max Villareal]]|
-| <center>[![[Ivailo Portrait Gen 3.png]]](<Ivailo Rodrigues>)<br>[[Ivailo Rodrigues]]|<center>[![[Danna Portrait Gen 2.png]]](<Danna Villareal>)<br>[[Danna Villareal]]|
+| <center>[![[Ivailo Portrait Gen 3.png]]](<Ivailo Rodrigues>)<br>[[Ivailo Rodrigues]]|<center>[![[Danna Portrait Gen 2.png]]](<Danna Villareal>)<br>[[Danna Villareal]]|<center>[![[Akira Portrait Gen 2.png]]](<Akira Kibo>)<br>[[Akira Kibo]]|
 
 ## Appearances
 ##### [[Reborn from the Ash]]
@@ -55,7 +55,7 @@ Hugo feels deeply inadequate and ill-suited for the life he was given. He allowe
 | | | | | |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | <center><font size=2>The Sanchez Family<br><font size=3>**Appears** | <center><font size=2>An Heiress' Duty<br><font size=3>*Absent* | <center><font size=2>The Villareals<br><font size=3>**Appears**| <center><font size=2>Choosing a Different Path<br><font size=3>*Absent* | <center><font size=2>Ordinary World, Ordinary People<br><font size=3>*Absent*|
-| <center><font size=2>Jacqueline's Visit<br><font size=3>***Mentioned*** | <center><font size=2>The Renegades<br><font size=3>***Mentioned*** | <center><font size=2>Akira<br><font size=3>*Absent*|
+| <center><font size=2>Jacqueline's Visit<br><font size=3>***Mentioned*** | <center><font size=2>The Renegades<br><font size=3>***Mentioned*** | <center><font size=2>Akira<br><font size=3>*Absent*|<center><font size=2>A Man's History<br><font size=3>**Appears**  | 
 
 #### Cameo Appearances
 ###### [[Mai Legacy]] Generation 1: James

@@ -26,7 +26,7 @@
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
 > | Other Appearances | [[Mai Legacy]] | 
-> | Appearance Count | 5 | 
+> | Appearance Count | 6 | 
 > | First Appearance | Mai Legacy *1.9 - The Horrible Solution*
 
 **Max Villareal** is a character in the first chapter of [[Reborn from the Ash]]. He's the youngest heir to the Villareal fortune and the leader of the [[Renegades]].
@@ -74,7 +74,7 @@ However, the few that Max was able to connect with became people he valued highl
 | | | | | |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | <center><font size=2>The Sanchez Family<br><font size=3>***Mentioned*** | <center><font size=2>An Heiress' Duty<br><font size=3>*Absent* | <center><font size=2>The Villareals<br><font size=3>**Appears**| <center><font size=2>Choosing a Different Path<br><font size=3>***Mentioned***| <center><font size=2>Ordinary World, Ordinary People<br><font size=3>*Absent*|
-| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>**Appears** | <center><font size=2>Akira<br><font size=3>**Appears**|
+| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>**Appears** | <center><font size=2>Akira<br><font size=3>**Appears**|<center><font size=2>A Man's History<br><font size=3>**Appears**  | 
 
 #### Cameo Appearances
 ###### [[Mai Legacy]] Generation 1: James
