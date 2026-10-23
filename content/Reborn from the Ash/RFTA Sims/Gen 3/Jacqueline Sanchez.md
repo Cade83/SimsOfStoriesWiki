@@ -26,7 +26,7 @@
 > |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
-> | Appearance Count | 6 | 
+> | Appearance Count | 7 | 
 > | First Appearance | Reborn from the Ash *1.1 - The Sanchez Family*
 
 **Jacqueline Sanchez** is a character from the first chapter of [[Reborn from the Ash]].  She's married to [[Antonio Sanchez|Antonio]] and is the mother of [[Kiara Sanchez|Kiara]].
@@ -75,7 +75,7 @@ Jacqueline loves both [[Antonio Sanchez|Antonio]] and [[Kiara Sanchez|Kiara]] de
 | | | | | |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | <center><font size=2>The Sanchez Family<br><font size=3>**Appears**          | <center><font size=2>An Heiress' Duty<br><font size=3>**Appears**| <center><font size=2>The Villareals<br><font size=3>**Appears**| <center><font size=2>Choosing a Different Path<br><font size=3>***Mentioned***| <center><font size=2>Ordinary World, Ordinary People<br><font size=3>**Appears** |
-| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>***Mentioned***| <center><font size=2>Akira<br><font size=3>**Appears**|
+| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>***Mentioned***| <center><font size=2>Akira<br><font size=3>**Appears**|<center><font size=2>A Man's History<br><font size=3>**Appears**  | 
 
 #### Categories
 #Reborn_from_the_Ash_Characters #Sanchez_Family #Main_Characters #Antagonistic_Characters #Generation_3_Characters 

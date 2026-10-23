@@ -25,7 +25,7 @@
 > |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
-> | Appearance Count | 8 | 
+> | Appearance Count | 9 | 
 > | First Appearance | Reborn from the Ash *1.1 - The Sanchez Family*
 
 **Kiara Sanchez** is the protagonist of the first chapter of [[Reborn from the Ash]]. She's the daughter of [[Antonio Sanchez|Antonio]] and [[Jacqueline Sanchez]], and was raised to inherit their family fortune and business.
@@ -72,7 +72,7 @@ Luckily, Kiara does have some degree of awareness of her privilege. She doesn't 
 | | | | | |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | <center><font size=2>The Sanchez Family<br><font size=3>**Appears**          | <center><font size=2>An Heiress' Duty<br><font size=3>**Appears**| <center><font size=2>The Villareals<br><font size=3>**Appears**| <center><font size=2>Choosing a Different Path<br><font size=3>**Appears**| <center><font size=2>Ordinary World, Ordinary People<br><font size=3>**Appears** |
-| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>**Appears** | <center><font size=2>Akira<br><font size=3>**Appears** |
+| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>**Appears** | <center><font size=2>Akira<br><font size=3>**Appears** |<center><font size=2>A Man's History<br><font size=3>**Appears**  | 
 
 #### Categories
 #Reborn_from_the_Ash_Characters #Sanchez_Family #Main_Characters #Generation_3_Characters
