@@ -11,6 +11,7 @@ Reborn from the Ash is the fifth occurring Sims Story, featuring the [[Kiara San
 * [Part 1.6 - Jacqueline's Visit](https://thesimsofstories.weebly.com/16---jacquelines-visit.html)
 * [Part 1.7 - The Renegades](https://thesimsofstories.weebly.com/17---the-renegades.html)
 * [Part 1.8 - Akira](https://thesimsofstories.weebly.com/18---akira.html)
+* [Part 1.9 - A Man's History](https://thesimsofstories.weebly.com/19---a-mans-history.html)
 
 ##### Characters
 | | | | | 
@@ -24,5 +25,5 @@ Reborn from the Ash is the fifth occurring Sims Story, featuring the [[Kiara San
 ###### Minor Characters and Major Cameos
 | | | | | 
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-|<center>[![[Jacques Portrait Gen 2.png]]](<Jacques Villareal>)<br>[[Jacques Villareal]]|<center>[![[Danna Portrait Gen 2.png]]](<Danna Villareal>)<br>[[Danna Villareal]]|<center>[![[Jany Portrait Gen 3.png]]](<Jany Marks>)<br>[[Jany Marks]]|<center>[![[Grant Portrait Gen 3.png]]](<Grant Broussard>)<br>[[Grant Broussard]]|
-|<center>[![[Salim Portrait Gen 3.png]]](<Salim Benali>)<br>[[Salim Benali]]|<center>[![[Lonna Portrait Gen 3.png]]](<Lonna Landgraab>)<br>[[Lonna Landgraab]]|
+|<center>[![[Jacques Portrait Gen 2.png]]](<Jacques Villareal>)<br>[[Jacques Villareal]]|<center>[![[Danna Portrait Gen 2.png]]](<Danna Villareal>)<br>[[Danna Villareal]]|<center>[![[Ulrike Portrait Gen 3.png]]](<Ulrike Faust>)<br>[[Ulrike Faust]]|<center>[![[Jany Portrait Gen 3.png]]](<Jany Marks>)<br>[[Jany Marks]]|
+|<center>[![[Grant Portrait Gen 3.png]]](<Grant Broussard>)<br>[[Grant Broussard]]|<center>[![[Salim Portrait Gen 3.png]]](<Salim Benali>)<br>[[Salim Benali]]|<center>[![[Lonna Portrait Gen 3.png]]](<Lonna Landgraab>)<br>[[Lonna Landgraab]]|

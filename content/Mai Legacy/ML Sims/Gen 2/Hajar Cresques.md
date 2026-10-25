@@ -111,4 +111,4 @@ Hajar is also defined by her dedication. Once she settles on something, she will
 | <center><font size=2>The End of a Generation<br><font size=3>***Mentioned***  |
 
 #### Categories
-#Mai_Legacy_Characters #Le_Chien_Family #Main_Characters #Antagonistic_Characters  #Generation_2_Characters #Witches
+#Mai_Legacy_Characters #Le_Chien_Family #Antagonistic_Characters  #Generation_2_Characters #Witches

@@ -64,7 +64,7 @@ Jinelle's position grants her access to fancy clothing and respect from her peer
 | | | | | |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | <center><font size=2>The Sanchez Family<br><font size=3>Cameo | <center><font size=2>An Heiress' Duty<br><font size=3>**Appears**| <center><font size=2>The Villareals<br><font size=3>**Appears**| <center><font size=2>Choosing a Different Path<br><font size=3>**Appears**| <center><font size=2>Ordinary World, Ordinary People<br><font size=3>***Mentioned*** |
-| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>*Absent* | <center><font size=2>Akira<br><font size=3>**Appears**|
+| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>*Absent* | <center><font size=2>Akira<br><font size=3>**Appears**|<center><font size=2>A Man's History<br><font size=3>*Absent*  | 
 
 #### Categories
 #Reborn_from_the_Ash_Characters #Main_Characters #Generation_3_Characters
