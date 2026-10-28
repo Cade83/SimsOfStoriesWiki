@@ -19,7 +19,7 @@
 > | ---- | ---- | 
 > | Lived In |[[Willow Creek]]<br>[[Newcrest]]| 
 > | Home |[[Goth Mansion]]<br>[[Brooks House]]| 
-> | Career | Presidential Secretary | 
+> | Career | Presidential Secretary<br>[[President]] | 
 > 
 > ##### Story Info
 > |  |  | 
@@ -32,8 +32,7 @@
 **Cassandra Goth** is a character introduced in the first chapter of [[Just Starting Out]]. She's the daughter of [[Mortimer Goth|Mortimer]] and [[Bella Goth]], the most important couple in [[Willow Creek]].
 
 ## Profile
-
-<br style="clear:both; margin: 0; padding: 0" />
+Cassandra grew up in the [[Goth Mansion]] as a member of the prestigious Goth family, long known to be the family that runs [[Willow Creek]].
 
 ## Personality
 
@@ -74,7 +73,7 @@
 - 1.15 - Headlights in the Night
 
 ###### [[Lies and Deceit]] Chapter 1: No Love Lost
-- 1.1 - 1.1 - Life Goes On
+- 1.1 - Life Goes On
 
 #### Categories
 #Just_Starting_Out_Characters #Goth_Family #Main_Characters #Generation_1_Characters #Presidents

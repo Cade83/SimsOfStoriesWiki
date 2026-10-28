@@ -24,7 +24,7 @@
 > |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
-> | Appearance Count | 6 | 
+> | Appearance Count | 7 | 
 > | First Appearance | Reborn from the Ash *1.2 - An Heiress's Duty*
 
 > [!quote|author] Jinelle to Josh.
@@ -45,7 +45,7 @@ As Jacqueline's personal servant, Jinelle was free to speak her mind, and anyone
 > ![[K.1.8.3.png]] 
 > Jinelle welcomes Josh to the Sanchez Mansion.
 
-One of Antonio's tasks Jacqueline approved of involved Jinelle playing a role in swaying [[Josh Marks]] into considering marrying Kiara. Jinelle was supposed to be more involved in getting Josh to the Sanchez Mansion for a meeting, but she ended up merely assisting Ivailo with welcoming Josh to the mansion, infuriating Jacqueline. For the first time ever, Jacqueline requested that Jinelle keep a secret from Antonio, which Jinelle agreed to without question.
+One of Antonio's tasks Jacqueline approved of involved Jinelle playing a role in swaying [[Josh Marks]] into considering marrying Kiara. Jinelle was supposed to be more involved in getting Josh to the Sanchez Mansion for a meeting, but she ended up merely assisting Ivailo with welcoming Josh to the mansion, infuriating Jacqueline. For the first time ever, Jacqueline requested that Jinelle keep a secret from Antonio, which Jinelle agreed to without question. This later evolved into Jinelle being asked to get information out of Josh for Jacqueline's benefit.
 
 ## Personality
 Jinelle approaches the entirety of life with a great deal of exasperation. There's never a task she doesn't see as pointless or a waste of time, and with [[Jacqueline Sanchez|Jacqueline]]'s protection, she makes those thoughts known. Jinelle lacks any filter and will unabashedly speak her mind. Despite her distaste for labor, Jinelle has a great deal of respect for Jacqueline and is willing to set aside her reservations to do what she asks, even if she complains along the way.
@@ -64,7 +64,7 @@ Jinelle's position grants her access to fancy clothing and respect from her peer
 | | | | | |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | <center><font size=2>The Sanchez Family<br><font size=3>Cameo | <center><font size=2>An Heiress' Duty<br><font size=3>**Appears**| <center><font size=2>The Villareals<br><font size=3>**Appears**| <center><font size=2>Choosing a Different Path<br><font size=3>**Appears**| <center><font size=2>Ordinary World, Ordinary People<br><font size=3>***Mentioned*** |
-| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>*Absent* | <center><font size=2>Akira<br><font size=3>**Appears**|
+| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>*Absent* | <center><font size=2>Akira<br><font size=3>**Appears**|<center><font size=2>A Man's History<br><font size=3>*Absent*  |<center><font size=2>Lyric’s Warning<br><font size=3>**Appears** |  
 
 #### Categories
 #Reborn_from_the_Ash_Characters #Main_Characters #Generation_3_Characters

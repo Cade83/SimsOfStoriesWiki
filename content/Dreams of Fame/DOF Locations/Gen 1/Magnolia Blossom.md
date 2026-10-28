@@ -1,6 +1,6 @@
 > [!infobox]+ Collapsible Infobox
 > # Magnolia Blossom Park
-> ![[s.1.2.5.png]] 
+> ![[S.1.2.5.png]] 
 > ###### Location Information
 > |  |  | 
 > | ---- | ---- | 

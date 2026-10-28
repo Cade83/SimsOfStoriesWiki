@@ -30,7 +30,7 @@ It was small, but cozy, and John and Kayla were able to comfortably begin their 
 
 ## Gallery
 ### Generation 1
-#### First Version
+##### First Version
 > [!caption|left]
 > ![[G.1.9.6.png]] 
 > The kitchen, dining room, and John's office.
@@ -55,7 +55,7 @@ It was small, but cozy, and John and Kayla were able to comfortably begin their 
 
 <br style="clear:both; margin: 0; padding: 0" />
 
-#### Second Version
+##### Second Version
 
 > [!caption|left]
 > ![[G.1.18.5 V2.png]] 

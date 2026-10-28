@@ -12,7 +12,7 @@
 > | Primary Story | [[Reborn from the Ash]] | 
 > | Other Appearances |[[Mai Legacy]] | 
 > | Generation | [[Third Generation]]|
-> | Appearance Count | 6 | 
+> | Appearance Count | 7 | 
 > | First Appearance | Mai Legacy *1.4 - Falling Out, Building Up*
 
 The **Villareal Estate** is a location in [[Reborn from the Ash]]. Located on the [[Windenburg]] Island, it's the home of [[Jacques Villareal]] and his family.
@@ -38,18 +38,40 @@ After Jacques's passing, Hugo struggled with the upkeep, and the house began to 
 - [[Ivan Dishman]]
 
 ## Gallery
+##### Jacques in Charge
+> [!caption|left]
+> ![[K.1.9.47.png]] 
+> The grounds.
+
+> [!caption|left]
+> ![[K.1.9.48.png]] 
+> The living room.
+
+> [!caption|left]
+> ![[K.1.9.55.png]] 
+> The kitchen.
+
+> [!caption|left]
+> ![[1.9.1 v2.png]] 
+> Jacques's bedroom.
+
+<br style="clear:both; margin: 0; padding: 0" />
+
+> [!caption|left]
+> ![[K.1.3.10.png]] 
+> Luna's childhood bedroom.
+
+<br style="clear:both; margin: 0; padding: 0" />
+
+##### Hugo  in Charge
 
 > [!caption|left]
 > ![[K.1.3.33.png]] 
 > The dining room.
 
 > [!caption|left]
-> ![[1.9.1 v2.png]] 
-> Jacques's bedroom.
-
-> [!caption|left]
-> ![[K.1.3.10.png]] 
-> Luna's childhood bedroom.
+> ![[K.1.9.11.png]] 
+> Luna's bedroom.
 
 > [!caption|left]
 > ![[K.1.7.2.png]] 
@@ -79,7 +101,7 @@ After Jacques's passing, Hugo struggled with the upkeep, and the house began to 
 | | | | | |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | <center><font size=2>The Sanchez Family<br><font size=3>*Absent*           | <center><font size=2>An Heiress' Duty<br><font size=3>*Absent*| <center><font size=2>The Villareals<br><font size=3>**Appears** | <center><font size=2>Choosing a Different Path<br><font size=3>*Absent*| <center><font size=2>Ordinary World, Ordinary People<br><font size=3>*Absent* |
-| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>**Appears** | <center><font size=2>Akira<br><font size=3>**Appears** |
+| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>**Appears** | <center><font size=2>Akira<br><font size=3>**Appears** | <center><font size=2>A Man's History<br><font size=3>**Appears**  |<center><font size=2>Lyric’s Warning<br><font size=3>*Absent* | 
 
 #### Categories
 #Reborn_from_the_Ash_Locations #Residence #Villareal_Family #Generation_2_Locations #Generation_3_Locations

@@ -25,7 +25,7 @@
 > |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
-> | Appearance Count | 8 | 
+> | Appearance Count | 10 | 
 > | First Appearance | Reborn from the Ash *1.1 - The Sanchez Family*
 
 **Kiara Sanchez** is the protagonist of the first chapter of [[Reborn from the Ash]]. She's the daughter of [[Antonio Sanchez|Antonio]] and [[Jacqueline Sanchez]], and was raised to inherit their family fortune and business.
@@ -53,7 +53,15 @@ Kiara sullenly followed in her parents footsteps for many years to follow; learn
 > ![[K.1.5.19.png]] 
 > Kiara meets her new neighbors.
 
-On the day Kiara left, Antonio presented her with the keys to [[Kiara's House|a house]] he'd picked out for her personally despite Kiara's protests. The house was unimpressive, and she was robbed within minutes of getting there, but Kiara was determined. She went and met her neighbors, two women named [[Libby Honeycutt]] and [[Houda Choukri]] who were with their friend [[Fatima Mansouri]].  Kiara introduced the the three of them to Luna and Lyric, wanting for people from both versions of her life to connect.
+On the day Kiara left, Antonio presented her with the keys to [[Kiara's House|a house]] he'd picked out for her personally despite Kiara's protests. The house was unimpressive, and she was robbed within minutes of getting there, but Kiara was determined. She went and met her neighbors, two women named [[Libby Honeycutt]] and [[Houda Choukri]] who were with their friend [[Fatima Mansouri]].  Kiara later introduced the the three of them to Luna and Lyric, wanting for people from both versions of her life to connect.
+
+> [!caption|right]
+> ![[K.1.8.29.png]] 
+> Kiara gets to know Akira.
+
+As Kiara continued to settle into life on her own, she began to explore more of the town around her, eventually visiting [[South Square Coffee]]. The barista behind the counter, [[Akira Kibo]], had a rousing discussion with Kiara and ended up giving her his number, which sent Kiara spiraling, as she struggled to understand why he'd do such a thing. After discussing him with her friends, Kiara learned about Akira's past and even got Luna and her brother [[Hugo Villareal|Hugo]]'s blessing to date him, as they were at one point Akira's family. Despite all the discussion and encouragement from her friends, Kiara remained in denial about her growing feelings for him.
+
+Things shifted for Kiara when Lyric told her that Antonio had asked her and his own personal servant, [[Ivailo Rodrigues|Ivailo]], to keep tabs on her and, more recently, Akira if his relationship with Kiara progressed further. Furious, Kiara chose to finally give in and arrange a date with Akira to piss Antonio off.
 
 ## Personality
 Kiara was raised with incredible privilege, and it shows. Much of what she does is in her own self-interest- from running away with [[Luna Villareal|Luna]], to leaving the [[Sanchez Mansion|mansion]], or even connecting her neighbors with her friends from her previous life. Her sheltered upbringing also led to a certain degree of obliviousness with her having a horrible understanding of how shops and restaurants work and how to avoid getting robbed. She also speaks incredibly formally and dresses like a princess.
@@ -72,7 +80,7 @@ Luckily, Kiara does have some degree of awareness of her privilege. She doesn't 
 | | | | | |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | <center><font size=2>The Sanchez Family<br><font size=3>**Appears**          | <center><font size=2>An Heiress' Duty<br><font size=3>**Appears**| <center><font size=2>The Villareals<br><font size=3>**Appears**| <center><font size=2>Choosing a Different Path<br><font size=3>**Appears**| <center><font size=2>Ordinary World, Ordinary People<br><font size=3>**Appears** |
-| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>**Appears** | <center><font size=2>Akira<br><font size=3>**Appears** |
+| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>**Appears** | <center><font size=2>Akira<br><font size=3>**Appears** |<center><font size=2>A Man's History<br><font size=3>**Appears**  |<center><font size=2>Lyric’s Warning<br><font size=3>**Appears** | 
 
 #### Categories
 #Reborn_from_the_Ash_Characters #Sanchez_Family #Main_Characters #Generation_3_Characters

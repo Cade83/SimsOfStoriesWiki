@@ -27,7 +27,8 @@
 > |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Mai Legacy]] | 
-> | Appearance Count | 29 | 
+> | Other Appearances | [[Reborn from the Ash]] | 
+> | Appearance Count | 30 | 
 > | First Appearance | Mai Legacy *1.1 - A New Beginning*
 > | Final Appearance | Mai Legacy *1.31 - The End of a Generation*
 
@@ -142,6 +143,10 @@ While James originally ran away to escape expectations, he ended up achieving ev
 | <center><font size=2>Growing Flames<br><font size=3>**Appears**  | <center><font size=2>Grey Hairs<br><font size=3>**Appears** | <center><font size=2>The Third Generation<br><font size=3>**Appears** | <center><font size=2>A Feng Funeral<br><font size=3>**Appears** | <center><font size=2>Revenge of the Le Chiens<br><font size=3>**Appears** |
 | <center><font size=2>Oasis Springs<br><font size=3>**Appears**  | <center><font size=2>The Sister<br><font size=3>**Appears** | <center><font size=2>Memorial<br><font size=3>**Appears** | <center><font size=2>The Power of Words<br><font size=3>**Appears**| <center><font size=2>A Life Changing Decision<br><font size=3>***Mentioned*** |
 | <center><font size=2>The End of a Generation<br><font size=3>**Appears**  |
+
+#### Cameo Appearances
+###### [[Reborn from the Ash]] Chapter 1: Ties Stronger than Blood
+- 1.9 - A Man's History
 
 #### Categories
 #Mai_Legacy_Characters #Mai_Family #Main_Characters #Generation_2_Characters

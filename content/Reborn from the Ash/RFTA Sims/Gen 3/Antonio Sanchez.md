@@ -26,7 +26,7 @@
 > |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
-> | Appearance Count | 8 | 
+> | Appearance Count | 10 | 
 > | First Appearance | Reborn from the Ash *1.1 - The Sanchez Family*
 
 **Antonio Sanchez** is a character from he first chapter of [[Reborn from the Ash]].  He's the husband of [[Jacqueline Sanchez|Jacqueline]], the father of [[Kiara Sanchez|Kiara]], and singlehandedly brought about the family's fortune.
@@ -62,7 +62,7 @@ Despite his apparent unapproachability, Antonio has a great deal of love for [[J
 | ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
 | <center>[![[Jacqueline Portrait Gen 3.png]]](<Jacqueline Sanchez>)<br>[[Jacqueline Sanchez]]| <center>[![[Kiara Portrait Gen 3.png]]](<Kiara Sanchez>)<br>[[Kiara Sanchez]]| <center>[![[Ivailo Portrait Gen 3.png]]](<Ivailo Rodrigues.md>)<br>[[Ivailo Rodrigues]]| <center>[![[Hugo Portrait Gen 3.png]]](<Hugo Villareal.md>)<br>[[Hugo Villareal]]|
 | <center>[![[Jacques Portrait Gen 2.png]]](<Jacques Villareal>)<br>[[Jacques Villareal]]| <center>[![[Lyric Portrait Gen 3.png]]](<Lyric Jarrel>)<br>[[Lyric Jarrel]]| <center>[![[Max Portrait Gen 3.png]]](<Max Villareal.md>)<br>[[Max Villareal]]| <center>[![[Morgan Portrait Gen 3.png]]](<Morgan Fyres>)<br>[[Morgan Fyres]]|
-| <center>[![[Jinelle Portrait Gen 3.png]]](<Jinelle Foster>)<br>[[Jinelle Foster]]|
+| <center>[![[Ulrike Portrait Gen 2.png]]](<Ulrike Faust.md>)<br>[[Ulrike Faust]]| <center>[![[Jinelle Portrait Gen 3.png]]](<Jinelle Foster>)<br>[[Jinelle Foster]]|
 
 ## Appearances
 ##### [[Reborn from the Ash]]
@@ -70,7 +70,7 @@ Despite his apparent unapproachability, Antonio has a great deal of love for [[J
 | | | | | |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | <center><font size=2>The Sanchez Family<br><font size=3>**Appears**          | <center><font size=2>An Heiress' Duty<br><font size=3>**Appears**| <center><font size=2>The Villareals<br><font size=3>**Appears**| <center><font size=2>Choosing a Different Path<br><font size=3>**Appears**| <center><font size=2>Ordinary World, Ordinary People<br><font size=3>**Appears** |
-| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>**Appears** | <center><font size=2>Akira<br><font size=3>**Appears** |
+| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>**Appears** | <center><font size=2>Akira<br><font size=3>**Appears** |<center><font size=2>A Man's History<br><font size=3>**Appears**  |<center><font size=2>Lyric’s Warning<br><font size=3>**Appears** | 
 
 #### Categories
-#Reborn_from_the_Ash_Characters #Sanchez_Family #Main_Characters #Antagonistic_Characters #Generation_3_Characters 
+#Reborn_from_the_Ash_Characters #Sanchez_Family #Main_Characters #Antagonistic_Characters #Generation_2_Characters #Generation_3_Characters 

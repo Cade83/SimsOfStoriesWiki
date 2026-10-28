@@ -26,7 +26,7 @@
 > |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
-> | Appearance Count | 6 | 
+> | Appearance Count | 8 | 
 > | First Appearance | Reborn from the Ash *1.1 - The Sanchez Family*
 
 **Jacqueline Sanchez** is a character from the first chapter of [[Reborn from the Ash]].  She's married to [[Antonio Sanchez|Antonio]] and is the mother of [[Kiara Sanchez|Kiara]].
@@ -56,7 +56,7 @@ When Kiara announced that she was moving out at a family dinner, Jacqueline was 
 > ![[K.1.8.38.png]] 
 > Jacqueline tells Jinelle to keep what Josh told them secret.
 
-The first suitor Jacqueline and Antonio identified was an architect named [[Josh Marks]]. They informed him of what they wanted out of him, then Jacqueline and Jinelle handled his makeover. In discussions with Josh, Jacqueline discovered that Antonio was doing a lot more behind her back by involving the [[Renegades]]. Furious, she instructed Jinelle to keep the fact that she knew the truth secret.
+The first suitor Jacqueline and Antonio identified was an architect named [[Josh Marks]]. They informed him of what they wanted out of him, then Jacqueline and Jinelle handled his makeover. In discussions with Josh, Jacqueline discovered that Antonio was doing a lot more behind her back by involving the [[Renegades]]. Furious, she instructed Jinelle to keep the fact that she knew the truth secret and try to get whatever information she could out of Josh for her.
 
 ## Personality
 Jacqueline has a taste for the finer things in life. She wears exclusively designer, hired one of the most renowned interior designers to do her wing of the mansion with the most expensive furniture on the market, and refuses to wear the same outfit more than once. As a [[Windenburg]] socialite, Jacqueline regularly hosts lavish parties and is the most public facing member of her family, typically being the one to talk to press.
@@ -75,7 +75,7 @@ Jacqueline loves both [[Antonio Sanchez|Antonio]] and [[Kiara Sanchez|Kiara]] de
 | | | | | |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | <center><font size=2>The Sanchez Family<br><font size=3>**Appears**          | <center><font size=2>An Heiress' Duty<br><font size=3>**Appears**| <center><font size=2>The Villareals<br><font size=3>**Appears**| <center><font size=2>Choosing a Different Path<br><font size=3>***Mentioned***| <center><font size=2>Ordinary World, Ordinary People<br><font size=3>**Appears** |
-| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>***Mentioned***| <center><font size=2>Akira<br><font size=3>**Appears**|
+| <center><font size=2>Jacqueline's Visit<br><font size=3>**Appears** | <center><font size=2>The Renegades<br><font size=3>***Mentioned***| <center><font size=2>Akira<br><font size=3>**Appears**|<center><font size=2>A Man's History<br><font size=3>**Appears**  |<center><font size=2>Lyric’s Warning<br><font size=3>**Appears** | 
 
 #### Categories
-#Reborn_from_the_Ash_Characters #Sanchez_Family #Main_Characters #Antagonistic_Characters #Generation_3_Characters 
+#Reborn_from_the_Ash_Characters #Sanchez_Family #Main_Characters #Antagonistic_Characters #Generation_2_Characters #Generation_3_Characters 

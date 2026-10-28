@@ -38,7 +38,7 @@ As the Renegades became increasingly unwelcome in public spaces, Max transformed
 
 When [[Kiara Sanchez]] left home, her father, [[Antonio Sanchez|Antonio]] contacted the Renegades with a job opportunity that would become many if their first job went well. He wanted them to ensure that [[Josh Marks]] agreed to meet with him and his wife [[Jacqueline Sanchez|Jacqueline]] through any means necessary. Max secured incredible pay for each of them, then they got to work.
 
-## Known Members
+## Members
 - [[Max Villareal]] - The leader and founder of the Renegades. He hosts their meetings and funds their activities.
 - [[Ulrike Faust]] - An art dealer, she is the first person Max connected with. 
 - [[Morgan Fyres]] - An ambitious girl who has aims on Max.

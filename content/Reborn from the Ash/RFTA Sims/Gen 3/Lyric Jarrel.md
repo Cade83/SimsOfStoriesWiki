@@ -24,7 +24,7 @@
 > |  |  | 
 > | ---- | ---- | 
 > | Primary Story | [[Reborn from the Ash]] | 
-> | Appearance Count | 6 | 
+> | Appearance Count | 8 | 
 > | First Appearance | Reborn from the Ash *1.2 - An Heiress's Duty*
 
 **Lyric Jarrel** is a character in the first chapter of [[Reborn from the Ash]]. She's a bodyguard employed by the Sanchez Family, and is the personal servant to and close confidant of [[Kiara Sanchez]].
@@ -44,10 +44,16 @@ Kiara never had much for Lyric to do, so Lyric often defaulted to doing things f
 
 Eventually, their closeness culminated in a rant from Kiara that Lyric has never expected- one where she acknowledged her privilege. When asked if she should run away from her cushy life, all Lyric could suggest was to do what would make her the happiest. Kiara chose to leave the Sanchez Mansion, which resulted in a new mission from Antonio- keep an eye on Kiara, switching out with Ivailo when needed, which would also ensure that her reports were accurate.
 
+> [!caption|left]
+> ![[K.1.10.45.png]] 
+> Lyric tells Kiara about what Antonio has her doing.
+
+Lyric did her duty faithfully, choosing to carry it out by spending plenty of time with Kiara as a friend and only following her secretly when absolutely necessary. In her reports to Antonio, she was sure to emphasize that Kiara was finding her way in life and flourishing as her own individual. Regardless, Lyric felt a growing guilt deceving Kiara and eventually broke down and had to pull her aside and tell her. Lyric mentioning that Antonio was considering keeping tabs on [[Akira Kibo]], a new guy Kiara was talking to, enraged Kiara and she chose to go on a date with him purely to piss Antonio off. 
+
 ## Personality
 Lyric is an incredibly level-headed woman, able to handle tasks of all kinds and endure less than pleasant situations as long as she feels well compensated. She's able to handle [[Kiara Sanchez|Kiara]], who regularly vented to her about anything on her mind when she lived in the [[Sanchez Mansion]], to the intense [[Antonio Sanchez|Antonio]], who demands unquestioning loyalty and dedication to any task given out. The only person who's able to knock her off guard is [[Ivailo Rodrigues|Ivailo]], who Lyric dislikes greatly.
 
-Over her time with the Sanchez family, Lyric developed a closeness to Kiara, coming to see her as much more than the person she was serving. Antonio's demands to keep watch on her and report back was the first real conflict of interest she felt in her line of work, but in the end, she kept her head down and did as required.
+Over her time with the Sanchez family, Lyric developed a closeness to Kiara, coming to see her as much more than the person she was serving. Antonio's demands to keep watch on her and report back was the first real conflict of interest she felt in her line of work, but in the end, she, for a while, kept her head down and did as required, trying her best to paint her favorably, as at least she could benefit Kiara that way. It ultimately wasn't something that sat right with Lyric and she had to admit the truth to Kiara.
 
 ## Relationships
 | | | | | 
@@ -61,7 +67,7 @@ Over her time with the Sanchez family, Lyric developed a closeness to Kiara, com
 | | | | | |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | <center><font size=2>The Sanchez Family<br><font size=3>Cameo | <center><font size=2>An Heiress' Duty<br><font size=3>**Appears**| <center><font size=2>The Villareals<br><font size=3>**Appears**| <center><font size=2>Choosing a Different Path<br><font size=3>**Appears**| <center><font size=2>Ordinary World, Ordinary People<br><font size=3>**Appears**|
-| <center><font size=2>Jacqueline's Visit<br><font size=3>***Mentioned*** | <center><font size=2>The Renegades<br><font size=3>**Appears** | <center><font size=2>Akira<br><font size=3>***Mentioned***|
+| <center><font size=2>Jacqueline's Visit<br><font size=3>***Mentioned*** | <center><font size=2>The Renegades<br><font size=3>**Appears** | <center><font size=2>Akira<br><font size=3>***Mentioned***|<center><font size=2>A Man's History<br><font size=3>**Appears**  |<center><font size=2>Lyric’s Warning<br><font size=3>**Appears** | 
 
 #### Categories
 #Reborn_from_the_Ash_Characters #Main_Characters #Generation_3_Characters

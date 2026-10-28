@@ -28,7 +28,7 @@ The Willow Creek Courthouse played host to Case: Zoe vs. Zoe, the battle of righ
 <br style="clear:both; margin: 0; padding: 0" />
 
 ## Trivia
-- The was created by @niceboulder on the Sims 4 Gallery.
+- This building was created by @niceboulder on the Sims 4 Gallery.
 
 ## Appearances
 ##### [[Dreams of Fame]]
